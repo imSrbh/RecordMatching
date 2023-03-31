@@ -1,0 +1,2001 @@
+rec_id,given_name,surname,address_1,address_2,suburb,postcode,state,date_of_birth,soc_sec_id
+rec-1496-org,mitchell,green,wallaby place,delmar,cleveland,2119,sa,19560409.0,1804974
+rec-1213-org,taylor,hathaway,yuranigh court,brentwood vlge,,4220,nsw,19991207.0,9144092
+rec-193-org,toby,webb,kent street,kersey' south,towradgi,3107,nsw,19940503.0,1232838
+rec-729-org,andrew,klander,newman morris circuit,the willows,homebush,2285,vic,19761017.0,5392569
+rec-1688-org,kasey,millar,burdekin avenue,crown allot,woollahra,4217,qld,19930714.0,7442486
+rec-462-org,jacqueline,daykin,mackie crescent,logan central plaza,pottsville beach,2213,qld,19510605.0,1615186
+rec-1626-org,amelia,benger,macalister crescent,,sippy downs,4110,nsw,19420909.0,8671640
+rec-1224-org,lily,thorpe,rivett place,thurlgona,mount gravatt,6104,wa,19310318.0,9216585
+rec-1723-org,joshua,linnell,lambrigg street,craigie lea garden,balwyn north,3185,qld,19480511.0,7096343
+rec-182-org,sophie,grubb,furphy place,mid city centre,cottles bridge,5091,qld,19230322.0,3779522
+rec-1781-org,john,slywka,gowrie court,boxwood vale,north ward,6014,tas,19590803.0,5011995
+rec-1614-org,alexandra,robson,brunswick circuit,keith payne hstl,mount sophia,5024,nsw,19470726.0,5974014
+rec-885-org,stella,chandler,ebden street,rosetta village,coffs harbour,6304,vic,19741215.0,8164610
+rec-208-org,lauren,bradshaw,ashcroft crescent,upa cottages,stirling north,2198,vic,19301022.0,1926163
+rec-799-org,sophie,nicolle,garling street,spring creek,kotara,4740,nt,19111001.0,7492384
+rec-1128-org,jack,stubbs,heard street,summerset,st agnes,5344,qld,19890526.0,1690126
+rec-1992-org,laura,ryan,officer crescent,craigie-lea,orange,2289,vic,19120402.0,4198979
+rec-501-org,mikhayla,campbell,baynton street,st francis vlge,notting hill,4350,qld,19280711.0,9484120
+rec-408-org,riley,gloster,farrer place,,frankston,3178,nsw,19590124.0,2526809
+rec-929-org,corey,condo,andamooka street,coolinda,hillston,2026,nsw,19900616.0,4204990
+rec-1489-org,emiily,berry,tenison-woods circuit,,ashfield,6169,nsw,19780527.0,6459366
+rec-15-org,liam,tuttleby,verco street,rose-lea,trevallyn,2259,qld,19080101.0,4376020
+rec-1355-org,melissa,lanzotti,balfour crescent,killara lodge,cranbourne,2064,vic,19810828.0,7433231
+rec-305-org,aleisha,mcelwee,osburn drive,parraweena,condell park,5237,act,19440525.0,2532051
+rec-152-org,amber,blackwell,thomson street,,salisbury,3188,nsw,19860325.0,5701396
+rec-717-org,jamie,van galen,callister crescent,mowbray,hackham,3060,nsw,19720909.0,3179404
+rec-618-org,isabella,hendricks,colborne place,dog rock shopping centre,north ryde,2000,nsw,19770129.0,9899655
+rec-1509-org,lucas,benger,cunningham street,padicam,melton south,2232,nsw,19851030.0,5458466
+rec-1368-org,harrison,doman,harry hopman circuit,moline village,toowong,2088,sa,19570519.0,1542335
+rec-794-org,sarah,behnke,pearson street,broombie stud,ramornie,2209,vic,19930910.0,8625215
+rec-568-org,tate,hingston,oxley street,wylarah,kurri kurri,5045,nsw,19680521.0,1954716
+rec-1333-org,charlotte,bovill,vickery street,cashbar,scarborough,3911,vic,19730412.0,5083623
+rec-368-org,emma,matthews,vanzetti crescent,sunny brees,moorabbin,5158,qld,19910426.0,1091439
+rec-666-org,sophie,nguyen,namoi place,,mount colah,2550,nsw,19701117.0,2122377
+rec-1878-org,blade,stingle,earle place,upper warrell,kellyville,5046,,19220925.0,6748586
+rec-1794-org,harrison,matthiessen,harbison crescent,oakdale,port kembla,2619,wa,19580430.0,4684373
+rec-1685-org,jayden,liberts,odern place,peppertree,corryong,2614,qld,19341218.0,5242447
+rec-1706-org,ashleigh,quilliam,bedford street,rosall,surrey hills,6525,nsw,19460730.0,6408479
+rec-1953-org,joel,ryan,lance hill avenue,cameroo,forest hill,3070,nsw,19720615.0,7563426
+rec-115-org,danjel,vincent,forbes street,villa 3,toukley,3178,qld,19510703.0,8506548
+rec-1068-org,jasper,jennion,fitzhardinge crescent,lords house,glenside,4034,nsw,19720414.0,5825359
+rec-224-org,sophie,laundy,la perouse street,k mart plaza,eight mile plains,3981,vic,19021029.0,8888208
+rec-1511-org,ayla,benjamin,bradfield street,concept,tatura,2030,wa,,4452328
+rec-1387-org,,kempton,homburg street,yellow dam,blacktown,3122,vic,19021108.0,8283089
+rec-1093-org,dylan,wilkins,denovan circuit,two tree hill,brighton-le-sands,2320,nsw,,8735875
+rec-1518-org,sienna,slape,rene street,,burleigh waters,4034,vic,19400331.0,7340083
+rec-718-org,madison,maynard,holmes crescent,glenview,embleton,2154,nsw,19400506.0,3031454
+rec-285-org,byron,wisowaty,pera place,john flynn medical centre,caulfield,6101,,19320304.0,8901022
+rec-1590-org,jack,mcneeley,keverstone circuit,royal queensland yacht squadron,brighton-le-sands,4702,wa,19880329.0,1834993
+rec-1996-org,grace,timmermans,cussen street,hallsville,preston,2251,wa,19501207.0,6702521
+rec-1183-org,isaac,clarke,armytage circuit,oaklands village,annangrove,3636,vic,19570425.0,9451125
+rec-1140-org,lara,chandler,dempster place,henry kendall bayside,kingaroy,2219,nsw,19360624.0,3577228
+rec-571-org,oliver,cureton,drevermann street,burraminga,toronto,3149,qld,19920126.0,9218356
+rec-421-org,charlie,ebert,brewster place,summerdale medical centre,frankston,4570,vic,19711020.0,3939901
+rec-165-org,hayden,ngai,hinkler street,berajondo,nightcliff,2263,vic,19970624.0,2260097
+rec-1617-org,samuel,wasley,earle street,university shores,northbridge,2530,nsw,19461003.0,2561997
+rec-203-org,micaela,blackwell,lewin street,rosedina,dulwich hill,4103,nsw,19791204.0,7856388
+rec-961-org,callie,bullock,warramoo crescent,kanangra hstl,noble park,2650,tas,19351013.0,6636494
+rec-1610-org,sian,beelitz,ashkanasy crescent,miowera,sylvania,5042,nsw,19510904.0,3279804
+rec-1487-org,daniel,clarke,goldsborough close,,wilson,2206,wa,19630507.0,9886493
+rec-1446-org,riley,faull,turner place,margaret river carvn park,long jetty,2033,nsw,19640728.0,8404785
+rec-118-org,riley,wegemer,phillip avenue,walhalla,cremorne,3937,wa,19540621.0,9657253
+rec-703-org,emiily,vodden,clement place,arcadia,st johns park,2170,nsw,19811218.0,9588930
+rec-1031-org,samantha,sabieray,quandong street,wattle brae,gorokan,4019,wa,19590807.0,2863290
+rec-13-org,harrison,paulka,bourne street,tally ho,ballina,3976,vic,19260122.0,4721250
+rec-299-org,toby,maczkowiack,kanooka street,carinya vlge,canley vale,3219,nsw,19000328.0,7799632
+rec-1442-org,ruby,jeffries,forbes street,underwood,st albans,4165,nsw,19490705.0,8939903
+rec-1729-org,eliza,white,summerland circuit,rsd shee oak ridge,thornlie,2345,qld,19420103.0,6353345
+rec-438-org,barnaby,egan,britten-jones drive,rawdon,kaleen,4304,vic,19270529.0,6442115
+rec-245-org,mackinley,rees,oman place,locn 2192,parmelia,3084,wa,19710708.0,5830377
+rec-1347-org,jessica,ryan,mccrae street,cherry haven,junortoun,6065,vic,19980225.0,4602238
+rec-306-org,danielle,morrison,london circuit,sec 552,bibra lake,4701,vic,19030709.0,8907802
+rec-1346-org,phoebe,pettman-south,kernot street,surfrider carvn park,ballina,3175,vic,19720328.0,9681847
+rec-361-org,millane,mccarthy,alfred hill drive,hold fast shores,mortlake,2032,wa,19630818.0,6220857
+rec-1177-org,,,amaroo wallaroo road,parkside flats,chester hill,4811,nsw,19250804.0,1323712
+rec-818-org,malakai,schoppe,boddington crescent,broadwater caravn park,trafalgar,2747,vic,19141221.0,9890346
+rec-1845-org,anastasia,kromwyk,dyson street,,talwood,4115,vic,,8198114
+rec-1334-org,jared,wytkin,belfield crescent,rowethorpe,bundaberg,5081,,19831025.0,2988806
+rec-1815-org,sophie,lovelock,calder crescent,,pitt town,3810,nsw,19470413.0,1321061
+rec-144-org,joshua,eyles,harcourt street,belmore river,underdale,2112,vic,19861219.0,1761692
+rec-853-org,alexandra,heron,tullaroop street,vinery,elsternwick,6208,nsw,19400609.0,9873657
+rec-1109-org,harrison,schumann,monaro crescent,donnelly rvr villg,oakleigh,2280,nsw,19991013.0,9551413
+rec-362-org,anika,spicer,melrose drive,rmbe 770,view bank,2067,nsw,19861012.0,1434508
+rec-1835-org,liam,kothe,beaurepaire crescent,,allawah,4570,qld,19740720.0,6657084
+rec-899-org,pia,campbell,euree street,ursula,corowa,3199,vic,19150704.0,7029505
+rec-550-org,lucinda,mcneill,ashburton circuit,malekula,vaucluse,3223,qld,19090228.0,4364711
+rec-1407-org,olivia,wheatley,crisp circuit,stanhope sth,lake clarendon,4575,qld,19421007.0,5051083
+rec-4-org,lachlan,goldsworthy,ashkanasy crescent,mcivor ridge,rowville,3158,vic,19450818.0,8577437
+rec-990-org,andrea,brokenshire,sturdee crescent,,birmingham gardens,2455,nsw,19450619.0,2381532
+rec-1570-org,jed,hearn,gairdner circuit,hd curramulka,alice springs,3056,qld,19060312.0,9442649
+rec-1799-org,joshua,morrison,beasley street,,tingalpa,5097,vic,19101123.0,1294692
+rec-750-org,olivia,philps,ennor crescent,yarawee,king river,2540,nsw,19770302.0,4412451
+rec-247-org,madison,fenwick,terry close,llandina,glenside,4551,sa,19210711.0,9717577
+rec-277-org,juliana,petersen,currong street,admiralty quays,glenside,5280,nsw,19610510.0,1726629
+rec-960-org,timothy,neville,fihelly street,villa 2,st lucia,3108,wa,19781123.0,1955388
+rec-108-org,madison,boxhall,yanda street,kookaburra village,dapto,4703,sa,19170926.0,7262746
+rec-1390-org,erin,birchby,burrowes place,elston,creswick,4721,vic,19461022.0,7298611
+rec-1548-org,jack,brock,duhig place,,boyanup,2484,nsw,19800422.0,8460078
+rec-1452-org,hugo,walkington,oxley street,karoo,oak park,6026,nsw,19150227.0,8296721
+rec-1941-org,,whiteley,mcluckie crescent,kintrye,malvern east,4810,vic,19800908.0,2774642
+rec-1776-org,cameron,unyland,chewings street,underwood,broken hill,6109,qld,19980904.0,2071902
+rec-1399-org,danielle,millar,stanfield close,rosetta village,blackburn north,3102,qld,19991007.0,1611706
+rec-1577-org,charlotte,carbone,peppin place,,albury,4559,sa,19171126.0,4856046
+rec-250-org,keely,dixon,lacey place,briars meadows,barrington,5087,nsw,19380328.0,5477511
+rec-397-org,matthew,brookhouse,goodparla street,timdoolin,highett,2170,nsw,19101115.0,6804612
+rec-1425-org,,rundle,eaglemont retreat,laalgarths,prospect,6168,qld,19070103.0,7881088
+rec-1481-org,olivia,cecotti,dobell circuit,,cabramatta,6152,vic,19580919.0,6701777
+rec-1050-org,jenna,pasalic,tarana street,mallanganee,osborne,4342,vic,19541124.0,7730932
+rec-905-org,kylie,koziol,wolff crescent,brentwood vlge,kurrajong heights,3135,vic,19320709.0,9336502
+rec-436-org,christopher,behnke,troughton street,,geranium,3496,qld,19080930.0,7045937
+rec-762-org,zarlia,lowe,van raalte place,hd blanche sec 28,cabramatta,3192,wa,19730726.0,2720933
+rec-111-org,jasmine,morrison,methven place,armidale,point lonsdale,3211,wa,19760810.0,1195414
+rec-686-org,toby,garran,mcguiness place,the tops,miami,3125,qld,19520817.0,8221456
+rec-1069-org,connor,moerland,arthur circle,red cross units,greenwood,2680,wa,19351222.0,6169516
+rec-302-org,amber,white,moodie street,degafelga,eaton,2042,nsw,19120819.0,2839026
+rec-704-org,jaxin,helling,donald place,the mount,riverhills,4214,vic,19141026.0,3066240
+rec-1641-org,benjamin,presley,namatjira drive,guest village (cnr bullcreek d drive,sunnybank,2320,wa,19831208.0,5671732
+rec-292-org,keziah,parr,clift crescent,brookvale,murphys creek,2761,nsw,19550103.0,3697304
+rec-268-org,kyle,malin,namadgi circuit,old hillside,mooroolbark,3912,wa,19091113.0,3977557
+rec-888-org,oliver,campbell,moon place,,thornbury,4103,vic,19681119.0,8352510
+rec-611-org,joshua,clarke,kingsford smith drive,,taigum,6108,vic,19961109.0,1596405
+rec-1646-org,grace,futcher,burt street,clear creek,mentone,6023,nsw,19361127.0,2331344
+rec-527-org,lucy,shelley,longstaff street,agarabi,dover heights,4152,nsw,19100324.0,4322420
+rec-1589-org,jake,burnell,bennelong crescent,greta main,ivanhoe,5066,nsw,19170529.0,9639692
+rec-1537-org,chloe,woodmansee,gollan street,ettrick,renown park,4066,nsw,19181016.0,7475748
+rec-1320-org,amber,kexel,daintree crescent,,new farm,4061,vic,,9952722
+rec-1940-org,emiily,leslie,medley street,tamar arcade,athelstone,4380,sa,19900328.0,5816513
+rec-1988-org,george,riddell,knoke avenue,bonnie doon,manly vale,4405,sa,19360413.0,2523840
+rec-634-org,hannah,bullock,mcaulay place,wathonga,salt ash,810,vic,19671103.0,9343222
+rec-5-org,jackson,prestia,priddle street,mirilla,graceville,3012,qld,19260601.0,5613219
+rec-1492-org,eliza,tiffin,brawn place,unt 19a,northbridge,2017,vic,19131019.0,9311089
+rec-1308-org,samantha,barol,albermarle place,young retirement village,clayton,3199,sa,19920307.0,9185902
+rec-1076-org,sarah,green,kelleway avenue,allandale,marleston,6014,qld,19140908.0,6213427
+rec-52-org,charlotte,poyntz,heidelberg street,rainbow ridge,rose bay,2195,sa,19610502.0,4585131
+rec-830-org,zachary,rees,hicks street,ferndale,camira,3016,vic,19660116.0,8690395
+rec-142-org,trent,miles,ashby circuit,kilnacrott,come by chance,6239,nsw,19711119.0,1065749
+rec-1301-org,oliver,durnin,davies place,fairlane estate,paddington,2024,nsw,19380406.0,3903404
+rec-585-org,annabel,coleman,thesiger court,,punchbowl,4370,nsw,19621002.0,2453001
+rec-11-org,zac,crosswell,robertson street,,mount pleasant,3931,sa,19870929.0,5911092
+rec-894-org,silas,laundy,pogney place,cumkillenbar,berwick,2444,qld,19651115.0,4501441
+rec-1958-org,lily,lillie-hinrichs,balsillie crescent,brindabella specialist centre,budgong,6164,nsw,19920421.0,5168585
+rec-1942-org,meg,velzeboer,kosciusko avenue,homesite 3,labrador,3806,nsw,19690222.0,5490038
+rec-1978-org,eva,hand,clare dennis avenue,padgee,north st ives,4068,qld,19810622.0,9709613
+rec-1006-org,sam,bentham,narran street,lake chatsworth,westlake,2036,vic,,8928819
+rec-841-org,jett,ryan,hansen circuit,strathmore vineyard,armidale,2261,wa,19930310.0,6151421
+rec-319-org,,mccarthy,castleton crescent,north avenue,torquay,2035,nsw,19390515.0,4754971
+rec-868-org,jordan,stubbs,walker crescent,blue hills,closeburn,3350,wa,19110311.0,7090961
+rec-1159-org,alexandra,petersen,tindale street,oakdale,forrestfield,2287,vic,19320810.0,9411786
+rec-1430-org,charlotte,mazurek,towns crescent,arcadia,yagoona,2222,wa,19530128.0,6767692
+rec-1526-org,thomas,dolan,tewksbury circuit,earl haven,birkdale,3911,nsw,19210716.0,2014032
+rec-1553-org,bianca,havelberg,lavery place,summer hill,mackay north,4220,wa,19670523.0,1895447
+rec-291-org,oliver,pinny,groveland crescent,littledale,boondall,2565,nsw,19450830.0,6490321
+rec-1054-org,natalia,donaldson,studley street,ferngully,hawthorn,2207,vic,19610927.0,4846388
+rec-965-org,ciaran,nguyen,woollum street,moline village,berwick,6157,qld,19860814.0,9056035
+rec-1928-org,william,chandler,knox street,rowethorpe,bongaree,2147,qld,19190514.0,5929018
+rec-1398-org,corie,hyland,spowers circuit,,tweed heads,5084,vic,19570810.0,3236512
+rec-1783-org,stephanie,blackney,,mayfair,briar hill,3139,vic,19090220.0,9157975
+rec-70-org,mason,worsley,waratah street,st francis vlge,bull creek,3401,nsw,19660827.0,4225051
+rec-323-org,bethany,cochrane,scott street,the willows,pennant hills,3160,vic,19230122.0,9211271
+rec-1621-org,kyle,minards,beetaloo street,old post office,downer,3996,wa,19180430.0,9745200
+rec-1436-org,ryleh,laundy,robinson street,hgp,lake haven,6005,vic,19880308.0,9364898
+rec-1772-org,jarrod,clarke,guthridge crescent,lyra park,moama,3011,qld,19070418.0,3612563
+rec-627-org,andrew,langrehr,chippindall circuit,sleepy pines,caves beach,3125,nsw,19000129.0,8095334
+rec-1894-org,liam,shoben,sheehy street,part sect 231,kardinya,3182,qld,19220917.0,4177703
+rec-76-org,james,blake,barraclough crescent,homesite 3,nicholls,4215,vic,19820712.0,8720481
+rec-1771-org,sarah,large,reveley crescent,mountain view ret,bomaderry,3216,wa,19590207.0,5784875
+rec-952-org,john,banelis,sexton street,glenhurst,auburn,3140,vic,19981006.0,8328210
+rec-1216-org,alexandra,rohleder,kurrama close,albion grove,kilmore,4218,sa,19260609.0,4210279
+rec-1647-org,taliah,millar,mayfield hill street,the blackhut,willetton,2150,vic,19980429.0,5679277
+rec-230-org,emiily,brummer-archer,mackenzie street,sunbury,salisbury heights,2121,wa,19670203.0,5628066
+rec-687-org,zarran,weaver,ainsworth street,,wyoming,2441,tas,19161121.0,6514677
+rec-1297-org,emiily,green,brebner street,,bongaree,3340,vic,19380625.0,3643883
+rec-275-org,,stolz,dixson circuit,marella,parmelia,4655,vic,19630105.0,7233680
+rec-474-org,mikayla,lowe,gellibrand street,jeir park,vincentia,6152,nsw,19071218.0,2642175
+rec-887-org,seth,de bono,de lissa street,aldersyde estate,elsternwick,2280,vic,19340213.0,2768343
+rec-657-org,jazz,,hambidge crescent,the bight,angurugu,4170,vic,19390731.0,7164553
+rec-974-org,brigette,snoad,chandler street,on river,wangaratta,5690,nsw,19880703.0,5625214
+rec-125-org,silas,webb,jacka crescent,shopping centre,nambour,4306,vic,19580212.0,7373672
+rec-1255-org,erin,kerslake,daintree crescent,mountain view village,woy woy,2026,nsw,19910805.0,5753438
+rec-1144-org,alexander,mason,ellenborough street,flinders place,windsor,2320,wa,19360210.0,9589876
+rec-81-org,cooper,felten,masters place,amherst village,greensborough,2250,qld,19290422.0,3396780
+rec-744-org,talia,leong,mortimer lewis drive,westbury,annandale,2166,sa,19900603.0,2598651
+rec-1497-org,connor,hampton-smith,clancy street,kindilan,clare,2111,wa,19100907.0,5476174
+rec-1036-org,amber,held,lampard circuit,emerald garden,golden bay,2447,vic,19510806.0,3710651
+rec-1655-org,emma,papp-horvath,appel crescent,glen-moria,allambie,2222,nsw,19620713.0,5409983
+rec-1571-org,amy,allard,follett street,oakmont,penshurst,2121,vic,19931107.0,9211342
+rec-957-org,caitlin,gallirhir,lanley square,cashbar,rochedale south,2790,sa,19770108.0,3809831
+rec-432-org,andrew,gilbertson,anembo street,apt 312 the rock wall,nedlands,4702,nsw,19460513.0,1862712
+rec-393-org,madison,everett,,rosedale,elizabeth vale,2040,wa,19880202.0,7155522
+rec-1863-org,rosie,coleman,lyttleton crescent,cranbrook,plumpton,4610,nsw,19900221.0,1571899
+rec-338-org,jared,tiller,anthony rolfe street,ellerside,oatlands,2630,sa,19850318.0,1712834
+rec-1482-org,jayden,white,schwarz place,the swamp,lower templestowe,4650,nsw,19020807.0,5384541
+rec-981-org,benedict,coleman,summerville crescent,huntawyle,avondale heights,4560,wa,19380327.0,1480351
+rec-572-org,cassandra,leonardi,clarkson street,yandar ms 582,ringwood,2281,nsw,19030404.0,2485158
+rec-614-org,meg,lowry,elvire place,bowen park,kangaroo flat,4568,vic,19891025.0,2155627
+rec-1585-org,cameron,clarke,fihelly street,skerman chambers,,2100,nsw,19821218.0,1553578
+rec-524-org,xavier,david,mcluckie crescent,glenbrae,murdoch,3143,sa,19320323.0,8644609
+rec-1672-org,james,vincent,cumpston place,pacific palms caravn park,capertee,3350,nsw,19620905.0,3977077
+rec-570-org,louis,walpole,stretton crescent,kokoda hostel,campbelltown,5084,nsw,19160913.0,7894388
+rec-1562-org,finn,hope,mather street,pinewood,lakes entrance,5700,nsw,19190225.0,4390315
+rec-1287-org,ellorah,baillie,gascoyne circuit,,,2289,nsw,19640610.0,5488100
+rec-1801-org,harry,peachey,george street,wirreanda vlge,huonbrook,3194,sa,19760829.0,7814989
+rec-672-org,matthew,sunderland,max henry crescent,tigers hill,banks,4152,nsw,19190521.0,5343886
+rec-1797-org,michael,liersch,hallstrom circuit,lazy acres,northampton,4405,nsw,19360816.0,8185284
+rec-1949-org,harvey,shepherdson,lumholtz place,maranui,roleystone,6430,qld,19711002.0,3919359
+rec-344-org,molly,schumann,doonkuna street,scottsdale,cleveland,6066,sa,19961030.0,6211905
+rec-1373-org,katie,mort,macquarie street,sorrento,paradise waters,3130,nsw,19630728.0,2683980
+rec-329-org,lily,hoang,harpur street,robgill farm,camden,2444,wa,19621226.0,6810521
+rec-341-org,daniel,kluske,hawkesbury crescent,triton units,oakhurst,3175,nsw,19820727.0,7413438
+rec-1979-org,,hyland,carter crescent,river bend,lower templestowe,4014,sa,19401030.0,7995432
+rec-197-org,grace,morrison,quinlivan crescent,greengrove,caulfield north,4120,vic,19460909.0,3999669
+rec-723-org,jean-claude,white,noel ryan garden,bowillia court,glengowrie,7018,nsw,19400918.0,9764411
+rec-1948-org,natassia,blake,kathner street,watgania,batemans bay,7004,act,19000911.0,8022390
+rec-1281-org,liam,krasioukova,ebenezer street,ardrossan,malvern,4034,tas,19150503.0,3712942
+rec-1024-org,takeisha,freeborn,suttor street,the groves street,wentworth falls,4615,vic,19620206.0,8111362
+rec-1359-org,dean,hilton,mannheim street,riverbourne,devonport,2286,nsw,19450428.0,9281954
+rec-228-org,thomas,collier,glynn street,stonehenge,eden,2617,vic,19100919.0,4514118
+rec-1357-org,jordan,green,gamburra street,john flynn medical centre,eden hills,6055,nsw,,3646581
+rec-127-org,sophie,nguyen,belmore garden,palm lake resort,cooran,6083,qld,19960316.0,7719700
+rec-120-org,caitlin,quill,mount vernon drive,ulah,plumpton,2705,vic,19880519.0,9429371
+rec-83-org,freya,harslett,lilley street,spring creek,toormina,2615,tas,19950228.0,3045942
+rec-759-org,samuel,green,blackman crescent,rainbow downs,ormond,810,nsw,19020601.0,3852267
+rec-522-org,xavier,white,o'hagan street,willow wood,mill park,2232,vic,19900219.0,7199319
+rec-827-org,matilda,fokeas,wallaroo road,iron shoe lodge,wantirna,3028,nsw,19830104.0,4406459
+rec-1686-org,alexandra,ferris,gledden street,mount beevor,tatura,3658,nsw,19790807.0,7258596
+rec-1969-org,maliah,rickett,sinclair street,brumby's run,salisbury east,3070,nsw,19040824.0,3712385
+rec-1129-org,liam,campbell,solomon crescent,,bangor,3073,wa,19830411.0,1726945
+rec-514-org,blake,seppelt,dobell circuit,entry daniels s street,crookwell,3108,vic,19950923.0,5169804
+rec-1827-org,holly,lock,charteris crescent,arrow park,bateman,2151,vic,19830510.0,6133226
+rec-1004-org,tayla,green,kambalda crescent,ambervale,bonville,2905,vic,19310715.0,2230673
+rec-1388-org,nicola,collier,schaffer place,mt sturt,sheidow park,2089,nsw,19420623.0,8536431
+rec-1515-org,indiana,ryan,brimage place,dudley specialist medical centre,kangaroo flat,3193,nsw,19770224.0,8553719
+rec-505-org,samuel,stephenson,hirschfeld crescent,bandicoot ridge,north ryde,4425,vic,19970715.0,8717077
+rec-42-org,matilda,kovacic,hawker street,kilvinton village,kangaroo flat,2611,vic,19760510.0,2724779
+rec-1471-org,amy,fatale,diamond street,mount sandiman,eastwood,2060,vic,19210527.0,6704141
+rec-1616-org,joshua,,david street,,long jetty,6630,nsw,19410614.0,7166687
+rec-823-org,nicole,bridgeland,mctaggart crescent,moama,hamilton,6069,nsw,,6831450
+rec-1001-org,casey,pacey,officer crescent,ken hunter lodge,carlingford,6105,wa,19220930.0,1859104
+rec-1995-org,george,ferrar,ballumbir street,rich meadows,highgate,4558,nsw,19510224.0,8454781
+rec-1132-org,mitchell,waller,brewster place,osborne house,toowoomba,4740,sa,19371230.0,3773290
+rec-442-org,connor,bishop,mackinnon street,jarrah,aspley,6052,nsw,19200417.0,8870167
+rec-1298-org,tenille,swiggs,verbrugghen street,gallagher hse,artarmon,7300,qld,19730510.0,6436926
+rec-370-org,josephine,green,merv waite street,coaling,condell park,2750,vic,19510121.0,3172909
+rec-1009-org,alex,kranz,ogden close,aintree,kirribilli,5290,vic,19951022.0,8620763
+rec-1692-org,sean,shepherd,beazley crescent,tintagel,broadford,4067,act,19561005.0,2726910
+rec-1027-org,nathan,smallacombe,guthridge crescent,red cross units,sandy bay,6056,sa,19241223.0,7522263
+rec-1457-org,karli,millar,bonney street,st francis vlge,preston,4814,vic,19730813.0,3731194
+rec-1873-org,samuel,rosa,parsons street,wyuna,mittagong,2551,nsw,19560724.0,9531130
+rec-434-org,connor,moody,ballumbir street,pontresina,wallsend,3243,sa,19841213.0,2509729
+rec-481-org,edward,daloia,geeves court,john flynn medical centre,frankston,2146,vic,19260410.0,9952484
+rec-833-org,william,furness,dexter street,strenarea,westmeadows,4568,sa,19021005.0,6115098
+rec-1365-org,solomon,abourjeili,ellerston avenue,southern cross,attwood,3044,vic,19551019.0,8381808
+rec-1632-org,sam,stephenson,geeves court,mossburn,logan reserve,4160,qld,19300207.0,7577085
+rec-1824-org,nathan,coffey,chipperfield circuit,larnach,jan juc,4152,sa,19661029.0,6450962
+rec-1707-org,,gillard,matina street,sun city resort,ascot park,4107,wa,19760203.0,9419843
+rec-716-org,kira,terend,barada crescent,,dulwich hill,2529,nsw,19250222.0,3054502
+rec-1588-org,blade,crossman,rocklands street,hazelwood garden,highton,3996,vic,19490414.0,4302040
+rec-1424-org,hannah,carbone,officer crescent,wellshot,blackmans bay,2227,vic,19090326.0,1948811
+rec-555-org,samuel,shepherd,nichols street,yarramac,moranbah,2659,qld,,7108333
+rec-812-org,jacob,tromp,jansz crescent,,palmerston,2528,vic,19900225.0,4952852
+rec-66-org,max,morrison,yanda street,arlington,moonta,2024,qld,19810825.0,6404764
+rec-1694-org,michael,wuchatsch,meehan garden,medical centre,dianella,4700,wa,19190110.0,1614304
+rec-707-org,amelia,struck,winser crescent,pangani,coffs harbour,2250,vic,19640311.0,7848066
+rec-232-org,jamie,maynard,sexton street,princetown cottage,yangebup,3025,nsw,19870814.0,9170338
+rec-720-org,wil,vincent,slessor crescent,tulliallan,mount isa,2067,nsw,19570306.0,7747820
+rec-801-org,briony,dunstone,badham street,attunga orchard,macquarie fields,3190,wa,19340729.0,7461019
+rec-309-org,joe,passmore,sullivan crescent,homestead caravn park,mullewa,2502,nsw,19680729.0,1825863
+rec-1602-org,stephanie,white,tambo street,dunfield park,eight mile plains,3751,nsw,19460625.0,9261342
+rec-1114-org,dante,campbell,scantlebury crescent,,rochester,3011,sa,19570319.0,7815398
+rec-1994-org,aidan,belperio,charlton crescent,openshaw,st clair,4508,nsw,19720503.0,1268692
+rec-114-org,lachlan,everett,owen dixon drive,lansdowne,yarrawonga,5290,nsw,19260926.0,3722526
+rec-259-org,paris,rudd,la perouse street,yellow dam,mirboo north,2452,wa,19471029.0,7004314
+rec-1279-org,jordan,white,yerra court,,leichhardt,2155,wa,19371126.0,3380323
+rec-631-org,marcus,reid,geils court,cambri vlge,naremburn,6020,nsw,19400624.0,3592731
+rec-1421-org,thomas,milburn,sheehy street,witsend,kilcoy,6153,sa,19080629.0,6861021
+rec-296-org,emiily,richmond,kalgoorlie crescent,peppertree,lilydale,3031,nsw,19590607.0,5444497
+rec-1123-org,oliver,pennell,hardman street,t int-sect garden,cranbourne,2830,nsw,19880825.0,9401054
+rec-1379-org,oliver,salt,mcmillan crescent,halls of residence monash university,coffs harbour,7310,qld,19311218.0,7369494
+rec-968-org,ryan,matthews,leist street,clarence chambers,torquay,3549,wa,19330505.0,6234085
+rec-623-org,callum,camens,latchford street,northwest medical centre,cloverdale,2481,tas,19810925.0,5181189
+rec-848-org,phoebe,berryman,badimara street,garden est,toronto,3146,qld,19241130.0,3676248
+rec-1251-org,chloe,crossman,shenton crescent,sec 209 clifton farm,south melbourne,2324,vic,19680424.0,5536009
+rec-116-org,carly,hage,tasmania circle,palm lake resort,queenscliff,2121,wa,19710623.0,3938642
+rec-547-org,thomas,pegg,bath place,fourways,irwin,3931,nsw,19980508.0,2265577
+rec-1784-org,matthew,humphreys,adamson crescent,villa 2,mannum,3942,nsw,19770818.0,9283013
+rec-861-org,natasha,rizzo,aspinall street,locn 105,stanhope gardens,2770,vic,19950211.0,3892183
+rec-1520-org,jack,morcom,schomburgk street,warrumbungle,villawood,3018,tas,19800912.0,9689848
+rec-440-org,connor,kang,castles place,glennhill,dunsborough,3228,vic,19630915.0,6049682
+rec-103-org,briony,koerbin,violet grover place,wybelanah,mill park,2446,nsw,19210210.0,3808808
+rec-1285-org,jordan,fostiak,dutton street,munmurra park,lower templestowe,2298,vic,19800425.0,6808199
+rec-914-org,joshua,shepherdson,tenison-woods circuit,boronia lodge,glen innes,5211,qld,19100930.0,8400597
+rec-802-org,jesse,bloomfield,allambee street,grandview,mitcham,5290,nsw,19150202.0,6350104
+rec-398-org,thomas,reid,booroondara street,locn 1025,pampas,2086,qld,19570305.0,8218296
+rec-276-org,tabitha,boschma,osborne place,port 124,taren point,3205,vic,19450311.0,9358031
+rec-326-org,jack,kubenk,dryandra street,ravensfield,mclaren vale,2106,vic,19860307.0,8987466
+rec-1648-org,bailee,dent,maddock place,jingara,nowra,4171,qld,19950112.0,4080299
+rec-1270-org,max,burman,minter place,mooresley,nunawading,7011,nsw,19940510.0,5401824
+rec-1014-org,michael,laverty,lenehan street,sennocke,suffolk park,2208,vic,19631213.0,9807797
+rec-280-org,,stubbs,jardine street,delmar,greenacre,3198,vic,19190221.0,5139556
+rec-684-org,ethan,pringle,o'connell street,canberra hse,urana,5108,tas,19510914.0,6472293
+rec-992-org,casey,dent,lubuma place,tressing fields,st ives,5171,vic,19210430.0,8293083
+rec-1825-org,william,mcclelland,sparkes close,opal cove resort,bowen mountain,6100,wa,19620103.0,1937435
+rec-373-org,joshua,harbottle,mainwaring rich circuit,uralgurral,belmont,5098,qld,19930324.0,2785166
+rec-901-org,beau,tongyode,dingo flats,tourist park,gray,3620,vic,19071010.0,8299710
+rec-533-org,zachary,owerko,bendigo street,maroubra beach,maclean,2756,vic,19470101.0,4914201
+rec-1870-org,shelbey,matthews,learmonth drive,dolphin arcade,sanctuary point,2289,nsw,19440419.0,3598907
+rec-849-org,tyler,morrison,captain cook crescent,warraberry,rowville,6056,qld,19840630.0,1518425
+rec-719-org,jassim,pasaricek,carron street,posetto,yunta,2210,sa,19861109.0,8613365
+rec-1806-org,chloe,lovelock,healy street,wandary hill,springvale south,2528,act,19370419.0,8539701
+rec-1549-org,luke,snelling,postle circuit,white lodge,penrith,2283,nsw,19310131.0,3695855
+rec-1714-org,joel,bishop,mcluckie crescent,allawah flats,branxton,2340,,19880214.0,5188002
+rec-1957-org,ella,cannell,mainwaring rich circuit,kincumber nautical vlge,asquith,4075,nsw,19570915.0,2076456
+rec-735-org,kelsy,ketelaars,eldershaw place,brindabella specialist centre,burrum heads,7249,qld,19200423.0,9930712
+rec-151-org,sonja,kleve,dallachy place,copely,keon park,4362,nsw,19880528.0,7042108
+rec-1737-org,george,blam,mcdonald street,burnside,mount eliza,6567,vic,19730806.0,3873535
+rec-105-org,joel,ejlak,eppalock street,brentwood vlge,taigum,2644,nsw,19351102.0,1021508
+rec-382-org,isabella,nguyen,wilshire street,erinsvale,rose bay,6207,vic,19760517.0,8693348
+rec-583-org,meg,fauser,bimbiang crescent,garden creek,labrador,4034,qld,,3103165
+rec-1374-org,bailey,dogg,atherton street,golden lea,orange,6014,vic,19470823.0,3660677
+rec-281-org,joshua,leppard,murranji street,villa 19,erindale,6057,vic,19490620.0,2307117
+rec-129-org,timothy,ebert,devonport street,mount patrick,somerset,6105,nsw,19450222.0,4573952
+rec-600-org,kyle,bizjak,ferrier place,yarrimbah,boyanup,3074,nsw,19701103.0,5773280
+rec-1944-org,izaac,quill,lexcen avenue,lochenfels,redbank plains,2731,wa,19600320.0,9582347
+rec-1600-org,tahlia,vacchiani,newland street,tahmoor,blackbutt,2304,qld,19041007.0,5476244
+rec-1959-org,jasmyn,seehusen,alfred hill drive,sun city resort,elwood,3496,vic,19440409.0,4444319
+rec-1174-org,benjamin,akkermans,macedon crescent,,regentville,4507,sa,19940816.0,6687966
+rec-1173-org,david,huddy,mina wylie crescent,,thornbury,3281,qld,19840327.0,3069553
+rec-64-org,tyler,statton,paul coe crescent,belgrave arcade,kingston,3179,vic,19701224.0,9336789
+rec-1331-org,benjamin,brock,rossarden street,north road,mosman,3953,qld,19601113.0,6718212
+rec-195-org,kirra,berry,davenport street,bryntirion,rylstone,4703,wa,19530221.0,1915716
+rec-774-org,jade,zimmermann,nepean place,holloway haven,scarborough,4573,nsw,19351222.0,8890859
+rec-924-org,lachlan,mcgregor,,ocean star villas,eastwood,2615,nsw,19051211.0,2003775
+rec-67-org,oscar,ferris,shore place,leisure living vlge,hamilton,3128,nt,19080521.0,3835190
+rec-1366-org,noah,campbell,pryor place,,montagu bay,4059,vic,19290211.0,5025398
+rec-604-org,joshua,beadle,williamson street,lignum,orange,3193,vic,19570308.0,1429771
+rec-1742-org,jemma,vincent,bangalay crescent,rivergum van park,wentworth falls,2572,sa,19480628.0,5700864
+rec-1459-org,kaela,webb,mehaffey crescent,palestine,surry hills,3194,nsw,,8660997
+rec-179-org,imogen,doody,byrnes place,,kilsyth,2176,tas,19220807.0,7959638
+rec-1341-org,liam,grubb,rowell place,argyle,kotara south,3002,qld,19660416.0,6643838
+rec-824-org,jake,grosser,lexcen avenue,horseshoe bend,bomaderry,2161,vic,19670227.0,8695287
+rec-651-org,riley,george,alice jackson crescent,jewells medical centre,athelstone,3912,,19901121.0,9927435
+rec-1904-org,cameron,bishop,chillagoe street,edith hall,numeralla,6152,sa,19290325.0,8928429
+rec-1862-org,indyana,stagoll,stockdale street,norfolk park,morwell,4101,qld,19951122.0,3143553
+rec-757-org,hugh,rusack,biddell place,kolora,carlingford,4744,nsw,19970623.0,7482555
+rec-87-org,alicia,webb,fisken crescent,,hurlstone park,2144,qld,19990527.0,9846267
+rec-1232-org,connor,rawlings,corin place,oxford,kuraby,4216,qld,19330925.0,2464828
+rec-1642-org,madeline,belling,jackie howe crescent,golambio cottage,picnic point,4053,nsw,19600218.0,8795054
+rec-1403-org,mikaela,white,anzac park,villa 5,blair athol,4557,vic,19811017.0,4853274
+rec-1271-org,jacob,marampon,lowanna street,glenveagh,keysborough,3806,vic,19820914.0,7380723
+rec-1156-org,tara,grossman,denovan circuit,greigs flat,eastern heights,2560,qld,19500910.0,2324149
+rec-1879-org,aloysius,jolly,morehead street,gleneira,scarborough,4078,qld,19170308.0,2866938
+rec-457-org,tyler,george,murrung crescent,elizabeth residential village,beaconsfield upper,5606,nsw,19870504.0,7345262
+rec-1037-org,connor,beckwith,heard street,,mill park,5031,nsw,19081103.0,2209091
+rec-507-org,james,orchard,carnall close,kooyong,ballina,3095,qld,19970331.0,7947155
+rec-460-org,bethany,glennon,davice place,,robinson,2502,nsw,19111117.0,9197460
+rec-551-org,ethan,stubbs,prichard circuit,garden creek,sefton,4207,vic,19390912.0,7508887
+rec-1268-org,sophie,samios,pridham street,calandra,cronulla,2580,wa,19591009.0,3827802
+rec-1218-org,kathleen,povey,ashburner street,rsde 668,revesby,2902,nsw,19710923.0,9885750
+rec-284-org,victoria,soden,ainslie avenue,wildefell,karridale,3130,sa,19870610.0,2663036
+rec-1499-org,breeanne,dibben,collicott circuit,berkley lodge,loganholme,2317,nsw,19241203.0,6261894
+rec-660-org,bianca,dixon,bingley crescent,baptist retirement,woodbridge,6021,wa,19921029.0,3197244
+rec-257-org,mitchell,corbin,magenta square,rsl building,goornong,6051,qld,19120407.0,6571360
+rec-743-org,aimee,fitzpatrick,rubbo crescent,kookaburra village,annandale,3150,nsw,19800311.0,8534023
+rec-1233-org,taylah,manson,withers place,broadwater caravn park,bunbury,2125,nsw,19220325.0,5517253
+rec-85-org,zane,wilkins,jervois street,cerbrus,coolaroo,6208,nsw,19471017.0,7918563
+rec-987-org,beau,mcdermid,london circuit,terawah station,clareville,3677,nsw,19630721.0,2005942
+rec-1473-org,jesse,tenant,baldwin drive,anzac house (cnr archer s street,mansfield,2500,nsw,19760607.0,9948416
+rec-482-org,lauren,frahn,solomon crescent,stoney creek,leichhardt,2570,vic,19180701.0,3134475
+rec-1838-org,,moody,mceachern crescent,bryntirion,cooma,2299,nsw,19731116.0,8269253
+rec-1950-org,cooper,boyle,degraves crescent,,adaminaby,2232,nsw,19901020.0,5310288
+rec-605-org,emiily,redmond,woodhouse place,wahronga,firle,2483,vic,19381023.0,3563291
+rec-470-org,james,quinzi,fawkner street,streanshalh,yass,3142,tas,19860208.0,9289559
+rec-480-org,aiden,ryan,gundulu place,honey patch,mosman,3076,wa,19360524.0,3804933
+rec-838-org,tynan,blacklow,annear place,nioka,rheola,4034,nsw,19690520.0,8046280
+rec-803-org,jacob,white,hacke place,belgrade park,bayview heights,2229,vic,19590228.0,8872631
+rec-1811-org,samuel,walls,shoalhaven avenue,clear creek,raceview,3223,nsw,19370409.0,4859969
+rec-1438-org,riley,lodge,chuculba crescent,yarramine park,lower templestowe,2199,vic,19580921.0,7498288
+rec-351-org,kirra,ryan,powers place,sawtell vet hosptl & clnc,barwon heads,4551,qld,19741118.0,8504134
+rec-140-org,nicholas,shepherd,jerrabomberra avenue,sec 1,altona north,3123,nsw,19441101.0,3789481
+rec-188-org,kyle,richmond,hammond close,oakdale,lindum,6110,sa,19420519.0,7435722
+rec-1204-org,joshua,nguyen,howie court,border park,seven hills,6163,sa,19730730.0,8078358
+rec-615-org,jayden,glass,warrego circuit,sec 202,frankston,6210,qld,19640219.0,6764035
+rec-246-org,macy,klemm,bonython street,,aitkenvale,2485,vic,19970312.0,7990048
+rec-1215-org,courtney,brain,bailey place,bandera,goovigen,7330,vic,19480711.0,7816261
+rec-1919-org,jared,jolly,macarthur avenue,nareen gardens hostel,floreat,2290,nsw,19281125.0,7406558
+rec-37-org,olivia,artis,marcus clarke street,lake road,mill park,3173,nsw,19190302.0,2211444
+rec-31-org,thomas,shaft,wattle street,tureevale,orford,3579,qld,19390822.0,1282782
+rec-1412-org,kyle,bullock,carnegie crescent,berri cottage hmes,westmeadows,3400,qld,19861006.0,2675703
+rec-737-org,amy,artis,jansz crescent,watchorns hill,brighton,4567,nsw,19391007.0,7212915
+rec-650-org,samantha,rachwal,stubbs crescent,rosetta village,myrtleford,5070,vic,19220601.0,5437912
+rec-661-org,sophie,quan,milari street,cascina,ripley,2060,vic,19600125.0,8214496
+rec-1041-org,tyler,froud,burramurra avenue,kmart p plaza,san remo,3670,sa,19800916.0,7812219
+rec-1895-org,holly,shepherd,stillwell place,elston,albion park rail,6210,vic,19800323.0,4620818
+rec-548-org,ellie,hoffman,captain cook crescent,dorothy lodge,carrara,2281,nsw,19151114.0,4882507
+rec-542-org,tyron,herbert,mackenzie street,scottish masonic village,shoalhaven heads,5069,vic,19131211.0,8358339
+rec-1522-org,matthew,webb,forbes street,kinnoul,rowville,5044,wa,19091203.0,3652823
+rec-835-org,jack,green,octy place,springbanks,ringwood north,3087,wa,19870222.0,5097391
+rec-1013-org,kasey,every,kinkead street,pineview farm,kurri kurri,2069,nsw,19400814.0,9893706
+rec-24-org,finley,vincent,galway place,pieracle,,2420,vic,19900423.0,9566651
+rec-390-org,max,campbell,axon street,wandana,vermont,4128,vic,19640314.0,5229727
+rec-416-org,luke,lowe,mofflin street,barwite,,2287,nsw,19400601.0,4960719
+rec-346-org,luke,goldsworthy,wheeler crescent,glenburn,ingleburn,6042,nsw,19760711.0,7624230
+rec-1231-org,emma,pollidorou,messenger street,hinton brook,bacchus marsh,2868,nsw,19710829.0,4644221
+rec-1026-org,xani,green,phillip avenue,abbey green,armidale,5108,nsw,19390410.0,9201057
+rec-1266-org,oliver,siviour,mcgowan street,omeo,brinkin,2642,qld,19730331.0,4617976
+rec-871-org,sana,ryan,magenta square,never-never lodge,jamboree heights,2065,vic,19210605.0,3868578
+rec-1567-org,tahni,reid,noarlunga crescent,bowan downs,batlow,2906,qld,19100130.0,6483683
+rec-461-org,lochlan,malor,albermarle place,ponderosa,woori yallock,5355,qld,19780720.0,7679335
+rec-1392-org,isabelle,soave,bonnor close,bayford cottage,wallan,2144,vic,19080327.0,6209100
+rec-919-org,grace,mason,henty street,,port macquarie,2370,tas,19200330.0,6370721
+rec-733-org,matthew,webb,napier close,,noble park,2079,nsw,19850108.0,9087171
+rec-1453-org,rosie,stanley,lowrie street,rowethorpe,albury,3194,nsw,19030424.0,5324210
+rec-1219-org,caitlin,couzens,kurundi place,abbey fields,sandhill,3043,nsw,19321204.0,5062974
+rec-123-org,stephanie,dinh,mackay crescent,bowan downs,kilsyth,2196,nsw,19700811.0,5229088
+rec-445-org,caitlin,cronshaw,sturdee crescent,,bundaberg,5290,vic,19741125.0,2415300
+rec-1671-org,olivia,shepherd,burnage place,rowethorpe,winston hills,3183,nsw,19320907.0,5731308
+rec-544-org,chelsea,rees,shumack street,flt 40,tongala,4300,wa,19550204.0,3457135
+rec-846-org,rourke,hoffman,ainslie avenue,rockleigh cottage,barooga,3018,vic,19391226.0,7810166
+rec-653-org,samantha,green,malindi place,harbison vlge,dromana,3131,wa,19200328.0,9704392
+rec-1639-org,lara,plovanic,marcus clarke street,pleasant acres,seven hills,4567,nsw,19020827.0,1438726
+rec-1125-org,mitchell,palachicky,adinda street,wiltona,st clair,3021,qld,19200502.0,1803053
+rec-668-org,imogen,braithwaite,rosman circuit,,nhill,7173,qld,19080131.0,9913172
+rec-1148-org,silas,noble,ainsworth street,yongala,clayton,2281,wa,19211208.0,6885608
+rec-923-org,carlin,dabinet,holden place,swinger hill,southern river,2730,sa,19550806.0,9757461
+rec-1673-org,maddison,green,knoke avenue,kimberley,mount eliza,4067,wa,19860821.0,8493896
+rec-495-org,troy,laing,tidbinbilla road,tourist park,huonville,2088,vic,19061028.0,5565222
+rec-1985-org,holly,shepherd,castlereagh crescent,dalkeith cottage,eaton,6060,vic,19980816.0,1917978
+rec-73-org,blake,aldous,yambina crescent,north dara,west perth,3805,nsw,19811017.0,2067414
+rec-725-org,victoria,pulford,summerville crescent,,black rock,2315,vic,19240707.0,6151307
+rec-633-org,william,pascoe,messenger street,browne's reef,coffs harbour,4670,nsw,19440720.0,6935665
+rec-137-org,emiily,morrison,jinka street,tillabudgery,st andrews,4812,vic,19431121.0,8314914
+rec-381-org,cooper,dandie,coates place,the manor garden,pakenham,6210,vic,19490201.0,7002450
+rec-1971-org,kylee,papageorgiou,bunton place,wyoming park,northbridge,2700,vic,19360919.0,7078377
+rec-769-org,madeline,gudelj,mailey retreat,brentwood vlge,north gregory,3030,qld,19881103.0,2928659
+rec-836-org,sachin,garcia,tanderra crescent,villa 2,geraldton,2705,sa,19320919.0,2886997
+rec-1002-org,xavier,matson,marchant circuit,rankin park,kellyville,2085,vic,19620202.0,6169819
+rec-200-org,danielle,rollins,kleinig street,killarney,the basin,4300,nsw,19550517.0,2790104
+rec-967-org,eliza,sherriff,a'beckett street,,emerald,4280,nsw,19471027.0,9700056
+rec-426-org,annabelle,weetra,firbank close,fronda,riverhills,2025,sa,19490420.0,4285598
+rec-146-org,lachlan,steinmetz,hodgson crescent,anzac house (cnr archer s street,smithfield plains,2500,tas,19560605.0,6790018
+rec-475-org,ella,burnell,adkinson close,leith,auburn,4558,qld,19360319.0,9860719
+rec-701-org,courtney,schuster,conigrave place,cuthberts court,echunga,4380,nsw,19801118.0,3652641
+rec-876-org,lachlan-john,rivers,perier place,oakdale,ringwood,4313,nsw,19960904.0,8718844
+rec-549-org,edward,millar,oster place,lockwood,somerton park,6509,vic,19390413.0,8066475
+rec-557-org,tara,pegg,edmondson street,crowden,kiara,2528,qld,19090425.0,5385357
+rec-909-org,amber,mckiernan,crommelin place,sec 487 moorooroo,port macquarie,2257,qld,19920907.0,7659996
+rec-41-org,brodee,brain,kitchener street,,ashgrove,6123,vic,19250623.0,3821503
+rec-233-org,alisha,myles,shumack street,greengrove,fadden,2835,qld,19540929.0,3291913
+rec-378-org,roy,royle,endeavour street,lake kennedy street,cowell,2580,nsw,19250529.0,3753041
+rec-1501-org,jasmin,bocchino,brickhill place,lake chatsworth,roxburgh park,6101,nsw,19860603.0,3223580
+rec-1643-org,joanna,dooley,cleeve place,warra-gan,bethania,2220,qld,19930513.0,4843681
+rec-210-org,lachlan,tebbutt,jim pike avenue,bendarra,lemon tree passage,3233,nsw,19680108.0,5276246
+rec-1336-org,brooklyn,rees,kingsmill street,willandra,cabramatta,2035,vic,19841205.0,9676405
+rec-541-org,joshua,belperio,castlereagh crescent,manor court,maryborough,7310,nsw,19061028.0,6447360
+rec-177-org,joshua,parr,,corcoran,bungwahl,6251,vic,19950525.0,7710315
+rec-334-org,natalia,nguyen,parer street,mayo specialist medical centre cnr comme,hawthorn,3021,wa,19670219.0,7662064
+rec-107-org,christopher,vilums,rene street,,crows nest,4754,sa,19851127.0,5181141
+rec-29-org,aidan,horsley,rosenthal street,wattle brae,irvingdale,3082,vic,19161004.0,9900834
+rec-755-org,reuben,edgecombe,ashburton circuit,north avenue,palmerston,4213,vic,19920512.0,8642119
+rec-1212-org,lucy,clarke,kriewaldt circuit,rosehill,torquay,3084,sa,,4309304
+rec-959-org,brooke,wyllie,rumker place,huntington,woodcroft,4655,nsw,19700409.0,4282147
+rec-1319-org,holly,benger,trenwith close,country house 5 milton park,east maitland,5540,,19480115.0,5142221
+rec-1937-org,hannah,reeh,badenoch crescent,kayannie,springwood,3019,nsw,19070725.0,6073191
+rec-450-org,kristen,redmond,chowne street,,christies beach,3802,nsw,19710416.0,7382810
+rec-1131-org,lauren,heenan,warland place,belbee,st clair,3630,sa,19490630.0,2210907
+rec-300-org,james,croker,aston crescent,loma langie,coober pedy,4305,nsw,19170923.0,9477785
+rec-264-org,harry,stubbs,mountain creek road,nuffield village,eaton,7310,vic,19721113.0,8317467
+rec-624-org,daniel,jardine,lanley square,,normanton,2580,act,19331130.0,1885743
+rec-995-org,lauren,noack,miago court,clisby farm,combara,6722,sa,19020919.0,2241605
+rec-1094-org,catherine,graue,maranboy street,walhalla,brookfield,2207,nsw,19070917.0,4424731
+rec-1986-org,jonah,thorpe,monkman street,wonga square,canley heights,5025,vic,19580420.0,6699959
+rec-850-org,wilson,mao,duterrau crescent,warrambucca garden,glenden,3232,wa,19171125.0,5984860
+rec-1221-org,matteus,hobson,oxley street,mountview,pitt town,2041,nsw,19151125.0,7931592
+rec-1747-org,alyssa,dixon,halford crescent,willandra,edgecliff,4101,nsw,19860103.0,3916772
+rec-497-org,alexandra,clarke,sadlier street,yakatoon,frankston,2756,qld,19190129.0,3045502
+rec-867-org,luke,stephenson,lomman place,marwara,booragul,820,vic,19851007.0,2640373
+rec-1755-org,samuel,marousakis,carrodus street,tulla burra,young,3400,wa,19441201.0,5839575
+rec-130-org,nicholas,hand,lansell circuit,kilberry,dareton,2088,vic,19141012.0,1335792
+rec-1536-org,april,shepherdson,oxley street,medical centre,warooka,4118,vic,19550216.0,5167601
+rec-1162-org,aiden,coleman,dumas street,brentwood vlge,carnegie,6210,vic,19510323.0,3457125
+rec-503-org,brooke,ryan,hodgson crescent,karalta park,sale,3055,nsw,19830207.0,6860717
+rec-543-org,flynn,weller,woollum street,allunga,surrey hills,2870,qld,19700106.0,9438862
+rec-499-org,blake,ebert,archibald street,eden park,stretton,2431,tas,19440107.0,4379369
+rec-1547-org,hannah,white,furphy place,the sandys,granville,4211,vic,19180122.0,9593475
+rec-294-org,andrew,gielen,hayward place,santa lucille,caulfield north,6450,vic,19441228.0,8670610
+rec-1-org,jonah,browne,bingley crescent,,pindimar,3182,nsw,19250413.0,8328406
+rec-948-org,jessica,baillie,custance street,tarcolla retirement village,tweed heads,4184,nsw,19281031.0,4053650
+rec-1670-org,benjamin,novak,port jackson circuit,sherwood,dapto,6163,nt,19010630.0,6037054
+rec-1428-org,zane,miles,millen street,valencia park,aspendale gardens,3133,nsw,19270730.0,2284718
+rec-1362-org,lily,clarke,torrens street,wal 53581,orange,2756,nsw,19460126.0,7261178
+rec-1960-org,isabella,white,beasley street,short st (cnr first ave) & albion park r,para hills,3149,sa,19380127.0,1518649
+rec-911-org,travis,stubbs,scardon street,st john of god hospital,calen,2156,nsw,19010228.0,5893718
+rec-1257-org,michael,grafton,prescott street,brastaggi,newcomb,3039,nsw,19221021.0,2437126
+rec-603-org,ebony,white,kay place,corinella,padstow,6007,wa,19450613.0,2538692
+rec-1767-org,nathan,allegretto,wanaga place,cranbrook,penguin,2200,nsw,19560506.0,2120045
+rec-23-org,,kidsley,disney court,ramano estate locn 1,labrador,2281,vic,19450301.0,2092869
+rec-596-org,jake,culph,doherty place,rosedale,sunny corner,5039,vic,19681226.0,2532945
+rec-647-org,brodie,oats,hugh mckay crescent,la villades pins,o'connor,3931,tas,19390421.0,9634430
+rec-25-org,alexandra,kiss,shellshear place,yambira,mclaren vale,2209,wa,19601231.0,4154698
+rec-1323-org,charles,mahon,gurubun close,iona downs,armidale,7210,nsw,19850928.0,5505345
+rec-724-org,nathan,morrison,peppin place,,eaglehawk,6172,qld,,5567390
+rec-698-org,bradley,bishop,newman morris circuit,shiloah,wickepin,2711,wa,19420604.0,2961043
+rec-1804-org,jack,browne,hartley street,macdonald downs station old homestead,st albans,3055,qld,19530825.0,8223201
+rec-534-org,jed,mcfadden,frencham place,wychwood,bongaree,810,vic,19610503.0,1096232
+rec-1749-org,kimberly,baillie,agnew street,,nicholls,3109,qld,19191108.0,2602138
+rec-1075-org,trey,white,needham place,mcivor house,lilydale,4810,qld,19740724.0,7008048
+rec-1907-org,kyle,pringle,carrodus street,wattle brae,labrador,3280,wa,19930218.0,3589735
+rec-1739-org,maddison,walch,leahy close,loxley hse mdcl centre,wynyard,4559,sa,19911221.0,4972239
+rec-44-org,wil,clarke,severne crescent,hazelwood garden,coodanup,5070,sa,19400516.0,4621214
+rec-384-org,sarsha,thorpe,macleay street,bega flats,torquay,3197,nsw,19200510.0,9195865
+rec-883-org,thomas,curthoys,lawrence crescent,,williamstown,3151,qld,19171213.0,1060104
+rec-1579-org,alec,mason,barrier street,sec 443 bellamour,park holme,2029,wa,19061024.0,5623275
+rec-738-org,rachel,byers,hilder street,berowra,palmerston,4740,nsw,19550530.0,6410415
+rec-1821-org,lauren,blaschke,eggleston crescent,marx hill street,bittern,4169,vic,19130618.0,7472975
+rec-1371-org,bayden,lamborn,capella crescent,wilga,currimundi,5098,vic,19701214.0,6030277
+rec-1510-org,luke,laurier,dryandra street,ruthven street,craigmore,4217,nsw,19171211.0,8542355
+rec-1439-org,lara,kinnane,spigl street,villa 5,swan hill,2829,nsw,19261001.0,6781465
+rec-860-org,connor,mayman,marengo place,wilga,toowoomba,2025,nsw,19651018.0,8203430
+rec-128-org,jack,clapham,hadleigh circuit,school residence,somerton park,2714,qld,19960523.0,1214270
+rec-964-org,jack,patafta,leahy close,red hills,sheldon,3134,vic,19400728.0,8570924
+rec-1583-org,jenna,tregoning,doyle terrace,airlie,bateman,5605,nt,19430925.0,7371715
+rec-1651-org,yasmin,morcom,amess place,domain prk,dromana,3289,qld,19760828.0,7776110
+rec-6-org,kayne,gillard,bursaria street,,leeton,2621,nsw,19340427.0,3871937
+rec-777-org,millie,chandler,woodgate street,yatcha,middleton beach,3525,nsw,19090413.0,9769153
+rec-1348-org,magnus,mazzone,ingham place,halfmoon station,,2285,nt,19650426.0,3684075
+rec-327-org,james,farnham,wanganeen avenue,marjidin,port broughton,2107,sa,19011012.0,3915581
+rec-78-org,nicholas,white,fortitude street,,st kilda east,2298,nt,19651025.0,8437365
+rec-1454-org,lochlan,grosser,yapunyah street,youralla,gingin,5276,nsw,19530210.0,5071722
+rec-1699-org,benjamin,foottit,macrobertson street,bowan brae,nunawading,4814,vic,19350513.0,9447822
+rec-396-org,emiily,petersen,traynor court,warraberry,stanmore,4122,vic,19180202.0,6202849
+rec-1920-org,ned,mason,brain street,weetabella,,2044,vic,19391219.0,8134652
+rec-211-org,elijah,bastiaans,zadow place,kyeema,south melbourne,3198,vic,19801211.0,1724003
+rec-978-org,samantha,westbrook,blamey crescent,,toowoomba,2173,qld,19800506.0,7854676
+rec-1367-org,rosa,matthews,jindivik place,corinda park,bellevue hill,3087,wa,19151228.0,3132742
+rec-254-org,amber,hoffman,haystack crescent,pinnacles caravn park,,2226,qld,19491028.0,8257097
+rec-449-org,lachlan,boxhall,newman morris circuit,ballyboy,annandale,2219,qld,19680923.0,1304613
+rec-1288-org,,weaver,plant road,,floreat,4700,vic,19140117.0,3887002
+rec-1864-org,katie,polowy,,,keysborough,5255,vic,19990516.0,7701614
+rec-1762-org,nicholas,boyle,wilkins street,cottesbrook,east sydney,3219,vic,19771011.0,1609171
+rec-1883-org,jonah,nguyen,dalley crescent,the palms village,kingaroy,2607,nsw,19591019.0,9550440
+rec-467-org,jessica,coleman,jerrabomberra avenue,plainbrook,boondall,6162,vic,19800418.0,1022326
+rec-1295-org,dante,white,pokana circuit,strauss,noble park,6170,vic,19210605.0,3590013
+rec-1921-org,xani,michelmore,blackwell circuit,downland stud,granville,2452,wa,19640808.0,8996076
+rec-1531-org,bethanie,roche,maxworthy street,rosedale,koongal,4210,qld,19641127.0,1011573
+rec-856-org,angus,stanley,lazar place,koobeja,flora hill,7008,qld,19971003.0,1076050
+rec-1264-org,olivia,berry,newman morris circuit,true rise,bonnet bay,6108,qld,,8074345
+rec-430-org,felicity,huxley,saunders street,,calista,3971,sa,,6912302
+rec-708-org,trent,brain,madigan street,,ekibin,3196,nsw,19700723.0,7357958
+rec-1718-org,georgia,nguyen,cullen street,balmoral garden,emu plains,4068,nsw,19401127.0,9581805
+rec-90-org,dylan,campbell,mackey place,cypress garden,tyalgum,2640,vic,19900718.0,4147733
+rec-1145-org,lachlan,campbell,officer crescent,rainbow downs,parramatta,6163,vic,19461129.0,2287322
+rec-342-org,owen,coxon,brindabella stn,norillee,byford,3165,qld,19370218.0,1040781
+rec-358-org,elli,mccarthy,druitt place,myalpa,penshurst,4551,nsw,19681114.0,7638218
+rec-1437-org,madeleine,green,weetman place,hopeview,orange,2125,vic,19911013.0,5184902
+rec-1133-org,erin,kyriacou,holmes crescent,ferncliff,horsley,2138,vic,19900510.0,5417288
+rec-1160-org,silas,edhouse,fincham crescent,gateway vlge caravn park,terrigal,2720,nsw,19460712.0,6281089
+rec-656-org,danielle,reid,kootara crescent,cave hill creek,wanniassa,4220,wa,19530118.0,3310083
+rec-775-org,diamond,bishop,mcbryde crescent,camara,valley view,2049,nsw,,1088643
+rec-1313-org,benjamin,larg,wilson street,suunybrae,belrose,2067,tas,19451103.0,9646332
+rec-1999-org,lucas,campbell,caldwell street,moriah,st kilda east,5016,nsw,19880726.0,8310648
+rec-1136-org,daniel,gibb,warragamba avenue,qbd bldg,ceduna,6065,vic,19070224.0,9071156
+rec-649-org,tiarna,stanley,fremantle drive,inveraray,killara,6285,act,19680130.0,5776556
+rec-1722-org,emiily,milburn,cuscaden crescent,danric lodge,albion park,6275,qld,19340317.0,3499772
+rec-1892-org,eboni,moscatt,sid barnes crescent,brambletye vinyard,kyabram,7249,tas,19050313.0,2993780
+rec-33-org,samuel,clarke,clint place,,corrimal,2594,nsw,19491205.0,1610220
+rec-1908-org,jamie,jugovac,rainbow place,springmount,paddington,2082,vic,19140722.0,5660630
+rec-1778-org,dylan,zilm,blamey crescent,condinup,wattle glen,4211,vic,19671229.0,4892613
+rec-1514-org,isabella,quilty,rubicon street,banksia village,kogarah,2440,tas,19400829.0,1676720
+rec-874-org,peta,mccarthy,barnett close,mostyn on the park,altona north,3188,nsw,19000314.0,6918773
+rec-1820-org,matthew,pavin,barlow street,wallaces ck,risdon park,2048,nsw,19781210.0,7578895
+rec-1486-org,emiily,grimm,dumas street,pleasant acres,balcatta,2010,qld,19861227.0,5295959
+rec-659-org,david,knapman,blamey crescent,mira monte,floraville,4103,wa,19631011.0,6091304
+rec-171-org,sophie,mason,may mills close,unt 1,craigmore,2261,nsw,19700207.0,1317086
+rec-1954-org,lily,cowell,parkhill street,legacy vlge,fig tree pocket,3171,qld,19401005.0,5831380
+rec-1402-org,emiily,webb,hurtle avenue,circle court,dapto,3216,qld,19080812.0,1480089
+rec-771-org,ned,lodge,karuah street,athlone,bundamba,2280,act,19510526.0,9020603
+rec-683-org,kasey,loehr,taroona place,trail view,cooma,3212,vic,19400105.0,8298067
+rec-1015-org,luke,browne,myles connell crescent,mirani,mount pleasant,3950,wa,19410418.0,4141703
+rec-1207-org,joshua,kennealy,bardolph street,garden est,killara,2500,wa,19880210.0,2571059
+rec-1361-org,sam,clarke,couchman crescent,rosetta village,echuca west,5043,vic,19640103.0,6444384
+rec-1545-org,joshua,praetz,hope street,railway cottage,orange,2500,tas,19810324.0,2725904
+rec-804-org,adriana,beadle,wakelin circuit,,werrington,4670,vic,19740613.0,1644235
+rec-1916-org,dylan,feast,banvard place,willandra,berkeley vale,4112,vic,19551020.0,8801693
+rec-751-org,michaela,gabbert,jandamarra street,goolwa cottage,rochedale south,4113,nsw,19800705.0,6966974
+rec-1606-org,jacob,campbell,beasley street,booroopki park rmb 596,inglewood,4419,nsw,19250802.0,4636616
+rec-945-org,heath,nicolle,bennelong crescent,,page,850,nsw,19510117.0,8094711
+rec-1938-org,zac,maynard,spowers circuit,clanville,nambour,3500,vic,19041015.0,8703080
+rec-198-org,ella,collinson,,bracken leigh,shelley,2870,vic,19830809.0,2204367
+rec-494-org,,chandler,,,greensborough,2017,vic,19900629.0,4596375
+rec-1178-org,julia,mrvelj,marr street,woodleigh,keilor east,2526,vic,19590309.0,6464949
+rec-1406-org,thomas,sariago,andrew crescent,tathra,auburn,3805,nsw,19921212.0,8352483
+rec-485-org,megan,campbell,eyre street,cypress garden,cardiff,2026,nsw,19630721.0,2580398
+rec-1926-org,fergus,browne,couchman crescent,arawang,st kilda east,6023,vic,19261011.0,2020656
+rec-1731-org,ethan,mappas,wanderer court,dolphin arcade,goonellabah,4055,vic,,8181519
+rec-447-org,william,rudd,blacklock close,,springvale south,4680,nsw,19260805.0,4968439
+rec-388-org,daniella,kropinyeri,sadlier street,mayfair,scarborough,4814,wa,19360715.0,9237540
+rec-1028-org,,eglinton,currie crescent,woorinyan,riverwood,3749,qld,19180205.0,9341716
+rec-597-org,jayde,clarke,thompson place,sheep station,campbelltown,4350,qld,19690610.0,5792613
+rec-752-org,alexander,liddy,gamban square,,ballina,5090,act,19420222.0,5733739
+rec-1352-org,dayna,noble,wyselaskie circuit,yallambee hostel,whitfield,6007,sa,19990908.0,2375673
+rec-212-org,kaitlin,fitzpatrick,tenison-woods circuit,navillus,corrimal east,2099,vic,19790109.0,4932458
+rec-1273-org,nacoya,white,blake place,st johnof god hospital,young,3228,nsw,19260826.0,3012061
+rec-1993-org,isabella,pulford,monaro highway,jarara,beaumaris,2615,nsw,19521225.0,6048503
+rec-1630-org,benjamin,,hattersley court,wintersloe,allambie heights,2480,wa,19040605.0,1601537
+rec-928-org,mia,tamasauskas,rollston street,riverview terraces,northbridge,6147,nsw,19371109.0,5670356
+rec-1939-org,samuel,dorsey,enid lorimer circuit,st clair park,seaforth,2260,wa,19991030.0,9013163
+rec-537-org,madalyn,gwatking,bourke street,banksia village,currambine,2164,qld,19950123.0,6483181
+rec-303-org,jake,madigan,,pangani,port pirie,2360,nsw,19110414.0,5751461
+rec-1645-org,amelia,bishop,a'beckett street,billamein,st albans,3130,sa,19610317.0,1977731
+rec-1364-org,demie,madigan,fawkner street,evergreen,bunyip,6076,sa,19940729.0,5071854
+rec-1451-org,jarvis,coleman,anderson street,ngere,north sydney,2486,nsw,19851226.0,3498401
+rec-1565-org,james,novak,gepp place,old post office,thornbury,3089,nsw,19030905.0,2945589
+rec-192-org,beau,rudd,andrews street,nerang caravan park,collinsvale,3172,vic,19590709.0,6951593
+rec-710-org,yasmin,white,hallen close,kings apmts,charlestown,2756,nsw,19260409.0,3971103
+rec-1445-org,lachlan,hersey,southern cross drive,teazles,frankston,2065,sa,19620521.0,8117786
+rec-699-org,kailey,musolino,threlfall street,transvaal,moggs creek,3113,qld,19250303.0,5763144
+rec-753-org,jessica,matthews,kirkland circuit,namarva station,petersham,4105,nsw,19310610.0,9740917
+rec-1164-org,bayley,wickel,rushbrook circuit,marloo caravn park,port elliot,2487,nsw,19890721.0,8338862
+rec-1153-org,matthew,jenei,dixon drive,warringa nebraska,cooma,6016,qld,19031029.0,3920810
+rec-84-org,meagan,mcphie,groom street,wonba,box hill south,4350,qld,19391002.0,7916971
+rec-1217-org,hannah,dixon,ferguson circuit,crown allotment,albury,7253,nsw,19130806.0,1605711
+rec-1350-org,isaac,mercorella,,kareela,gingin,2650,vic,19030105.0,3184718
+rec-1513-org,anita,brock,canaway place,rosetta village,mount warren park,2049,qld,19540610.0,4746605
+rec-890-org,harry,george,weetman place,southbidge,berrima,6233,nsw,19090420.0,9190538
+rec-1335-org,nicholas,cavanaugh,rodway street,canberra hse,cronulla,3130,wa,19560111.0,2181923
+rec-1803-org,emiily,louca,mackellar crescent,warrigunya,burleigh heads,2194,nsw,19321023.0,9973896
+rec-1089-org,isabella,crossman,benny place,bunya highway,warnbro,4006,qld,19811104.0,4591944
+rec-133-org,benjamin,mugo,peat place,arlington,frankston,4518,nsw,19101008.0,5994946
+rec-313-org,michael,broadby,burrinjuck crescent,duck creek,geraldton,2043,qld,19020812.0,8129823
+rec-1615-org,tayla,braithwaite,wilcox place,,toowoomba,4019,vic,19680225.0,3015649
+rec-955-org,joel,mellick,darmody street,hopetoun quays,bayswater,2089,nsw,,4006892
+rec-1793-org,daniel,baynes,alsop close,snug beach cvn park,longreach,2145,vic,19760501.0,3975116
+rec-1768-org,erin,scarce,bugden avenue,else wares,como,3216,sa,19250903.0,8148252
+rec-1191-org,logan,green,marlock street,kersley mews,anula,6233,nsw,19440514.0,2837625
+rec-1753-org,hayden,wyllie,howie court,barra barroo,north maclean,6210,vic,19611221.0,5687428
+rec-1340-org,nasyah,rawlings,andrew crescent,peridon vlge,bundaberg,3915,wa,19290727.0,1838569
+rec-418-org,willow,bennell,holyman street,walea,wetherill park,3030,qld,19330323.0,6683840
+rec-148-org,jordyn,lanyon,,,mona vale,6230,qld,19161215.0,9181688
+rec-391-org,silas,laing,bushby close,wisteria,padstow,2335,qld,19470307.0,2948154
+rec-1165-org,hannah,egan,kiewa street,glenanare,granville,2035,vic,19190603.0,1427616
+rec-141-org,oliver,blake,outtrim avenue,hd allenby,st lucia,2298,qld,19891203.0,4307988
+rec-1343-org,isabella,gilbertson,boswell crescent,,morwell,4074,nsw,19111011.0,9304242
+rec-1161-org,cameron,jessup,spofforth street,walkers orchard,moree,2208,qld,19561117.0,6804360
+rec-1483-org,liam,beaty,bunker place,legacy vlge,ballina,5109,nsw,19370727.0,6718296
+rec-1440-org,lachlan,spratt,ellenborough street,rosemount,waramanga,2077,qld,19901009.0,5623128
+rec-977-org,robert,mccarthy,gudgenby close,ocean star villas,cairns,3450,nsw,19070923.0,5234558
+rec-58-org,jasmine,campbell,rawlings place,donald coburn lodg,narellan,7250,sa,19550613.0,8692804
+rec-1152-org,brock,reid,,nevah farm,bayswater north,3128,vic,19980402.0,6892786
+rec-943-org,william,dowley,terewah circuit,bringalong,poolaijelo,4108,sa,19100915.0,7001131
+rec-156-org,cooper,praetz,roughsey place,lakefront retrmnt vlge,bacchus marsh,3300,nsw,19361201.0,1901255
+rec-1360-org,abbie,silson,mcdonnell close,bendine road,kirra,7250,,19561125.0,6677177
+rec-194-org,hannah,auch-schwelk,beauchamp street,mindaree,camira,6021,qld,19830702.0,4902391
+rec-234-org,chelsea,hefford,tenison-woods circuit,elvenwood,shelley,4121,nsw,19161113.0,4480743
+rec-516-org,madison,shortman,french street,kaluna,elizabeth grove,3173,vic,19500918.0,9365464
+rec-1970-org,daniel,tow,william webb drive,glenlee,blakeview,5089,sa,19310724.0,9926473
+rec-878-org,sophie,hobson,wilkins street,environa,padstow,3429,vic,19251103.0,4286830
+rec-638-org,jinni,ongley,derrington crescent,mt sturt,coombabah,6007,vic,19200511.0,1805536
+rec-1498-org,isabelle,kaminskas,isis close,westholme,port augusta,2765,qld,19060622.0,5344955
+rec-1609-org,anton,dorree,riordan street,clayton farm,woongoolba,5008,nsw,19451025.0,4595523
+rec-1370-org,kimberley,campbell,delprat circuit,umavale,allambie heights,2485,sa,19561008.0,2172495
+rec-1914-org,connor,ryan,pinkstone place,glenview homes,granville,3216,vic,19930927.0,4995039
+rec-837-org,nicholas,herbert,launceston street,lytton,terrigal,822,vic,19611007.0,1509353
+rec-1521-org,deakin,boyle,bremer street,lochanbrae,lake cathie,4114,qld,19481020.0,3706521
+rec-734-org,claire,barberien,melrose drive,lindenow cottage,shenton park,4740,vic,19651012.0,2376610
+rec-930-org,seth,george,nicholas street,,yarraville,2073,qld,19900608.0,9344229
+rec-1401-org,amy,ryan,moodie street,st francis vlge,ballarat,4701,nsw,19841029.0,1163615
+rec-286-org,dominic,flockhart,oxley street,clear creek,northgate,3000,wa,19890621.0,5173538
+rec-913-org,thomas,keatch,charlton crescent,2nd last on right,malvern east,4737,qld,19410505.0,9162716
+rec-780-org,annabelle,coudraye,pring place,,urangan,6168,nsw,19120322.0,4375836
+rec-1086-org,adam,guymer,lawlor place,dickson family practice,terowie,4405,nsw,19600111.0,6151152
+rec-1463-org,holly,green,national circuit,,mclaren vale,2074,nsw,19401213.0,7853593
+rec-1294-org,kayden,gao,kater place,table mountain,clifton,4160,sa,19360515.0,2014515
+rec-1622-org,nicholas,snell,quick street,kamilaroi cottage,beaumaris,2148,nsw,19190712.0,7864865
+rec-414-org,james,white,launceston street,mariner views,goonellabah,2586,nsw,19981011.0,5225315
+rec-238-org,sybella,veit,giliruk crescent,surfers hawaiian,oakleigh,2176,qld,19760820.0,4954196
+rec-1828-org,gabrielle,phillpott,barr-smith avenue,,blackall,2016,sa,19300724.0,6603228
+rec-1084-org,erin,papageorgiou,elimatta street,glenview,woollahra,4051,nsw,19980305.0,9041936
+rec-934-org,john-paul,rawlings,wattle street,kings school,bribie island,4750,nsw,19370602.0,4437023
+rec-1423-org,caitlin,hage,chave street,rajamare,altona north,3192,vic,19570825.0,8882696
+rec-1809-org,alex,widdowson,brewster place,clonturkle,oakleigh,3042,vic,19191108.0,1494593
+rec-1254-org,charlotte,mcfadden,northbourne avenue,vansittart court,wilson,4807,nsw,19370121.0,3263630
+rec-263-org,emma,selth,tyrrell circuit,st john of god hospital,woodend,3690,qld,19661006.0,6059722
+rec-1079-org,caitlin,matthews,,posetto,east maitland,4552,qld,19820128.0,3148663
+rec-1683-org,blake,green,goldstein crescent,qbd bldg,clare,2090,nsw,,5192436
+rec-1470-org,emiily,durairaj,mundang crescent,brentwood vlge,surrey hills,2259,qld,19030502.0,6745509
+rec-1534-org,isabella,rundle,fawkner street,emerald agrigultural college,pottsville,6154,nsw,,6097070
+rec-295-org,hannah,clarke,bathurst place,kulcutra,harbord,3137,vic,19080806.0,9156692
+rec-1065-org,indyana,kannikorn,nemarang crescent,glenview,labrador,6728,nsw,19710624.0,7120564
+rec-1222-org,joshua,kirimovs,slessor crescent,anglican guest village,christie downs,5041,vic,19320714.0,6007331
+rec-857-org,seamus,grainger,denovan circuit,eddington,angaston,3043,qld,19140607.0,7379109
+rec-1007-org,rebekah,modystach,tauss place,pyramid cara park,iluka,2216,nsw,19341113.0,8796023
+rec-1272-org,vendula,webb,molloy crescent,gwandalan,clayton,2680,nsw,19350812.0,7308373
+rec-872-org,lachlan,carmody,sheehan street,avenel,terrigal,2767,wa,19870722.0,7537783
+rec-1712-org,isabella,hyland,coverdale street,village walk (cnr high s street,cremorne,4005,act,19290811.0,9205503
+rec-1190-org,charlie,stanley,amagula avenue,bridies ranch,klemzig,3356,vic,19510717.0,6800801
+rec-1032-org,brooklyn,naar-cafentas,duffy street,tourist park,berwick,2481,nsw,19840802.0,3624304
+rec-581-org,shandril,bristow,william webb drive,locn 10045,emu plains,4868,vic,,7819868
+rec-1539-org,charlotte,wasley,eyre street,milmilland,cronulla,2564,wa,19931004.0,3209589
+rec-706-org,joshua,jolly,newton street,cliff house 2,kialla,3550,wa,19040622.0,8221843
+rec-283-org,charlie,primavera,dawes street,st francis vlge,dover heights,2533,nsw,19250314.0,3173638
+rec-1053-org,jordan,turco,rich street,glendora,pacific paradise,2871,vic,19571025.0,7877247
+rec-619-org,harry,tippins,bussau close,north arm,klemzig,4005,nsw,19490706.0,7994028
+rec-307-org,taylor,matthews,barnett close,carrington retrmnt vlge,macgregor,5501,vic,19751216.0,7693194
+rec-1289-org,jacob,reid,daley crescent,,frankston,4507,act,19460118.0,2644532
+rec-946-org,jack,crouch,arabana street,st john of god hospital,kirwan,4226,nsw,19790717.0,6658957
+rec-1728-org,lillian,noble,mcclelland avenue,villa 2,cable beach,4211,wa,19650716.0,9102917
+rec-1107-org,toby,hochstadter,macfarland crescent,beauchamp street,macquarie park,6154,vic,19410519.0,7961458
+rec-423-org,edward,goldsworthy,bon place,greenwood,cape clear,3175,nsw,19141014.0,2597850
+rec-1415-org,sarah,campbell,wakefield avenue,mira monte,,3075,vic,19100708.0,7610397
+rec-91-org,emiily,croker,castleton crescent,montrose,como,4214,nsw,19461118.0,6056886
+rec-1817-org,oliver,haggett,dartnell street,aprt 504,holden hill,4858,nsw,19570530.0,2086061
+rec-1092-org,lucas,ryan,walker crescent,brackengrae,belrose,5024,vic,19840323.0,6371124
+rec-1876-org,isaac,stephenson,julia flynn avenue,nazareth village,ingleburn,3172,sa,19401214.0,4166094
+rec-1180-org,harry,wanders,morehead street,carrington retrmnt vlge,trevallyn,2705,sa,19121013.0,8289232
+rec-1363-org,reece,lyden,cobar place,deergarden caravn park,marulan,2020,sa,19881122.0,2283032
+rec-1329-org,grayson,stanley,eaglemont retreat,kimberley,brighton-le-sands,4107,tas,19710422.0,5818249
+rec-796-org,oliver,vassiliotis,mortimer lewis drive,hattah-kulkyne,leongatha,5022,nsw,19910804.0,4669127
+rec-1443-org,olivia,lanyon,fairweather circuit,romilly hills,kincumber,2259,vic,19360827.0,3876231
+rec-1569-org,finn,weller,leahy close,st francis village,croydon north,7019,qld,19240729.0,7243781
+rec-1249-org,ella,eyles,rooth place,cinema centre bldg,yeronga,3730,nsw,19550910.0,8011704
+rec-1394-org,larissa,bradshaw,blamey crescent,longridge,dulwich hill,2153,qld,19190309.0,1828783
+rec-266-org,julia,polmear,schlich street,ocean star villas,lower templestowe,6285,vic,19230209.0,7077889
+rec-231-org,reeve,coulson,macedon crescent,the meadows,springwood,5125,nsw,19490831.0,3468281
+rec-1730-org,todd,jolly,burkitt street,melima,ermington,4226,wa,19360831.0,8156002
+rec-380-org,oliver,bendyk,tallara parkway,yarrabin,queenscliff,2148,vic,19100310.0,5851063
+rec-1763-org,joshua,portlock,minnett close,mehelu,,5047,nsw,19021129.0,5390434
+rec-158-org,samuel,springthorpe,lightfoot crescent,,yarloop,2251,,19210325.0,9449551
+rec-807-org,harry,beaty,grote place,denlo park,south bunbury,2750,wa,19210825.0,5221442
+rec-1789-org,blake,baraiolo,ashley drive,keralland,werrington,5341,qld,19931119.0,1790331
+rec-1822-org,lachlan,vincent,mundang crescent,mount beevor,greenwith,2232,vic,19930120.0,7291816
+rec-971-org,brandon,portlock,warrumbul street,,young,6225,nsw,19600401.0,1470095
+rec-1393-org,jasper,green,glasgow street,barraclear,broome,4066,nsw,19320111.0,7933243
+rec-896-org,ajay,irons,wanliss street,tarwyn park,moruya,2085,vic,,4283972
+rec-1082-org,liam,roles,davice place,lassaan,auburn,3216,vic,19540701.0,7584791
+rec-79-org,eliza,haack,castleton crescent,foxlea,possum creek,3123,vic,,4953359
+rec-566-org,anari,berry,baracchi crescent,rowethorpe,newmarket,822,nsw,19471009.0,3672040
+rec-1450-org,,white,garrick street,annandale hill,bidwill,5165,vic,19110905.0,3247149
+rec-1910-org,sophie,reid,hoad place,lockwood,beachmere,4106,nsw,19030704.0,2982434
+rec-790-org,cassidy,lock,gurrang avenue,homestead caravan park,callala bay,4068,,19921126.0,3826197
+rec-80-org,karla,rump,hilder street,killarney,normanhurst,3219,wa,19010414.0,1507919
+rec-1504-org,anita,liesegang,fossey street,merricroft,carole park,2295,vic,19271007.0,6982808
+rec-1244-org,benjamin,campbell,lott place,brandywine stud,kingston,3125,nsw,19310829.0,2258776
+rec-1322-org,finlay,white,goodwin street,,salisbury heights,4228,qld,19700309.0,1233871
+rec-336-org,christina,weller,wattle street,neretva,renown park,6108,qld,19300110.0,6700468
+rec-1456-org,joshua,schembri,raoul place,croyde,dulwich hill,2574,vic,19670914.0,2944236
+rec-477-org,charlie,ban,pavonia street,lethbridge court,hoppers crossing,2450,vic,19030919.0,4416130
+rec-1538-org,april,sitepa,morrissey street,clarendon park,newcastle,3195,nsw,19150225.0,1226230
+rec-1629-org,finn,maczkowiack,oxley street,bulliac street,wantirna,2196,nt,19101031.0,4732796
+rec-646-org,elana,reid,vallance place,allandale aged care facility,somerton park,2821,nsw,19630226.0,3425250
+rec-602-org,dean,verner,sully place,kendor,oakey,6271,nsw,19310203.0,5251886
+rec-74-org,jordan,gold,sharwood crescent,sunforest therapy centre,belmont,2155,nsw,19941117.0,1139906
+rec-916-org,james,fitzpatrick,clement place,bedarra,ngunnawal,4218,qld,19490905.0,4297928
+rec-675-org,jessica,rezaee,jim pike avenue,brentwood vlge,cabramatta,2046,vic,19100730.0,2918185
+rec-1785-org,alexander,jaffres,summerland circuit,flr 8,northgate,2224,nsw,19470906.0,9549391
+rec-59-org,daniel,pascoe,meacham place,warrah lea,mulwala,3088,qld,19660702.0,5444795
+rec-931-org,chloe,palachicky,beirne street,villa 235 henry kendall vlge,lake grace,2850,nsw,19880322.0,4791960
+rec-1047-org,amy,ryan,dallas place,the villas north,surfers paradise,2570,qld,19160508.0,6494659
+rec-157-org,vianca,marceau,kirkton street,ra 23076,hamilton,6168,sa,19350610.0,7742413
+rec-545-org,lydia,blake,elimatta street,foreshore caravan park,cunnamulla,5082,vic,19300602.0,5723847
+rec-437-org,mitchell,quilliam,bromell circuit,paradise lake resort,pingelly,2040,qld,19431231.0,6372652
+rec-1540-org,carly,benger,gellibrand street,grandview,carnegie,4011,nsw,19710126.0,5651019
+rec-531-org,william,bartel,horrocks street,leveritt park,baskerville,3781,qld,19610318.0,7560544
+rec-709-org,james,waterlow,brigalow street,trevellyn,corio,3167,nsw,19420525.0,7569973
+rec-1111-org,jasmine,sach,goble street,renown,gawler west,2031,nsw,19791109.0,2530372
+rec-1484-org,darcie,priest,sid barnes crescent,kinglake central,dianella,3011,vic,19570911.0,5032178
+rec-1523-org,james,ryan,alston street,myliton,lake cathie,4461,wa,19620419.0,2349088
+rec-161-org,blake,thiessen,kilburn close,wandarri,sandfly,2576,nsw,19210321.0,9632907
+rec-1823-org,alice,rundle,blackwell circuit,yuraga,arundel,2795,vic,19651007.0,1554237
+rec-1275-org,aaliyah,huddy,currong street,chactor,wellington point,2232,sa,19960324.0,1091178
+rec-1182-org,samantha,forshaw,mcmillan crescent,tarwong,thebarton,3178,nsw,19420906.0,8586103
+rec-1063-org,lauren,mcneill,mileham street,rowethorpe,anglesea,4300,vic,19920422.0,3023658
+rec-1018-org,laura,wynne,sherbrooke street,fannyside,kellerberrin,5043,wa,19741101.0,6774384
+rec-8-org,blake,bristow,archibald street,the willows,cleveland,2148,nsw,19540515.0,9773077
+rec-526-org,maya,green,louisa lawson crescent,cargo road,bligh park,2560,wa,19790228.0,5349388
+rec-1342-org,oliver,goodeve,brigalow street,tourist park,riverstone,4018,vic,19860113.0,7051652
+rec-413-org,brodee,zimmermann,de little circuit,winters,stanmore,3070,sa,19000811.0,9488343
+rec-1225-org,alexandra,grosser,woolner circuit,villa 2,toowoomba,2453,nsw,19720305.0,9022031
+rec-1246-org,adam,christo,cooney court,pine hill,box hill south,2480,qld,19701118.0,4078687
+rec-1147-org,thomas,ljubisic,marshall street,maranatha house,barcaldine,2144,vic,19070304.0,8204181
+rec-915-org,chelsea,matthews,bromley street,west gippsland hospital,willetton,2770,vic,19160623.0,8441784
+rec-1465-org,lucy,green,coobina place,ainslie house,hay,4740,vic,19780430.0,5753167
+rec-184-org,brianna,white,,apmnt 501,tumbarumba,4879,qld,19130722.0,5073221
+rec-1525-org,anthony,molland,wakelin circuit,watchorns hill,boulder,3956,vic,19850826.0,6482481
+rec-697-org,georgia,reid,lipman street,dundindi,semaphore park,6280,nsw,19640827.0,3886133
+rec-712-org,evan,meale,kambalda crescent,lumeah cottage,dandenong north,6169,wa,19921227.0,7485737
+rec-17-org,holly,zilm,erldunda circuit,mirinjani vlge mirinjani hostel,forbes,3102,qld,,8803555
+rec-696-org,mia,stephenson,nivison place,treetops,knoxfield,3137,sa,19631225.0,2780926
+rec-98-org,benjamin,van hees,glossop crescent,cox court hostel,cowra,5096,wa,19360226.0,7999917
+rec-1411-org,lukas,hannagan,mundawari circuit,nimmie,kaleen,2632,vic,19130118.0,8794152
+rec-1591-org,chelsie,white,bimbiang crescent,brookvale,midvale,2646,qld,19880507.0,9967991
+rec-1158-org,abby,grubb,cockcroft avenue,avonleigh,warren,7008,qld,19480413.0,9612521
+rec-1262-org,ellen,matthews,mccawley street,bulala,seven hills,2370,vic,19500216.0,7953368
+rec-819-org,tara,dixon,goldstein crescent,eldwick,fairlight,2428,qld,19200105.0,5335030
+rec-1917-org,angus,rees,heaton place,pangani,new farm,6210,nsw,19220723.0,8576362
+rec-582-org,lauren,crea,city walk,sit 9,athol park,3081,vic,19960613.0,1646449
+rec-711-org,,clarke,merfield place,the meadows,bull creek,2830,act,19210503.0,2257500
+rec-365-org,matthew,leong,kavel street,glen-moria,minchinbury,6153,nsw,19170916.0,1648925
+rec-1837-org,lara,wilkins,fellows street,bungarra,campsie,3173,nsw,,2894122
+rec-14-org,jett,colegate,hampton circuit,gibraltar,st albans,6011,nsw,19021119.0,1742749
+rec-1134-org,lee,zogopoulos,woronora street,tourist park,coombabah,6107,nsw,19651015.0,3239855
+rec-1025-org,emiily,britten,kitchener street,hilltop hostel rowethorpe,lake heights,2463,qld,19491021.0,9588775
+rec-1154-org,isabelle,,yarralumla bay,doubtful ck,lake gardens,5097,nsw,19071213.0,5828625
+rec-763-org,eloise,leaver,dexter street,glenbrook orchard,east launceston,3049,nsw,19660309.0,9621935
+rec-920-org,emiily,zimmermann,redfern street,blue mountain lagoon,riverwood,3350,nsw,19621028.0,2097692
+rec-1915-org,caitlyn,robson,hartung crescent,,harcourt,5008,qld,19820123.0,9584449
+rec-89-org,elki,block,yanda street,wallsend delivery centre,mittagong,2450,vic,19610203.0,8325666
+rec-674-org,tara,rollins,bonwick place,the lodge,surrey hills,2810,nsw,19120710.0,7514831
+rec-772-org,lily,hyland,durack street,rosall,wilroy,2250,nsw,19440426.0,7053521
+rec-620-org,finn,clarke,murranji street,the mount,primbee,4101,qld,19031121.0,5509189
+rec-209-org,heath,morrison,corinna street,georgedale,lilli pilli,7316,wa,19990803.0,6224315
+rec-243-org,lauren,nguyen,arden place,yarrimbah,glenview,3128,nsw,19541121.0,2953634
+rec-586-org,katelyn,rees,malindi place,brentwood vlge,avalon,3015,qld,19450212.0,3813459
+rec-1354-org,macey,mcclarty,kumm place,villa 213,albany creek,3163,wa,19061211.0,9810978
+rec-1490-org,sonja,wilkins,alfred hill drive,st john of god hospital,hope valley,2760,vic,19340404.0,2867046
+rec-1761-org,joe,hammer,wynn place,amble side garden,burnett heads,2200,qld,19420902.0,4437138
+rec-1736-org,jaggah,waller,murray crescent,hayfield vlge,ferryden park,2015,nsw,19240709.0,9945221
+rec-1338-org,nicola,coleman,,banksia village,caves beach,5453,qld,19250918.0,8953567
+rec-279-org,alia,dobrzycki,brittlebank circuit,yarrambah,loganlea,2790,vic,19960130.0,4588807
+rec-1607-org,megan,purdon,lyndon street,hawkesbury natural health acupuncture ce,minchinbury,2256,vic,19641218.0,1801047
+rec-1788-org,alex,gibb,burdekin avenue,blueberry,deniliquin,2046,act,19130303.0,4379286
+rec-170-org,samuel,lazaroff,tanner place,yarrum,vermont,3104,vic,19121227.0,1973394
+rec-1324-org,madison,matthews,sugarloaf circuit,bonny doon,burpengary,2090,vic,19290710.0,1551042
+rec-304-org,james,sebregts,holden crescent,,ngunnawal,3300,nsw,19040404.0,5342259
+rec-1559-org,jessica,rivera,quick street,jasmine lodge,kingsthorpe,5065,vic,19620906.0,1054434
+rec-1691-org,teaha,alderson,west place,banana shed,marsden,2092,vic,19170803.0,2268603
+rec-1596-org,mitchell,bellamy,arthur circle,bolaro,coonalpyn,6210,vic,19710203.0,1090549
+rec-1205-org,jarod,shepherd,williamson street,occar,burwood east,4562,nsw,19740530.0,9378944
+rec-1930-org,abby,wotton,shara place,berowra exch,lalor,5290,vic,19080306.0,9242229
+rec-1485-org,finley,leane,mewton place,bugala,konongwootong,2017,nsw,19240221.0,9822675
+rec-1202-org,jack,harrington,jansz crescent,pleasant ridge,williamstown,3814,nsw,19661011.0,3951427
+rec-1277-org,noah,gamlin,canning street,villa 183,mosman,7262,sa,19091023.0,6693641
+rec-1385-org,keahley,eveston,groom street,shangri la crvn park,corowa,2250,nsw,19320428.0,8695946
+rec-201-org,daniel,riding,antill street,rondayvoo,dimboola,6010,tas,19090516.0,2525592
+rec-43-org,jacob,priest,wagga street,evergreen,largs north,4165,vic,19390329.0,2860311
+rec-464-org,patrick,laing,fowles street,ferndale,,4221,nsw,19340506.0,1740961
+rec-1966-org,georgia,melin,anstey street,shelbourne woodstock,bomaderry,4703,nsw,19940215.0,3319764
+rec-244-org,liam,laing,theodore street,keriroca,padstow,6004,vic,19391213.0,9129876
+rec-1157-org,ryan,fey,kitchener street,unt 1,slacks creek,3400,qld,19870928.0,4515379
+rec-1303-org,blake,goldsworthy,wambool street,la villades pins,north ryde,2360,vic,19240515.0,1108824
+rec-1911-org,zach,steane,fitzhardinge crescent,ryhd-talog,kalamunda,6061,nsw,19730723.0,9575271
+rec-693-org,andrew,rawlings,norrish place,curringa,east fremantle,2063,nsw,19080327.0,2878747
+rec-354-org,benjamin,royle,board place,morn moot,arana hills,2076,nsw,19110517.0,5142627
+rec-364-org,oliver,clarke,macumba place,ordview estate,sunshine,3150,nsw,19721201.0,3931949
+rec-1083-org,jaiden,bloomfield,hopkins street,locn 3439,gorokan,2576,qld,,7038120
+rec-715-org,sarsha,koopman,currie crescent,killarney,waterloo,2745,vic,19000301.0,5480588
+rec-1414-org,amber,green,sticht place,belvedere,vincent,7030,vic,19890627.0,7817990
+rec-1795-org,sophie,nikolec,fossey street,manresa,toowoomba,6050,wa,19510124.0,7394640
+rec-347-org,alexander,hamon,rowntree crescent,solitaire,auburn,2011,nsw,19630105.0,8113333
+rec-809-org,tiarna,reid,dines place,brentwood vlge,athelstone,2250,vic,19820122.0,4863287
+rec-318-org,bryce,rees,meldrum street,rp 155232,arana hills,3128,nsw,19440613.0,4164990
+rec-539-org,emiily,skeen,belconnen way,location 6656,templars,2133,sa,19390814.0,4133934
+rec-979-org,talan,slape,roebuck street,homefield home,annandale,5046,nsw,19040617.0,7593310
+rec-1220-org,shana,kowald,dookie street,locn 24,port macquarie,2586,sa,19200305.0,2522502
+rec-1058-org,michael,paschalidis,de little circuit,nunkuri,osborne park,2380,vic,19930102.0,8507976
+rec-1410-org,ayden,white,dines place,ocean park towers,garran,2506,vic,19390830.0,7585098
+rec-785-org,callum,jankus,mcgivern crescent,wyncliffe,sylvania,3187,nsw,19930925.0,5175345
+rec-766-org,kaitlin,finlay,campbell street,bullarook park stud,belmont,3034,sa,19750701.0,1515037
+rec-1100-org,giaan,blackwell,kleinig street,port 262,biggera waters,2250,nsw,19770512.0,6179681
+rec-1300-org,samuel,webb,garrett place,pyramid caravn park,rothwell,812,nsw,19690721.0,2721666
+rec-196-org,lara,wakerell,see place,yenda units,pottsville,4017,nsw,19480619.0,3594200
+rec-252-org,isaac,mcvilly,sherwin place,bowan downs,ringwood,3105,nsw,19520920.0,3615515
+rec-926-org,olivia,lanyon,dalgarno close,shenstone park,evandale,7310,sa,19150306.0,1530356
+rec-282-org,lucy,ringland,woolner circuit,gullamurra,bowral,4520,qld,19810713.0,5368490
+rec-55-org,georgia,leslie,rosman circuit,genesis,parkdale,4650,qld,19000701.0,2150872
+rec-1826-org,eden,tiller,diamantina crescent,retirement village,thornlie,4114,nsw,19150724.0,7743837
+rec-658-org,quinn,godfrey,duffy street,ardersier,highton,3165,vic,19450122.0,3298961
+rec-1059-org,joshua,joannou,ivo whitton circuit,docker river community,maribyrnong,2540,nsw,19260424.0,5951556
+rec-1664-org,mitchell,david,filshie close,bellbird ctge,avondale heights,6107,qld,19990325.0,5476289
+rec-1905-org,gillian,quan,michie street,berkeley village,altona meadows,6026,vic,19160330.0,3026496
+rec-1500-org,cameron,matson,gratwick street,beltrasna angus stud,manly vale,6232,nsw,19361207.0,8252225
+rec-1274-org,kimberly,rau,mainwaring rich circuit,kinara,ravenshoe,3765,sa,19050218.0,1831670
+rec-694-org,kayne,de voga,cannan crescent,glen rock,rivett,4020,vic,19581106.0,7272068
+rec-297-org,callum,durovic,aronson crescent,hillcrest specialist centre,macquarie fields,3163,qld,19680331.0,5462842
+rec-1791-org,melissa,redmond,alroy circuit,braemore,long jetty,4852,sa,19501114.0,7547575
+rec-1099-org,giuliana,hanna,vanzetti crescent,rowethorpe,doubleview,3088,vic,19351025.0,5468422
+rec-972-org,joshua,torzillo,maclaurin crescent,glubbaan,hawthorn,2148,nsw,,1090709
+rec-599-org,william,stubbs,kingsmill street,lambar,canterbury,2260,wa,19340903.0,9667086
+rec-1709-org,lushia,bishop,damala street,st francis vlge,kia ora,6163,nsw,19281214.0,1153545
+rec-1091-org,ronan,anthomy,newman morris circuit,old lake hotel,chittering,2148,vic,19710321.0,5778625
+rec-805-org,charlotte,shelley,cromwell circuit,wombat hill,noble park,2026,vic,19780711.0,2664293
+rec-1576-org,thomas,meadows,bridge place,lyndon lodge,malvern east,2794,wa,19840422.0,1641632
+rec-606-org,hannah,kruck,scott street,gorge creek orchards,penguin,2256,nt,19670618.0,1640872
+rec-1299-org,jed,dulko,adair street,ahwahnee,berwick,3977,vic,19730628.0,8132882
+rec-1936-org,lochlan,coulson,holland street,hamilton,carina heights,4800,nsw,19350112.0,9019052
+rec-904-org,flynn,cresp,nambucca street,,sandy bay,2768,vic,19761117.0,2624663
+rec-109-org,sophie,reid,hawkins close,greenhills,toowong,2267,wa,19210624.0,9022097
+rec-640-org,zara,stanley,paul coe crescent,koah lodge,surry hills,4132,nsw,19971117.0,1275004
+rec-315-org,hannah,white,waratah street,school house,greensborough,3066,vic,19240312.0,9879908
+rec-331-org,jenna,campbell,degraves crescent,numby,bendalong,3249,qld,19771103.0,5401331
+rec-1466-org,zach,mcgregor,,crowden,campsie,3301,vic,19620412.0,2892153
+rec-126-org,zachary,rollins,fimister circuit,wathonga,brown hill,5032,nsw,,2423787
+rec-491-org,eliza,rundle,warabin crescent,east road,mermaid waters,2644,nsw,19480101.0,9904533
+rec-795-org,taliah,hadaj,templeton street,ningana,hahndorf,6056,vic,19180612.0,2935070
+rec-1853-org,michaela,scrimgeour,bootle place,lillydale,mount stuart,3931,qld,19190908.0,7520570
+rec-973-org,jessica,braithwaite,alroy circuit,killuke,kogarah,2766,qld,19730805.0,4116919
+rec-320-org,amelia,hillary,mackellar crescent,burnside,ashfield,2034,qld,19970102.0,2137478
+rec-767-org,marcus,wardle,gilmore crescent,brightling park,edithvale,3104,sa,19991212.0,6017101
+rec-508-org,danny,petersen,owen dixon drive,rawdon hill,minto,3029,wa,19441022.0,6090944
+rec-1945-org,bradley,clarke,sharwood crescent,lynd hurat,ringwood,3959,wa,19510302.0,8586164
+rec-1242-org,caleb,lund,dookie street,yarrabie,harristown,3218,nsw,19340220.0,3084413
+rec-532-org,,rundle,beaumont close,tyrone hills,coonabarabran,4020,vic,19640105.0,8384590
+rec-253-org,jayde,chandler,whittell crescent,villa 3,wynnum west,4680,nsw,19370929.0,4988696
+rec-610-org,annabella,burman,newman morris circuit,c/-the student village,alice springs,6076,nsw,19670610.0,5756038
+rec-1541-org,kirrah,gillard,pasley place,mermaid plaza dental centre (cnr gold co,biggera waters,4852,vic,19140212.0,6828869
+rec-1703-org,erin,blaschke,napthali close,gleneagle,chelsea heights,6126,nsw,19811127.0,3326156
+rec-797-org,james,noack,kidman close,grand central shopping centre,wangi wangi,2256,nsw,19191001.0,8687538
+rec-218-org,erin,vincent,blamey crescent,gleneira,marsden,3187,vic,19300117.0,1813723
+rec-63-org,,egan,burra place,nedlyn,raymond terrace,2096,nsw,19680823.0,7711314
+rec-1669-org,noah,homann,cowper street,,toorak,3556,vic,19940914.0,4356988
+rec-1612-org,amy,clarke,melba street,goods la junee street,port pirie,3564,vic,19940205.0,3641299
+rec-1434-org,benjamin,ikeda,vasey crescent,gunderman park,hemmant,2032,qld,19610721.0,4212202
+rec-731-org,samuel,ryan,hilder street,state bank arcade,elizabeth grove,2300,sa,19830613.0,5653742
+rec-160-org,jade,dixon,leven street,francis chambers,toronto,3228,nsw,19250415.0,5898510
+rec-1882-org,zoe,mcmullen,marshall street,tyrone hills,tarragindi,2036,vic,19841019.0,7089042
+rec-1867-org,tess,baugh,kenyon circuit,oakbank,gorokan,2233,vic,19890105.0,3343845
+rec-369-org,luke,stuetz,sid barnes crescent,naygoondy,hyde park,4872,act,19350716.0,6767547
+rec-1062-org,madison,dixon,sanford place,white lodge,ringwood,5047,sa,19220609.0,7161189
+rec-1924-org,troy,bevin,anstey street,east of eden,burleigh heads,3084,nsw,19980406.0,2038950
+rec-1116-org,liam,hirota,oldfield circuit,mount beauty,pymble,3537,qld,19760630.0,9452756
+rec-139-org,zoe,reid,newman morris circuit,the lodge,dolls point,2550,nsw,19001031.0,8054503
+rec-1951-org,roisin,bishop,manning street,roseglen,mount colah,2076,vic,19481220.0,9469770
+rec-607-org,rebecca,blyde,torrens street,moorillyah,port augusta,3620,vic,19650621.0,8787550
+rec-48-org,riley,iacopetta,girdlestone circuit,,yackandandah,3779,qld,19660915.0,1021033
+rec-1166-org,joselyn,nguyen,port arthur street,st john of god hospital,moranbah,3043,wa,,3134588
+rec-1259-org,holly,berry,bates street,glendas,currimundi,4670,nsw,19860508.0,4314482
+rec-446-org,thomas,crook,arden place,kareela,bundaberg east,3073,nsw,19451003.0,6612364
+rec-1476-org,alissa,roundhill,jackie howe crescent,carey park,iluka,3131,qld,19050319.0,9579886
+rec-92-org,samuel,lamotte,cunningham street,tesbury,wentworth falls,3793,nsw,19591111.0,5216844
+rec-1290-org,james,mccarthy,tillyard drive,amherst village,,5268,qld,19350714.0,6283744
+rec-1369-org,nicholas,paterson,hawkesbury crescent,denny downs,naracoorte,3109,qld,19091222.0,3816862
+rec-1587-org,sam,lowe,lampard circuit,gumnut cottage,windaroo,6155,nsw,19140118.0,2710939
+rec-1023-org,gianni,matson,willis street,boonooloo,clifton,3101,vic,19410111.0,2540080
+rec-411-org,jamie,matthews,rule street,inghams plant,craigmore,3687,nsw,19410506.0,3285602
+rec-175-org,bailee,crouch,tompsitt court,rosetta village,wamberal,4405,wa,19220325.0,8635129
+rec-954-org,jack,mcgurk,marrawah street,,frenchs forest,3462,nsw,19940814.0,7084883
+rec-673-org,seamus,collinson,southwell street,,winthrop,3166,nsw,19820510.0,6923387
+rec-1652-org,isaac,gulliver,oakover circuit,frost mews,kings park,2299,wa,19830826.0,8710921
+rec-519-org,sebastian,petersen,chinner crescent,dorothy genders vlge,dapto,3016,wa,19290524.0,2315376
+rec-1447-org,stephanie,lambden-stewart,burrinjuck crescent,the mall,ngunnawal,5171,vic,19981220.0,7218355
+rec-1662-org,daniel,rodaro,livingston avenue,st francis room,mooroolbark,3977,qld,19830926.0,8979554
+rec-1740-org,mitchell,boyle,crozier circuit,kinross street,spearwood,2640,sa,19860317.0,5796583
+rec-1689-org,joel,everett,franks place,spring ridge,beechboro,2125,vic,19320531.0,1845071
+rec-1925-org,alexandra,grosvenor,anembo street,glenlee,frankston,4818,nsw,19930305.0,2128447
+rec-433-org,demie,hirota,suttor street,namarva station,dulwich hill,4551,qld,19370501.0,2070669
+rec-402-org,brianna,brock,dethridge street,pioneer lodge,ivanhoe,2096,vic,19530929.0,4207662
+rec-1851-org,madeleine,bibb,henty street,walea,nambour,4500,tas,19970902.0,9875423
+rec-558-org,edward,boyes,sainsbury street,,spearwood,2773,nsw,,3358208
+rec-1229-org,david,mccracken,daley crescent,,mayfield,3629,nsw,19850917.0,9195151
+rec-1555-org,charlee,hugelmann,martley circuit,eddington,mosman,4802,sa,19490921.0,6939061
+rec-324-org,caitlin,lowe,,longridge,balcatta,6062,sa,19551029.0,1321288
+rec-652-org,holly,callado,goodchild street,hornsbie,plumpton,5012,qld,19330121.0,2585336
+rec-1223-org,blake,herbert,spensley place,baptist retirement,whalan,3978,sa,19530521.0,6463138
+rec-1680-org,anita,catherwood,nish place,talonmane,emerald,3073,nsw,19420708.0,7373271
+rec-845-org,tynan,butt,canopus crescent,wollartukkee,munruben,3016,qld,19140629.0,5405181
+rec-1488-org,nicholas,roxburgh,keverstone circuit,unt 7,port macquarie,7008,act,19431104.0,5140822
+rec-1611-org,brinley,white,boobialla street,sheep station,carlingford,2830,qld,19241214.0,2042443
+rec-1118-org,emerson,manson,goodparla street,munmurra park,moranbah,2094,wa,19890511.0,5082406
+rec-1777-org,,matthews,longmore crescent,willonyx,ellen grove,3215,qld,19891127.0,4080846
+rec-1899-org,matthew,mason,willoughby crescent,spq camp,avalon,6171,qld,,2444851
+rec-2-org,mia,thredgold,summerland circuit,cornvale,highett,5110,vic,19980406.0,7484089
+rec-159-org,samuel,,warragamba avenue,alton hills,brunswick west,5086,qld,19120212.0,8866520
+rec-970-org,benjamin,fitzpatrick,bettington circuit,tranquility gdns,taree,2066,nsw,19891108.0,7405689
+rec-153-org,adele,bullock,shepherdson place,rosedale,rose bay,2170,vic,19071006.0,1839802
+rec-1880-org,callum,doody,emery street,texas station,matraville,7021,sa,19760824.0,8675161
+rec-817-org,lily,nguyen,hirschfeld crescent,afflexian,milperra,2084,wa,19270126.0,3183110
+rec-1310-org,anthony,carbone,hugh mckay crescent,,mount pleasant,2617,nsw,19531030.0,8781631
+rec-1413-org,lushia,reid,hovell street,moline village,revesby,3821,nsw,19780319.0,9766311
+rec-352-org,bianca,shepherd,newdegate street,burbong cottage,fairy hill,2069,qld,19060315.0,3375779
+rec-1946-org,deakyn,newberry,wirangu place,,quambatook,3205,vic,19500421.0,4632560
+rec-947-org,samantha,nelsen,magenta square,billamein,vale park,3054,nsw,19170726.0,7365496
+rec-808-org,adriana,pinto,dryandra street,quandialla,brunswick west,5417,qld,19450702.0,1729257
+rec-215-org,harriet,tailor,gatton street,dinta,artarmon,4151,nsw,19590819.0,7024715
+rec-552-org,harley,mccarthy,pridham street,milton,marsden,3165,nsw,19080419.0,6089216
+rec-77-org,adam,eveston,kirkland circuit,warrawong,,2192,act,19940623.0,7493662
+rec-1757-org,chloe,wasley,mclachlan crescent,merri banks,upper coomera,6148,qld,19630503.0,5068158
+rec-1214-org,ashlie,hinksman,melrose drive,eden park,coombabah,2171,qld,19331111.0,8950763
+rec-1743-org,daniel,noble,blakey close,farm cottage,bellevue hill,4035,vic,19090320.0,8724523
+rec-1961-org,alissa,kerley,magrath crescent,homesite 3,mount torrens,4701,nsw,19620109.0,5187806
+rec-1426-org,jessica,faull,paul coe crescent,gainsbury (cnr waldegrove r road,noble park,2844,sa,19780327.0,7914821
+rec-1725-org,mitchell,richmond,fidge street,wentworth house,blair athol,6148,nsw,19110605.0,4392610
+rec-1306-org,amber,gogovcev,totterdell street,eden park,mosman,4034,sa,19851112.0,5208847
+rec-439-org,christian,walch,coombe street,warraview,plumpton,5008,nsw,19930222.0,1670806
+rec-509-org,kane,sekaran,wilkins street,the rocks,coolaroo,2155,qld,19160915.0,7612329
+rec-1193-org,hamish,gilles,godfrey street,cassadareen,cape paterson,2370,nsw,19180822.0,6415612
+rec-1544-org,fraser,bishop,canberra avenue,bindana downs,north haven,2614,nsw,19010417.0,9623266
+rec-982-org,max,white,bendigo street,mater professional centre,samford,3677,nsw,19940426.0,7687209
+rec-573-org,ruby,vown,fernyhough crescent,,lamington,3109,nsw,19820119.0,2911379
+rec-1408-org,matthew,stanley,padbury street,rutland park,mill park,6163,nsw,19600430.0,8088932
+rec-898-org,brendan,elrick,leist street,tewantin plaza,wangaratta,3137,qld,19241230.0,7767407
+rec-1066-org,jayden,matthews,pleasance place,wirreander,ashfield,3414,vic,19380415.0,4373341
+rec-1146-org,bethany,schaedler,corroboree park,rosetta village,balwyn north,6043,vic,19410123.0,8801089
+rec-1292-org,campbell,cowden,pokana circuit,curtin house,st albans,2315,nsw,19790419.0,8190536
+rec-665-org,matthew,paine,mcintyre street,urunga,moulyinning,7000,nsw,19250117.0,6277575
+rec-166-org,maddison,giordano,martley circuit,kiaora,ringwood,3429,qld,19621121.0,7118072
+rec-761-org,hayley,white,hallen close,chelsea house,orange,2176,sa,19810909.0,4247423
+rec-863-org,kazuki,white,ijong street,john curtin hostel,carrum,3616,vic,19360920.0,4008186
+rec-1566-org,harry,clarke,hyndes crescent,royal brisbane hospital,homebush,4805,nsw,19971021.0,6391399
+rec-1989-org,casey,tunstall,strahan row,villa 2,yagoona,3038,sa,19110402.0,3008766
+rec-27-org,magnus,grubb,gurrang avenue,jalkaro,rye,5044,vic,19771206.0,1271018
+rec-9-org,alisha,white,dalgarno close,westport,burringbar,6107,vic,19660114.0,9639569
+rec-1967-org,eliza,mason,kennedy street,brentwood vlge,bundamba,4067,tas,19071124.0,3004030
+rec-1710-org,amy,flatman,campbell street,woodsong,north hobart,2016,vic,19540812.0,1679056
+rec-786-org,jessica,vincent,,lithgowvale,ascot vale,2209,nsw,19930511.0,8036304
+rec-963-org,kiana,gillick,clive steele avenue,mandala gdns,lakemba,4021,nsw,19331116.0,6877470
+rec-828-org,lucy,green,manning street,,canley vale,2228,nsw,19411102.0,5041084
+rec-1384-org,keegan,wotton,magrath crescent,marshanti arabians,colac,6108,nsw,19700122.0,1663324
+rec-1433-org,gillian,blake,charterisville avenue,whispering pines,avondale heights,2145,vic,19720122.0,1432771
+rec-576-org,jessica,smallacombe,eve place,ellerslee,nunawading,5540,vic,19060713.0,6942191
+rec-366-org,danika,langer,bellinger circuit,gwandalan,frankston,4108,act,19900709.0,2332785
+rec-272-org,joshua,mayman,pike place,,moorooka,2830,vic,19801013.0,1937873
+rec-1554-org,joshua,felmingham,fullagar crescent,mariner views,evandale,2229,nsw,19810315.0,8249572
+rec-1603-org,hannah,clarke,anzac park,willandra village,currumbin valley,2454,nsw,19991107.0,4460293
+rec-671-org,abby,robson,anzac park,chanak,ettalong,3149,qld,19840131.0,7511641
+rec-248-org,stephanie,spong,kenyon circuit,waverley lodge,normanhurst,3182,nsw,19430901.0,6128280
+rec-1070-org,kristen,capurso,bosworth circuit,monier square,magra,4075,vic,19170201.0,7204184
+rec-1990-org,emma,golder,fullerton crescent,carey park,campsie,2107,qld,19260419.0,1677968
+rec-1744-org,shelby,stodart,currong street,woodrose,dorrigo,2614,nsw,19731031.0,3832597
+rec-269-org,jake,rhyne,walker crescent,glencot,burwood,3106,nsw,19511109.0,2471300
+rec-1073-org,zachary,clarke,port jackson circuit,masonic memorial village,minchinbury,4470,sa,19731003.0,4301419
+rec-204-org,cade,muhsam,holder street,frm 654,kingston beach,2620,tas,19040606.0,1082057
+rec-1043-org,giorgia,frahn,handasyde street,ramano estate locn 1,tallebudgera,4506,vic,19670206.0,9724789
+rec-1717-org,teneille,lamprey,forrest place,terra nostra,bayswater north,4160,vic,19281101.0,9687938
+rec-1578-org,grace,morrison,wilkins street,,wisemans ferry,4220,qld,19880415.0,8612252
+rec-1245-org,erin,cresp,clarey crescent,walnut grove estate,wingham,3199,nsw,19430721.0,6489739
+rec-290-org,maxin,hewson,ammon place,inglewood,ivanhoe,5048,vic,19781215.0,7902006
+rec-28-org,leon,haar,inwood place,brindabella specialist centre,newcastle,4019,vic,19930327.0,5674799
+rec-473-org,anthony,vijiaraj,moon place,crower,chinchilla,5453,qld,19871031.0,7277540
+rec-124-org,keira,browne,teakle place,brinjarry,penshurst,3199,wa,19791215.0,3267500
+rec-403-org,jessica,schumann,wilkinson street,tintagel,penrith,4111,qld,19160902.0,1077134
+rec-1138-org,jaykob,clarke,mileham street,kimberley,dalby,2170,wa,19000919.0,9245172
+rec-1122-org,jake,berry,boolee street,noss,burleigh waters,2133,qld,19121215.0,3029548
+rec-1852-org,flynn,crea,,berkeley village,lismore,2068,nsw,19610318.0,7062906
+rec-173-org,bailey,mazurkiewicz,o'hara close,caravn park,mosman,2486,nsw,19131214.0,5855784
+rec-1263-org,benjamin,matthews,,anzac house (cnr archer s street,torquay,3672,sa,19221224.0,3995925
+rec-419-org,david,sydorenko,fuhrman street,the manor braeside,sefton park,3153,vic,,1746512
+rec-875-org,hollie,lillie-hinrichs,hemmings crescent,kilvinton village,banyo,4030,,19251130.0,4920253
+rec-1179-org,lily,priest,nemarang crescent,yellow dam,westmead,2250,tas,19401205.0,2293160
+rec-1786-org,liam,pulford,theodore street,tarwyn park,penrith,4816,qld,19700908.0,6254692
+rec-681-org,chelsea,ronan,murphy street,racecourse,urangan,4869,vic,19350815.0,8318674
+rec-1003-org,connor,clarke,de chair street,wilding,peakhurst,5204,vic,19450907.0,1230316
+rec-1253-org,lachlan,bishop,newman morris circuit,granny flat rear,bellambi,2038,nsw,19541027.0,4547925
+rec-328-org,,malin,deamer crescent,westmead accom,st clair,4879,act,19461215.0,1332042
+rec-512-org,caleb,white,griffiths street,berragoon,mount isa,2122,sa,19130405.0,5957560
+rec-958-org,shona,arbuckle,sprent street,anderwood,keysborough,6009,vic,19191013.0,6310771
+rec-97-org,benjamin,schwinghammer,shenton crescent,kilnacrott,camden,3820,nt,19570329.0,4830631
+rec-1186-org,grace,friebel,edwell place,villa 2,moorabbin,2117,wa,19151028.0,7313566
+rec-54-org,dillon,stubbs,murphy street,the swamp,salisbury east,7305,sa,19851018.0,8097614
+rec-1780-org,samuel,milburn,skirving place,,kyabram,2191,nsw,19721128.0,9177714
+rec-189-org,tynan,pota,ijong street,smthfld,eimeo,4076,nsw,19160119.0,8487584
+rec-1868-org,koula,liddy,perry drive,withern house,devonport,5097,wa,19871115.0,6488432
+rec-1965-org,lucy,sandman,vincent place,the spur,camden south,3199,nsw,19830308.0,2887497
+rec-575-org,tahni,murton,macfarland crescent,,ryde,3220,,19231110.0,4111794
+rec-854-org,ebony,morby,macgillivray street,condavale,armidale,2111,nsw,19840906.0,3945914
+rec-1417-org,kobe,george,tenison-woods circuit,cliff house 2,frankston,3028,qld,19960914.0,8823656
+rec-106-org,mackenzie,buzow,snowden place,windsor lodge,greenhill,2152,nsw,19420118.0,2858815
+rec-784-org,bianca,matthews,wentworth avenue,mt pleasant,toowoomba,6743,nsw,19140128.0,1935299
+rec-1155-org,chelsea,colquhoun,tillyard drive,rowethorpe,noarlunga downs,2800,nsw,19690220.0,4281779
+rec-1078-org,lachlan,kerslake,cossington smith crescent,deuverney,clovelly,3197,vic,19901030.0,8553054
+rec-1045-org,harry,mcneill,,,bicton,6751,nsw,19920730.0,5511748
+rec-892-org,sophie,petersen,ivo whitton circuit,flr 5 john flynn medical centre,singleton heights,3094,nsw,19440521.0,1237520
+rec-147-org,matthew,seddon,collingridge street,port 366,paralowie,3803,nsw,19920305.0,6514580
+rec-1044-org,nicole,carbone,schlich street,simpson army barracks,toowoomba,3000,wa,19030926.0,8190756
+rec-908-org,beth,bambling,maclagan street,centennial glen,gowanbrae,5062,nsw,19640705.0,5577694
+rec-525-org,daniele,marceta,halford crescent,kamilaroi cottage,lakes entrance,6072,wa,19820807.0,8788410
+rec-1074-org,bridget,crosswell,parkhill street,blueberry hill,warnbro,3148,sa,19640129.0,8277929
+rec-1238-org,liam,roebuck,ashby circuit,belgrade park,padstow,3002,nsw,19591028.0,3685347
+rec-1593-org,bianca,tunstall,hoban place,birubi point caravn park,palmerston,3144,sa,19280123.0,1340988
+rec-749-org,samantha,drechsler,mara place,tower b rockdale,rochedale south,5495,nsw,19330422.0,8882745
+rec-1105-org,bailey,white,araluen street,,coralville,2114,qld,19131103.0,4312580
+rec-739-org,mitchell,chanter,learmonth drive,bayview towers,benowa,3150,qld,19220713.0,7191519
+rec-1012-org,chelsea,morrison,hansen circuit,public building,golden bay,2680,nsw,19621020.0,6038747
+rec-1405-org,fyynlay,delfos,yumba avenue,karobean,frankston,7051,qld,19410702.0,2399211
+rec-810-org,benjamin,santangelo,case place,roseglen,winthrop,3020,vic,19140729.0,2496528
+rec-1468-org,nathan,afford,standbridge place,moriah fields,orange,3073,wa,,8483826
+rec-1176-org,freya,springthorpe,mina wylie crescent,locn 3439,st clair,6158,nsw,19120525.0,7654842
+rec-935-org,brydee,westermann,burkitt street,mlc centre,banks,3350,vic,19910126.0,1387695
+rec-1227-org,kira,blowes,goyder street,bellfield,davistown,2166,sa,19890603.0,1610583
+rec-617-org,brooklyn,van de kamp,nummerak close,weerona grabben gullen,clifton springs,5097,nsw,19900906.0,1277188
+rec-1678-org,makayla,thorpe,macdonnell street,yakilli park,kogarah,3450,qld,19440116.0,1754223
+rec-1188-org,olivia,tiffin,de lissa street,sunnyspot farm,peregian beach,3500,tas,19110102.0,2900307
+rec-643-org,emiily,,star close,silverweir,yarram,4505,vic,19950402.0,5928066
+rec-1011-org,sophie,bullock,boolee street,,port fairy,6076,sa,19510426.0,3859714
+rec-453-org,david,goldsworthy,palmer street,kilburnie,caulfield north,2200,vic,19650226.0,3383985
+rec-1237-org,emiily,pardey,cane place,rhodes cottage,gidgegannup,2097,nsw,19710322.0,4534889
+rec-1278-org,chelsea,o'day,,woodleigh,woodlands,3179,nsw,19060726.0,9669480
+rec-918-org,eboni,pantazopoulos,allott place,wyoming park,aldgate,2325,sa,19860807.0,9030076
+rec-645-org,lily,ho,mccabe crescent,apple cottage,bellevue hill,2758,qld,,8123343
+rec-12-org,barnaby,siggins,hurley street,lakes retirement estate,kempsey,5162,vic,19981021.0,5752610
+rec-1382-org,brooke,nguyen,truganini place,tallinga park,chelsea heights,6062,vic,19240812.0,8781682
+rec-355-org,kaitlin,dixon,ware place,spylaw farm,morwell,2617,nsw,19420804.0,4342419
+rec-1127-org,,morrison,parnell place,,davistown,2580,nsw,19620915.0,3101161
+rec-559-org,henry,bloomfield,mcdougall street,bendigo retirement village,rosebud,4563,wa,19321112.0,1646845
+rec-829-org,kyra,wilde,groom street,binbimbie,young,3859,qld,19220601.0,6073461
+rec-700-org,christian,white,boolee street,noss,doubleview,4352,nsw,19491125.0,2992541
+rec-639-org,emmet,george,curtin shopping centre,palm lake resort,newington,4860,sa,19860806.0,4029448
+rec-19-org,jack,stanfield,weddin circuit,holmeleigh,madora,4350,wa,19061202.0,7739222
+rec-1847-org,sarah,petersen,shenton crescent,vincent court,birkdale,4311,act,19770508.0,3615543
+rec-1302-org,grace,chitti,neeld place,treasalee,wyoming,3501,wa,19670723.0,9584513
+rec-523-org,aidan,walkley,bunbury street,glenview,ryde,2579,sa,19980813.0,1928366
+rec-1060-org,,cochrane,wollongong street,sec 488,bayswater,4172,vic,19311213.0,5453149
+rec-1226-org,zachariah,walkley,thornhill crescent,brentwood vlge,little mountain,2283,tas,19710311.0,9623159
+rec-588-org,mitchell,nguyen,pleasance place,boxwood vale,sippy downs,2560,qld,19131126.0,8058525
+rec-1893-org,jack,myriti,phillip avenue,cheviot hills,hat head,4305,qld,19020104.0,2920677
+rec-1599-org,caitlin,burford,rowell place,johnflynn medical centre,daw park,3556,nsw,19810303.0,7549173
+rec-900-org,ashleigh,haverfield,kinsella street,,coonamble,5008,sa,19380317.0,4274253
+rec-1021-org,thomas,george,mcmanus place,stoney creek,north turramurra,3130,sa,19630225.0,5460534
+rec-574-org,alisa,ezis,lowerson place,littledale,heathfield,6007,vic,19910312.0,8388422
+rec-832-org,riley,green,barwon street,pink lake caravan park,wangaratta,2168,wa,19630414.0,4942246
+rec-145-org,charlotte,vincent,williamson street,lasswade,toowoomba,4814,nsw,19430214.0,1033071
+rec-316-org,karissa,creten,beattie crescent,birrabilla,moranbah,2525,nsw,19360703.0,2328993
+rec-1858-org,joshua,stephenson,hamersley place,henry kendall hostel,dilston,2319,sa,19121112.0,9006084
+rec-375-org,sam,webb,deamer crescent,belaradah,west lakes shore,2570,wa,19361215.0,4408444
+rec-1196-org,finlay,rivers,crisp circuit,kersey' south,newstead,2071,vic,19111130.0,1094276
+rec-112-org,lachlan,crouch,gillespie street,mt annan,penrith,5040,wa,19280711.0,1476916
+rec-1558-org,cooper,rushforth,tanderra crescent,torquay,rothwell,2115,nsw,19900914.0,9558215
+rec-176-org,yasmin,quilliam,mcculloch street,brackengrae,hurstbridge,5107,sa,19991207.0,5083417
+rec-1269-org,pearson,koopman,hagelthorn street,grammar school,petersham,2009,nsw,19730624.0,7232132
+rec-26-org,,white,curlewis crescent,emu hill,upwey,2460,qld,19130119.0,7900611
+rec-164-org,lucas,,maloney street,dalkeith cottage,craigmore,3595,vic,19111207.0,3698504
+rec-1931-org,aimee,trzcinski,jacobs street,blue hills,frankston,2198,nsw,19280418.0,8941279
+rec-1637-org,louis,zierholz,manifold place,beltrasna angus stud,barrack heights,5520,vic,19661015.0,7022760
+rec-820-org,toby,mason,smyth place,hartley st school,redhead,2212,qld,19971021.0,9080629
+rec-745-org,kyle,matthews,tristania street,lindis faime,lower templestowe,3351,qld,19930618.0,9797918
+rec-844-org,caresse,lyden,nemarang crescent,sunnyspot farm,nunawading,3199,sa,19250803.0,3017029
+rec-1594-org,leo,robson,nullagine street,,ingham,3840,vic,19560910.0,7184177
+rec-793-org,nicholas,lovelock,collingridge street,rooganore,ardeer,2756,act,19911014.0,8010826
+rec-1432-org,griffin,hannett,andrews street,booroondoo north,craigmore,6009,nsw,19290315.0,9735493
+rec-395-org,olivia,green,mugga way,dunoon (cnr camp r road,avenell heights,6148,vic,19051029.0,6438790
+rec-1172-org,takeisha,kaufman,holman street,mclean vlge,cooroy,2229,vic,19970116.0,5410937
+rec-680-org,chelsie,kearnes,schomburgk street,glenveagh,dianella,5573,vic,19350421.0,7712196
+rec-1872-org,owen,dudley,shumack street,shallow crossing,logan,2166,sa,19550402.0,2640696
+rec-530-org,jack,facci,packer street,somerton park,belrose,3806,sa,19960816.0,1697247
+rec-587-org,zac,passalacqua,durham place,bexley,ashwood,2222,nsw,19890206.0,1082732
+rec-1977-org,jack,coleman,parkin street,tara park,tarragindi,4226,qld,19280820.0,1254211
+rec-713-org,sarah,gukulurruwuy,barrow place,elston,ryde,3064,wa,19121206.0,9247927
+rec-410-org,jordan,ryan,carnegie crescent,tahmoor,millbrook,6004,vic,19900903.0,2479030
+rec-1981-org,chloe,crosthwaite,ashkanasy crescent,rosedale,canterbury,4215,nsw,19550722.0,8848058
+rec-1142-org,,webb,barber crescent,gundaline,eleebana,3741,nsw,19281205.0,5814003
+rec-270-org,gemma,kopetow,morgan crescent,laane coree,largs north,2478,nsw,19461104.0,3397501
+rec-685-org,connor,grosser,herschell circuit,cladagh cottage,denhams beach,3083,qld,19230612.0,5253252
+rec-278-org,helena,ebert,garratt street,braeburn,aspley,2024,vic,19710327.0,2510937
+rec-847-org,abby,toseland,haines street,hilldale,mosman,2877,sa,19100830.0,4439847
+rec-1276-org,anastasia,green,erindale drive,villa 102,portarlington,2285,nsw,19720728.0,3163826
+rec-314-org,harrison,campain,ossa place,,mooroolbark,6155,vic,19870409.0,4394472
+rec-1690-org,thomas,white,monaro crescent,birrabilla,point lonsdale,2088,wa,19310818.0,5855559
+rec-1984-org,mitchell,,legge street,sec 552,campbellfield,2761,,19850131.0,3318920
+rec-493-org,callum,glossop,ratcliffe crescent,rowethorpe,st kilda east,6156,wa,19851219.0,1406566
+rec-944-org,cooper,coxon,downard street,homewood,laanecoorie,3128,sa,19070923.0,5430172
+rec-221-org,bailey,bevis,moorhouse street,,hawthorn,3220,nsw,19840317.0,9030562
+rec-463-org,kyle,rothe,tipping place,rosetta village,mittagong,2203,nsw,19520102.0,4930237
+rec-748-org,zarran,jiang,thom crescent,wallendoon station,mount evelyn,6163,tas,19001007.0,4000010
+rec-205-org,lachlan,thorpe,blinkhorn place,geekabee,cordeaux heights,2257,qld,19220128.0,5584987
+rec-907-org,laura,braunack,durville crescent,parkmoor,graceville,2536,nsw,19550419.0,6978084
+rec-1035-org,jaiden,rollins,rossarden street,tulgeywood,balwyn north,2224,nt,19280722.0,7626396
+rec-1818-org,aidan,nguyen,mackenzie street,port hedland regional hospital,camperdown,2573,nsw,,3707777
+rec-104-org,benjamin,carbone,wattle street,arthella,orange,3550,vic,19050820.0,3677127
+rec-1900-org,caresse,thost,schlich street,wildefell,tahmoor,4121,nsw,19200424.0,1155162
+rec-1813-org,oliver,green,fisken crescent,brackengrae,camp hill,2207,qld,19500515.0,3509865
+rec-816-org,caleb,hage,mcdermott street,dallyn,yamba,4350,act,19110405.0,5267640
+rec-1017-org,georgia,blake,huntly,bristin,jesmond,830,wa,19470129.0,4756378
+rec-567-org,isabella,shandley,fincham crescent,wilga,thebarton,2642,nsw,19520602.0,2401777
+rec-628-org,cambell,de la cruz,wirraway crescent,boxgrove,balaklava,2111,nsw,19870911.0,4131610
+rec-1112-org,jessica,canton,canopus crescent,macarthur place,peregian beach,4670,vic,19840428.0,2398287
+rec-1741-org,finn,garcia,yumba avenue,highpoint,toogoom,7322,wa,19640105.0,4449917
+rec-1805-org,connor,de angelis,pambula street,springdale,st peters,2640,vic,19720629.0,8260585
+rec-1252-org,grace,george,hopegood place,willow lodge,mill park,3175,nsw,19200909.0,7396495
+rec-635-org,jacob,stoneman,balsillie crescent,emuvale,bilbul,4226,wa,19920924.0,1597681
+rec-1580-org,blake,fitzpatrick,allan street,cedar oaks,cowra,2257,wa,19121117.0,2439353
+rec-1557-org,dante,longo,rumker place,weeroona,ormond,6058,vic,19980220.0,6540789
+rec-1315-org,lachlan,joannou,woodger place,meilene retirement,mayfield,3023,qld,19770813.0,2419080
+rec-1660-org,ellie,campbell,douglas place,port hedland regional hospital,corio,7008,wa,19380331.0,4597845
+rec-839-org,charles,leane,mentha place,colooli village,keysborough,5211,vic,19870107.0,8426799
+rec-47-org,teaha,binns,castley circuit,warrambucca garden,rokeby,3816,nsw,19760420.0,1129369
+rec-1628-org,levi,wyllie,barnard circuit,links court (cnr susanne s street,scarborough,3020,nsw,19791016.0,1466395
+rec-670-org,emma,louca,cherry place,pinecroft,berwick,3377,vic,19590308.0,4142406
+rec-1620-org,rosa,parr,nicholson crescent,villa 32,mount evelyn,2200,nsw,19080409.0,8467968
+rec-1472-org,harry,mezic,staunton place,kaluna,nambour,2485,wa,19211029.0,1124001
+rec-520-org,hunter,green,kingsmill street,john flynn medical centre,greenacre,3084,nsw,19860813.0,9810237
+rec-1682-org,kyle,paterson,allan street,palm lake resort,toronto,2874,vic,,9754588
+rec-1807-org,joel,boutchard,guguru place,antigua,surry hills,3174,vic,19251116.0,7546007
+rec-478-org,victoria,dixon,cooney court,loma langie,hackham,3165,nsw,19220922.0,4788064
+rec-1455-org,delaney,webb,dennys place,marsland,leichhardt,4129,qld,19571016.0,3898406
+rec-1595-org,keely,liddy,lazarus place,rsl westhaven,benowa,3175,vic,19780919.0,6872855
+rec-1543-org,jarvis,matthews,derrington crescent,the meadows,centennial park,2073,nsw,19750315.0,3771528
+rec-1150-org,talia,silvestrino,kingston street,sec 478 hd paringa,mosman,2067,qld,19311020.0,8926703
+rec-1248-org,benjamin,lowe,macleay street,morocco,wanneroo,2530,vic,19261108.0,5606231
+rec-1719-org,dylan,campbell,bernacchi street,forest hills,port macquarie,2097,qld,19941220.0,9385938
+rec-1305-org,james,campbell,jaeger circuit,hamden place,beechboro,3943,qld,19991103.0,2846606
+rec-1057-org,charlie,roussounis,gledden street,woorabinda,craigmore,6026,nsw,19461111.0,7379154
+rec-1891-org,cooper,dixon,de gillern place,pia place,caulfield north,4114,vic,19670919.0,3514159
+rec-498-org,jasmine,hodgens,burtt crescent,yammacoona,maryborough,6006,qld,19970618.0,8417307
+rec-1871-org,kirra,nguyen,elimatta street,colbara,goonellabah,2291,vic,19810716.0,8305865
+rec-922-org,brooke,nguyen,,chobe,yarraville,2107,wa,19960816.0,9574103
+rec-169-org,kimberly,pavli,pennefather street,,north sydney,3056,nsw,19600628.0,1529118
+rec-969-org,bailee,millar,rowntree crescent,,carlingford,3064,vic,19890910.0,8928243
+rec-452-org,judah,jeffries,condamine street,tinaroo falls,canterbury,2162,nsw,19350906.0,6982133
+rec-207-org,max,moucho,,brae view,keysborough,3936,nsw,19280822.0,6834257
+rec-1913-org,carla,carbone,faithfull circuit,rosehill,westmead,3072,tas,19710605.0,9383264
+rec-223-org,noah,mason,,st james,burwood,2142,sa,19500202.0,8983319
+rec-632-org,clain,entresz,ringrose crescent,jingara,cairns,6023,nsw,19900120.0,5070905
+rec-1658-org,portia,miles,eldershaw place,,spearwood,2134,vic,19520311.0,9170437
+rec-986-org,savannah,hope,medley street,blackridge flyfishing school,northbridge,2088,nsw,19581012.0,5486519
+rec-443-org,joshua,hohn,sommerlad place,coralyn,eight mile plains,3178,vic,19260422.0,6588717
+rec-682-org,nathan,kunik,bunduluk crescent,aremar,ashfield,3149,nsw,19100926.0,5880341
+rec-1503-org,tiana,stubbs,barwell place,lochlee,cromer heights,3869,nsw,19030715.0,1274999
+rec-1654-org,amy,clarke,amagula avenue,villa 56,brisbane,3189,wa,19040510.0,2004573
+rec-910-org,jayden,browne,chaseling street,kincumber nautical vlge,sussex inlet,2630,nsw,19430306.0,2825950
+rec-1016-org,catherine,killin,mcginness street,,lake clifton,3355,nsw,19880913.0,4443647
+rec-560-org,david,sokic,gurubun close,binnalong,dianella,3042,wa,19771128.0,4848529
+rec-1168-org,julia,mantovano,barber crescent,,bogangar,4300,vic,19840315.0,4747871
+rec-96-org,dayna,stephenson,fellows street,tubbarubba,pallara,4059,qld,19201111.0,9364184
+rec-150-org,edward,grafton,atherton street,ballegun,knoxfield,4575,nsw,19920821.0,2810290
+rec-644-org,thomas,voorendt,alpen street,tathra,st albans,3567,nsw,19830805.0,1466357
+rec-1568-org,marleigh,clarke,hodgson crescent,hawkins masonic vlge,northcliffe,2444,vic,19301107.0,3693124
+rec-1697-org,zachary,hope,costello circuit,foxlea,mosman,2280,nsw,19390217.0,2473890
+rec-577-org,hugo,manson,cox street,milpara,mount eliza,2530,qld,19321204.0,2042233
+rec-415-org,heather,white,doonkuna street,millenium towers,vermont,3822,vic,19860128.0,6026159
+rec-1816-org,natalia,green,macrossan crescent,newman medical centre,yagoona,2535,qld,19910111.0,3131587
+rec-1046-org,paul,shinnick,steinwedel street,navan park,spotswood,4740,vic,19110916.0,8600040
+rec-1527-org,emiily,jolly,barclay street,wangrah,airlie beach,4870,vic,19090420.0,4870757
+rec-1102-org,william,afford,marengo place,the hammond village,albury,2303,sa,19730414.0,7921733
+rec-1726-org,thomas,alagich,crago place,country club,toorak,3216,sa,,3790888
+rec-1495-org,edward,buttrose,armstrong crescent,coogee beach caravan resort,kirwan,3429,nsw,19040811.0,5663433
+rec-1022-org,jackson,eglinton,fowles street,mountview,burleigh heads,2830,sa,19830807.0,2932837
+rec-394-org,alexander,mccarthy,collings street,balala station,blakehurst,2913,qld,19280419.0,1582861
+rec-1184-org,victoria,alderson,kadina crescent,wealdstone,bribie island,4701,nsw,19920117.0,7627842
+rec-678-org,kaitlin,geue,sheaffe street,ridgepoint,cronulla,3266,vic,19090903.0,2838932
+rec-997-org,spyke,morrison,magenta square,parklands village,geraldton,3352,qld,19061014.0,7686370
+rec-1351-org,charlie,gonzales,gosse street,shelbourne woodstock,preston,3796,qld,19100521.0,2130490
+rec-339-org,sarah,everett,magrath crescent,rowethorpe,chinchilla,2903,vic,19900226.0,8413957
+rec-101-org,naomi,vincent,southern cross drive,ascotvale,wendouree,5044,vic,19961103.0,4811286
+rec-840-org,isabella,shepherd,evelyn owen crescent,wirruna,bindoon,2263,vic,19990122.0,7775354
+rec-1674-org,zoe,gajda,eddison place,rosebrook,concord,6058,nsw,19600515.0,2599162
+rec-906-org,madison,goldsworthy,ina gregory circuit,ortawenah,maroota south,3579,vic,19760411.0,6295703
+rec-858-org,nicholas,ryan,lander crescent,strathdene,gosford east,2453,qld,19100820.0,7460798
+rec-1586-org,kazuki,fenwick,herron crescent,sunnyview,leichhardt,2564,nsw,19530925.0,6921972
+rec-1381-org,madison,ebdell,southlands shops,yellow dam,humpty doo,6110,tas,19541129.0,9104054
+rec-770-org,liam,thorpe,paul coe crescent,kianinny cabins,penrith,2204,nsw,19911112.0,9435582
+rec-1812-org,kaitlin,donaldson,praed place,prospect creek,oakleigh east,2121,tas,19520918.0,3119350
+rec-274-org,charlotte,orchard,dickinson street,,narellan,4551,wa,19850330.0,3193520
+rec-953-org,cooper,brain,mccormack street,karoola,labrador,2448,nsw,19651027.0,9958874
+rec-1745-org,melinda,sherin,conley drive,,macmasters beach,3226,vic,19511104.0,9615557
+rec-727-org,joshua,frogley,martin street,tamwell centre,appin,2250,qld,19751024.0,9897586
+rec-46-org,ethan,campbell,reuther street,,moorook,4700,nsw,19331009.0,3430363
+rec-1512-org,zarran,bradshaw,carnegie crescent,,,6147,vic,19350707.0,7831798
+rec-330-org,nathan,monaco,hollis place,villa 2,summer hill,4207,nsw,19251021.0,1784132
+rec-1429-org,kathleen,wasley,sturgeon street,langley flats,mount evelyn,6019,qld,19761013.0,6077676
+rec-1250-org,alexandra,dolan,oxley street,cranky jack,,3165,qld,19540418.0,8776463
+rec-1758-org,joshua,green,hawkesbury crescent,loughmore,penola,6020,qld,19010219.0,2855631
+rec-1530-org,joshua,gully,biggs place,professional centre,rochester,2750,vic,19170224.0,8613712
+rec-1462-org,ella,wiseman,shoalhaven avenue,garanga,bulimba,2485,vic,19031013.0,1872004
+rec-465-org,kynan,steinert,haystack crescent,,moss vale,2774,nsw,19371230.0,3332023
+rec-1775-org,harry,kremneff,dalziel street,eventide homes,parkdale,2747,vic,19410721.0,6547065
+rec-1330-org,,weidenhofer,grylls crescent,warrambucca garden,forbes,4066,wa,19171010.0,6035150
+rec-513-org,harrison,speight,wattle street,,elizabeth park,5032,qld,19740617.0,7490966
+rec-625-org,katelin,o'shannessy,gallagher street,gimberts road,,2261,qld,19230503.0,8662085
+rec-1311-org,,maynard,fitchett street,boxdale,winmalee,2195,sa,19181112.0,5043639
+rec-834-org,braedon,schuetz,howarth place,villa 19,alice springs,2024,vic,19440909.0,5276446
+rec-1280-org,caitlin,mason,oakey creek road,moondah,parramatta,3036,nsw,19250317.0,2470308
+rec-1103-org,indiana,goonan,sparkes close,corinella glen,carnegie,3135,nsw,19610313.0,9556041
+rec-1494-org,emiily,ryan,barlow street,,condon,4030,nsw,19830414.0,7013840
+rec-1575-org,marcus,dunstone,mcgowen close,paradise stud,toorak,4802,sa,19960531.0,8697439
+rec-1796-org,ruby,clarke,lalor street,forestvale,newlyn,3922,qld,19641008.0,5280388
+rec-222-org,matilda,daven,tristania street,martins well station,tweed heads,3181,vic,19040105.0,1136666
+rec-409-org,luke,lowe,kneebone street,mt pleasant,wallaville,3185,wa,19520928.0,9454024
+rec-317-org,zali,clarke,darwinia terrace,,keilor east,2233,sa,19320926.0,2336128
+rec-385-org,diamond,beiler,devonport street,craiglee station,maryborough,4221,vic,19050207.0,3554756
+rec-72-org,ella,cordina,barnett close,ardrossan,camperdown,6158,vic,19880914.0,4084063
+rec-940-org,samuel,ryan,emerton street,grandview,rosebud,2040,wa,19600615.0,2877050
+rec-1832-org,alexandra,noble,tytherleigh street,,paddington,7000,tas,19720105.0,3043242
+rec-722-org,jordan,white,casey crescent,villa 48 alloura waters village,burleigh heads,3458,nsw,19181120.0,1850609
+rec-932-org,ebony,lavender,beaurepaire crescent,james milson retrmnt vlge,seven hills,6019,sa,19401126.0,5364330
+rec-237-org,shantal,mckinnell,mceachern crescent,blueberry,ruse,2324,qld,19620715.0,5127261
+rec-886-org,laura,webb,,martins well station,trigg,2108,vic,19690412.0,4088462
+rec-20-org,thomas,marinos,davison place,boonooloo,killara,5008,nsw,19741116.0,9081995
+rec-1724-org,claudia,carsley,ern florence crescent,brentwood village,east ryde,3034,act,19230117.0,3694984
+rec-471-org,hayley,belperio,crofts crescent,inglewood,north turramurra,7248,nsw,19280910.0,2514932
+rec-1909-org,tynan,clarke,curnow place,liselican,lawrence,4872,vic,19680102.0,7434559
+rec-1189-org,jacob,coleman,shenton crescent,katalina forrest,roselands,5041,nsw,19760506.0,8055185
+rec-864-org,taylah,godfrey,greene place,arawang,cecil plains,2216,nsw,19890403.0,7030753
+rec-1389-org,john-paul,binns,brand street,uc-dai-loi,mawson,4012,nsw,19070612.0,9026975
+rec-459-org,georgia,pettigrove,sinclair street,pinda,prairie,2478,nsw,19231019.0,9695933
+rec-1962-org,thomas,mchenry,mccawley street,beach house,laverton,2611,wa,19770325.0,6818258
+rec-62-org,sophie,lodiong,magrath crescent,beaudesert caravan park,ballina,4051,nsw,19530823.0,5266216
+rec-360-org,juliana,holyoake,bennett street,sec 202,st clair,5108,act,19830808.0,4389245
+rec-1974-org,joshua,miles,meiklejohn place,rowethorpe,hamilton,3183,wa,19000706.0,6904808
+rec-1932-org,xavier,zimmermann,mackay crescent,prospect creek,mundingburra,7000,wa,19510408.0,9049992
+rec-782-org,jessica,petersen,springvale drive,,toowoomba,2905,nsw,19840906.0,5526479
+rec-350-org,pace,ryan,watchorn close,bolaro,mackay north,2142,vic,19790201.0,4786556
+rec-404-org,lachlan,headon,handasyde street,killarney,kirrawee,6025,vic,19061101.0,4078435
+rec-594-org,hugh,moody,jalanga crescent,grangemore,rye,4740,qld,19020220.0,7632147
+rec-1727-org,joshua,campbell,ballumbir street,hornby lighthouse,harbord,3198,vic,19670227.0,6114246
+rec-891-org,emma,thackeray,kinkead street,warrah lea,ballarat,4161,,19670913.0,4676877
+rec-1200-org,william,lazaroff,leahy close,millwood,forbes,7256,qld,19780204.0,8072193
+rec-1163-org,toby,callister,abbott street,terra nostra,balhannah,6027,qld,19790125.0,3037039
+rec-1108-org,jaime,lontoc,maclean street,loma,dalby,2146,vic,19840729.0,4141446
+rec-1619-org,caitlin,crapp,nanda place,the sarina centre,lilydale,4215,qld,19110118.0,1770135
+rec-30-org,jack,papageorgiou,galloway street,palm lake resort,rosebery,3904,wa,19961219.0,8732568
+rec-1886-org,tristan,carp,marchant circuit,georgedale,campbelltown,2913,nsw,19281204.0,1421166
+rec-773-org,kaysey,kon,gaylard place,ohio station,,5009,vic,19600828.0,8475924
+rec-363-org,annalise,denholm,playfair place,fig trees,prospect,2284,nsw,19310404.0,7511051
+rec-789-org,isabelle,chittleborough,burrinjuck crescent,goldview,port macquarie,2466,nsw,19470725.0,3979337
+rec-225-org,heath,pulford,forbes street,bullarook park stud,plympton south,2486,nsw,19290623.0,9996491
+rec-1533-org,judah,mernitz,chevalier street,north doodlakine,shellharbour,2500,sa,19431029.0,9547934
+rec-538-org,sebastian,mahony,le gallienne street,brentwood vlge,sunshine,4073,qld,19220613.0,1542344
+rec-554-org,dominic,dixon,candlebark close,elmwood,orange,4178,act,19420409.0,4798978
+rec-988-org,madeline,mason,hoseason street,lakefront retrmnt vlge,granville,4818,nsw,19081128.0,2185997
+rec-185-org,kelsey,priest,cambridge street,talasea,south melbourne,2234,nsw,19991209.0,8167161
+rec-895-org,holly,reid,pope street,kilnacrott,westfield,5253,nsw,19211120.0,8240957
+rec-1087-org,harriet,hage,togo place,caravn park,vale park,2300,nsw,19950203.0,1149839
+rec-53-org,tiarna,rump,yalga close,rowethorpe,baxter,4037,vic,19180211.0,2182440
+rec-1890-org,talia,hilton,rosella street,,camperdown,3752,vic,19201231.0,9206639
+rec-1901-org,casey,vitkunas,jones place,karinga park,emmaville,2346,tas,19551102.0,2474313
+rec-692-org,alyssa,stubbs,marchant circuit,berowra,daylesford,6062,nsw,19430526.0,3921899
+rec-56-org,marco,maleszka,genoa street,winrae,exeter,2251,vic,19391223.0,9915886
+rec-822-org,ruby,vincent,bunya close,lumeah cottage,corrimal,3806,sa,19430807.0,3231773
+rec-1693-org,felicity,godfrey,stuckey place,oaklands village,slacks creek,6050,nsw,19361030.0,6452813
+rec-22-org,tess,beckwith,musgrave street,dale view,caloundra west,2905,wa,19350624.0,3602593
+rec-1000-org,sophie,waller,goldfinch circuit,suunybrae,mona vale,2285,vic,19380705.0,2972902
+rec-664-org,hamish,huebner,shepherdson place,boeing park,berriwillock,2259,vic,19441219.0,4829612
+rec-349-org,jayden,beattie,wray place,somerled,south brisbane,3149,nsw,19760501.0,8476326
+rec-1836-org,jay,clarke,perrin circuit,lemnos,evans head,4356,qld,19260823.0,8531513
+rec-714-org,erin,webb,harbison crescent,tintagel,balcatta,7250,tas,19751229.0,7361524
+rec-386-org,mikhayla,staude,onkaparinga crescent,nullo mntain,trentham,2211,tas,19111004.0,2821444
+rec-1474-org,oscar,goldsworthy,waller crescent,riversdale caravan park,bossley park,2037,wa,19160410.0,4576980
+rec-466-org,alex,macgowan,knox street,,hazelbrook,2067,act,19731006.0,3829141
+rec-842-org,chelsea,schoebinger,mayo street,winteriga,ringwood east,3352,qld,19280930.0,3488070
+rec-451-org,finn,bishop,bertel crescent,meemar,new farm,3021,nsw,19231205.0,5327827
+rec-1668-org,emmerson,lock,burnie street,gordale,thursday island,3147,vic,19211129.0,3901477
+rec-456-org,joshua,green,maddock place,lypiatt,edgecliff,6244,qld,19790110.0,4331997
+rec-927-org,lucinda,nguyen,tate street,cygnet river schoolhouse,surrey hills,4103,qld,19741006.0,3028286
+rec-1199-org,jack,saccardo,marsden street,pegg's creek,belconnen,2026,nsw,19201129.0,5032448
+rec-781-org,lily,manfield,cambage street,fairlight,harbord,3028,vic,19370630.0,3130875
+rec-448-org,jacob,capel,elvire place,burnie thompson park,jacana,4121,vic,19890817.0,9467362
+rec-1030-org,emma,crossman,mcdowall place,kellhaven,tara,5608,vic,19391027.0,3561186
+rec-1409-org,amy,barton-ancliffe,maitland street,dananbilla,mcmahons point,830,vic,19290104.0,6730658
+rec-1101-org,brooke,brain,florence taylor street,shadoof lodge,lilli pilli,4869,nsw,19611223.0,9562116
+rec-950-org,david,kentsch,stockdale street,rowethorpe court units,ivanhoe,4069,vic,19840130.0,9252152
+rec-1239-org,georgia,mason,ashby circuit,sheep station,oakleigh,2106,nsw,19740809.0,6257051
+rec-528-org,rosie,rundle,sturt avenue,talonmane,bundaberg,2263,nt,19751109.0,9092692
+rec-1034-org,erin,maynard,wilshire street,warialda,little river,2777,vic,19970430.0,7429462
+rec-1814-org,miller,egan,fergusson crescent,john flynn medical centre,como,2580,nsw,19700305.0,5022596
+rec-356-org,samantha,doblinger,bangalay crescent,the hammond village,deer park,4380,nsw,19131222.0,1907245
+rec-1243-org,isabella,millar,sherwood circuit,jasmine lodge,east maitland,4055,vic,19401025.0,5762876
+rec-458-org,timothy,broadby,marengo place,lewin lodge,leonards hill,2770,qld,19670530.0,3863457
+rec-1376-org,aidan,nguyen,jerrabomberra avenue,brentwood village,broome,4022,vic,19011002.0,5998380
+rec-736-org,jasper,mcwhirter-whitlock,daley crescent,cheviot hills,armidale,5048,qld,19530402.0,5002405
+rec-1088-org,thomas,nel,hopegood place,kordella park,freshwater,7054,vic,19480712.0,7889710
+rec-376-org,catherine,matthews,abrahams crescent,the stables,beecroft,4225,vic,19810321.0,4030528
+rec-933-org,madison,white,enright crescent,mystra,invermay,3081,wa,19071011.0,9715765
+rec-951-org,rachel,singleton,verbrugghen street,rio rita caravn park,largs,5021,vic,19030715.0,6508426
+rec-1167-org,eliza,wotton,crozier circuit,raffa estate,the hummock,3072,vic,19260820.0,9804852
+rec-34-org,erin,green,len waters street,panaroo farm,torquay,5601,qld,19480705.0,6217407
+rec-1042-org,kiandra,cowle,gatliff place,rustenburg sth,girgarre,3995,qld,19801125.0,3328205
+rec-379-org,emiily,webb,stewart crescent,,dapto,2153,vic,19501128.0,3138809
+rec-0-org,jinni,dreyer,were street,marriott downs,south melbourne,3172,nsw,19420127.0,3787407
+rec-1640-org,jacob,rees,beazley crescent,wiluna,thornbury,3134,nsw,19580902.0,9679326
+rec-325-org,abby,ballantyne,reveley crescent,narek,mount evelyn,3021,nsw,19530808.0,5179699
+rec-1561-org,lara,slape,lamington street,rosehill,albany creek,6020,wa,19010927.0,2204911
+rec-428-org,katelin,voy,nott street,,graceville,4879,vic,19511208.0,3546400
+rec-912-org,harrison,stanley,majura road,goughs bay,bayswater,2117,wa,19511004.0,1301653
+rec-455-org,amber,neumann,mockridge crescent,rockley,hendra,2630,nsw,19881119.0,9872778
+rec-287-org,joshua,harrington,davitt close,mirinjani vlge mirinjani hostel,wangaratta,2209,vic,19610601.0,5960004
+rec-50-org,dillon,camp,learmonth drive,old cob,geraldton,7015,tas,19330905.0,5756664
+rec-353-org,darcy,shepherd,,unt 2,kinross,2540,nsw,19771226.0,6039792
+rec-1855-org,thomas,simmonds,lyall crescent,,berrimah,3163,nsw,19590127.0,2772828
+rec-1519-org,hannah,collier,allison place,tweed heritage caravan park,warilla,6330,nsw,19510617.0,8330342
+rec-980-org,spyke,karlsen,northam street,aptmt 206,southbank,2320,wa,19641029.0,5567470
+rec-880-org,,campbell,loder place,eden park,rowville,3040,sa,19570115.0,4301812
+rec-1663-org,oliver,laverty,burrinjuck crescent,hybernia park,kogarah,3844,vic,19050801.0,7774343
+rec-174-org,ella,weller,arthur circle,villa 184,springvale south,2653,,19020422.0,5679851
+rec-1420-org,ned,george,colborne place,rosedale,maryborough,2221,wa,19290715.0,5389901
+rec-855-org,jasmine,royle,minehan place,geregarow station,werrington,5162,nsw,19471027.0,8590831
+rec-1551-org,deakin,brooker,andrea place,stonehouse,newmarket,3175,wa,19271025.0,4896662
+rec-1834-org,hana,weaver,colvin street,,albury,6084,,19181111.0,9473856
+rec-1918-org,paul,coleman,fisk street,shopping centre,north ryde,2710,sa,19940821.0,7652642
+rec-186-org,tansy,nekar,boddington crescent,eulong,campsie,2620,nsw,19190804.0,4995109
+rec-1582-org,ethan,mason,fink crescent,kurrajong,mermaid waters,6286,qld,19080317.0,9375310
+rec-371-org,melinda,walch,sage close,cresden 12182,toowong,2549,vic,19220419.0,4495651
+rec-121-org,william,shepherd,horsley crescent,annesley,clayton,2203,qld,19920927.0,8560358
+rec-206-org,lucas,kotal,boddington crescent,glenlee,minto,4115,vic,19851115.0,6544603
+rec-1859-org,thomas,waller,mackenzie street,warrawong,trevallyn,4019,wa,19760904.0,1578270
+rec-1964-org,caitlin,clarke,becker place,southern cross,raymond terrace,4122,sa,19520130.0,5950177
+rec-792-org,amy,smeaton,rivers street,gullamurra,port pirie,7178,qld,19390126.0,9715378
+rec-1698-org,eliza,stubbs,diamond street,killara lodge,ingleburn,2032,vic,19741001.0,7309530
+rec-1912-org,charlotte,dixon,ferber place,mlc centre,geelong west,4810,qld,19141202.0,3783386
+rec-60-org,nicole,neville,mccormack street,,corrimal east,2211,qld,19150910.0,7061873
+rec-1704-org,imogen,louca,blackwell circuit,bindaree,coolum beach,2800,qld,19180129.0,2930517
+rec-1098-org,zac,morrison,cygnet crescent,killarney,bundaberg north,4020,qld,19130807.0,4641311
+rec-154-org,alisa,van keulen,wakefield avenue,deridgeree,matraville,6160,vic,19561006.0,6451488
+rec-705-org,archie,clarke,nangor street,omaru,westmead,2251,vic,19780909.0,5273648
+rec-1808-org,katelyn,ryan,newman morris circuit,rsde 302,stephens,3011,qld,,2290010
+rec-1469-org,jack,broadby,davies place,glanworth station,colonel light gardens,2226,nsw,19190411.0,9327822
+rec-1332-org,cooper,cadwallader,mckillop circuit,ohio station,kellyville,4165,vic,19560918.0,9773620
+rec-862-org,arabella,stubbs,ringrose crescent,the park,st huberts island,5007,wa,19261116.0,7685033
+rec-340-org,liam,dixon,curnow place,peroomba,greenwood,5113,qld,19450114.0,4280929
+rec-1889-org,danika,alhabsji,ewing street,oakdale,toowoomba,2161,vic,19020325.0,2643761
+rec-1702-org,thomas,dumpe,sparkes close,talonmane,orelia,4807,qld,19040116.0,7197230
+rec-374-org,holly,webb,vansittart crescent,mannafields farm,coomallo,3047,wa,19361103.0,6664841
+rec-1574-org,travis,gearman,birdwood street,sunny brees,chatham,5353,nsw,19461203.0,9247527
+rec-1605-org,ellen,mason,parkhill street,tintagel,kingston,2800,vic,19040813.0,4116673
+rec-765-org,bianca,wyllie,folingsby street,villa 3,woodcroft,3196,sa,19521130.0,6347027
+rec-1206-org,jake,musolino,goodwin street,shopping centre,bundaberg,3175,vic,19400225.0,9383963
+rec-1633-org,jacob,clarke,sulman place,dianella masonic vlge,prospect,2280,nsw,19500505.0,3831021
+rec-1865-org,matthew,ryan,barraclough crescent,lindisfarme,craigie,2575,nsw,19791003.0,4949902
+rec-16-org,emiily,blake,kevin street,sunbury,tinbeerwah,6210,vic,19081017.0,7575886
+rec-383-org,fyynlay,clarke,leason close,tantallon,,5290,wa,19331228.0,7464958
+rec-598-org,madeline,purtell,dennis street,,franklin,4570,qld,19811121.0,3603598
+rec-1247-org,xani,webb,len waters street,willmont park,landsborough,2617,wa,19911101.0,8286026
+rec-1096-org,andrew,cambell,dennis street,brindabella specialist centre,whorouly,3636,vic,19420601.0,9196209
+rec-1869-org,evan,dreyer,smiths road,sydney road,redbank plains,2611,vic,19930408.0,4211470
+rec-229-org,mattheo,haren,bentham street,kularoo garden,robina,3941,vic,19770918.0,1826559
+rec-1623-org,,de paoli,neumayer street,riverland village,prospect,2452,nsw,19990313.0,1420240
+rec-1325-org,cameron,burford,brand street,diamond star,casino,5098,nsw,19240223.0,2546762
+rec-1572-org,ellie,beazley,,kuliup,spotswood,870,vic,19350718.0,3294834
+rec-1963-org,jade,browne,noble close,circle h,avoca,3180,qld,19921015.0,1314590
+rec-1860-org,,abeywickrama,carnegie garden,derry lodge,armidale,2299,qld,19130224.0,6845689
+rec-800-org,clement,hyland,throsby crescent,carrington retrmnt vlge,mount gravatt,2176,qld,19581028.0,3982916
+rec-1800-org,ronan,phillpott,southwood retreat,tieve tara,lalor,2177,sa,19530921.0,6393449
+rec-1902-org,samuel,bishop,beedham place,buffel rise,highbury,3844,vic,19450525.0,1234782
+rec-219-org,jacob,kopievsky,downward place,banksia village,bunbury,4671,qld,19470530.0,3777070
+rec-925-org,emiily,wilkins,chuculba crescent,rowethorpe,blacksmiths,2122,sa,19470425.0,9861786
+rec-1235-org,liam,matthews,alexandra street,albeni station,eight mile plains,2101,qld,19250915.0,5551029
+rec-401-org,alexa-rose,white,warrego circuit,burnside,bayswater,3040,nt,19160822.0,2502613
+rec-993-org,jake,westbrook,booroondara street,ascot park,salisbury east,2074,nsw,19001115.0,2330929
+rec-1110-org,william,sztolc,manuka circle,crown allotment,marsden,3136,vic,19780124.0,1398044
+rec-333-org,juliana,berry,nungara street,tantallon,alfords point,2620,nsw,19630218.0,2105374
+rec-1181-org,annalise,ebert,cuscaden crescent,sunny-brae,surrey hills,2444,wa,19280516.0,7465191
+rec-1705-org,jake,green,cussen street,blacksdane private sanctuary,blacktown,6152,vic,19040723.0,2432617
+rec-1839-org,tyron,girdler,galibal street,vanorluc rmb 4050,sale,7050,nsw,19630710.0,7496929
+rec-135-org,nicholas,pamplin,werriwa crescent,inglewood,dinner plain,4101,nsw,19891125.0,2631349
+rec-1230-org,john,hamblin,wallace place,claymore springs,woy woy,6758,vic,19171215.0,1084423
+rec-1055-org,courtney,dumphy,nardoo crescent,warringa nebraska,tingalpa,2114,nsw,19340914.0,5053600
+rec-479-org,natalee,coleman,minns place,,waterman,3910,vic,19110405.0,3646292
+rec-293-org,samuel,voivodich,manton place,brentwood vlge,buddina,4218,nsw,19820724.0,2733496
+rec-1906-org,matthew,green,,cotswold park,lake bathurst,3194,vic,19981225.0,4706388
+rec-1560-org,charlotte,hyland,madsen place,leisure living vlge,clarinda,3108,qld,19340909.0,9354762
+rec-1502-org,daniel,nguyen,castleton crescent,south macroom,st johns park,5157,sa,19620518.0,8870477
+rec-95-org,jaiden,coleman,radcliffe street,fernbank,concord,4550,vic,19720423.0,6077956
+rec-1228-org,hayden,covino,deamer crescent,glengariffe,north ryde,2750,qld,19541104.0,2494239
+rec-778-org,luke,kennison,minchin place,,sale,4178,qld,19830606.0,6786988
+rec-1460-org,noah,weller,swanton street,morago,valentine,7305,nsw,19540118.0,7771880
+rec-1493-org,matthew,green,larpent street,brentwood vlge,dianella,2101,vic,19410114.0,8051408
+rec-1854-org,harley,shelley,gilmore crescent,elura homestead,bundaberg,2120,nsw,19860129.0,5695174
+rec-985-org,felicity,pulford,federal highway,argyle,mayfield,4125,qld,19860610.0,2661643
+rec-621-org,jessica,anjewierden,duffy street,kianinny cabins,bongaree,2227,qld,19120208.0,7536704
+rec-843-org,hayden,cochrane,boolee street,dunbar heights,kirrawee,2161,wa,19750824.0,8180536
+rec-1431-org,renee,mccarthy,buckmaster crescent,dallyn,monto,2615,,19130601.0,7298657
+rec-825-org,neve,thandi,mcmaster street,brinjarry,belmont north,3134,qld,19901230.0,7760403
+rec-1508-org,,domarecki,kenyon circuit,wimdaliri,lilli pilli,2905,nsw,19840424.0,2095670
+rec-348-org,ellen,dixon,litchfield place,killara lodge,mill park,4053,wa,19281110.0,9305219
+rec-1203-org,madelyn,egan,bourchier close,brentwood vlge,carrum,5155,qld,19540426.0,6879986
+rec-1830-org,amelia,kochiwama,antares crescent,telopea park,benowa,7017,nsw,19000626.0,2398260
+rec-301-org,harley,mccarthy,kavel street,rawdon,grenfell,4740,qld,19720307.0,8973506
+rec-975-org,hannah,haeusler,canterbury crescent,the mall,cardiff,3049,nsw,19980607.0,5361287
+rec-468-org,connor,garnett,endeavour street,glengariffe,winston hills,3815,qld,19780304.0,8434605
+rec-811-org,madeline,clarke,lambrigg street,bribie retirement,broadmeadows,2198,sa,19110724.0,9892254
+rec-758-org,james,white,brownless street,whispering pines,campbelltown,3130,nsw,19530706.0,9910431
+rec-389-org,jaiden,feeney,coode street,dugout 65,blackall,3040,nsw,19370722.0,5632197
+rec-546-org,george,artis,macfarland crescent,tulla burra,springfield,4019,vic,19810320.0,5959224
+rec-1090-org,nikita,zheng,jalanga crescent,miami,alfred cove,2140,nsw,19611024.0,1484902
+rec-1875-org,kadin,millar,prout place,rich meadows,aspley,4815,wa,,3783878
+rec-1563-org,anton,dukic,forsyth place,copely,unanderra,5076,nsw,19800615.0,3307289
+rec-529-org,erin,donaldson,hawkesbury crescent,aralee,lewiston,7018,,19810427.0,2955815
+rec-1120-org,samantha,brinsmead,bokhara circuit,jumble springs,mentone,2282,nsw,19150124.0,7251837
+rec-636-org,charlie,goode,tauss place,grandview,mitcham,2575,vic,19761213.0,6548135
+rec-642-org,katelyn,colegate,fiveash street,retirement village,londonderry,2195,nsw,19280828.0,4406021
+rec-236-org,jack,shepherd,callister crescent,paradise lake resort,lindfield,5037,nsw,19930210.0,1346125
+rec-1750-org,melanie,bouras,inwood place,gorge creek orchards,hoppers crossing,2203,nsw,19971016.0,9221934
+rec-1972-org,mia,elwan,macgregor street,rosedale,belmont,4703,vic,19990330.0,9541559
+rec-1386-org,meg,mcgregor,pickering street,willandra,glenelg south,2043,tas,19300304.0,1559422
+rec-1667-org,amber,pamplin,andrea place,milton,seven hills,5045,wa,19370407.0,1824555
+rec-260-org,robin,morrison,markham street,balmain cove,broadmeadows,6169,vic,19250124.0,8539119
+rec-691-org,marley,hentze,tardent street,loma langie,seaton,2759,nsw,19510221.0,9837981
+rec-1039-org,angus,rosa,gormanston crescent,mlc centre,kirwan,3350,sa,19250817.0,2655081
+rec-117-org,charlie,block,mulga street,dalkeith cottage,toorak,7190,sa,19790821.0,2643187
+rec-178-org,sophie,pascoe,blackman crescent,lamington national,pacific paradise,3284,sa,19941127.0,9967942
+rec-1782-org,amelia,blake,halfrey circuit,mt pleasant,shoalhaven heads,6162,sa,19880506.0,4642758
+rec-1980-org,braiden,ewald,kambah exchange street,petriwil,yangebup,2135,vic,19631104.0,9333629
+rec-1696-org,matthew,donaldson,manity court,pacific terraces,charmhaven,3101,vic,19940825.0,9817986
+rec-1754-org,henry,jouravlev,belconnen way,townview,kingsford,6069,vic,19010319.0,9348986
+rec-1829-org,shakirah,evans-zijlstra,ashkanasy crescent,townview,robina,2340,vic,19510905.0,4746855
+rec-741-org,chelsea,meadows,duffy street,,shenton park,3162,vic,19861126.0,6251773
+rec-1187-org,kayla,humphreys,carbeen street,,dianella,2033,qld,19250422.0,6049427
+rec-412-org,luka,rees,solly place,wyoming park,strathbogie,2327,vic,19000103.0,8588392
+rec-1997-org,oscar,boyes,mcgivern crescent,nullabean,yarrawonga,2145,nsw,19040415.0,2511448
+rec-728-org,holly,afford,investigator street,amaroo hostel,carnegie,3162,qld,19640331.0,3689671
+rec-187-org,emiily,bullock,ivo whitton circuit,kacadoo,blackburn north,3746,nsw,19470901.0,2457694
+rec-956-org,andrew,herbert,yeo close,st vincents medical centre,oakey,3840,qld,19510816.0,6165385
+rec-183-org,bryce,mason,tank street,burrawong park,penrith,4305,nsw,19260419.0,4300873
+rec-1208-org,jade,jolly,jinka street,redlands,avondale heights,4510,nsw,19310801.0,8055203
+rec-1404-org,mikayla,clarke,richardson circuit,windy gully,campbell town,3184,vic,19970326.0,3619696
+rec-1309-org,nathan,reid,coobina place,violet creek,mcdowall,7004,qld,19960510.0,5697632
+rec-406-org,xavier,willing,blackbutt street,upa cottages,raceview,2506,nsw,19060211.0,4023184
+rec-779-org,charlotte,mccracken,,flr 5 john flynn medical centre,bligh park,4814,nsw,19570529.0,6092940
+rec-1139-org,emiily,white,cheeseman place,site lakes caravan park,midland,5023,nsw,19500222.0,6098042
+rec-788-org,charlotte,glass,sculptor street,green farm mates,hahndorf,2581,qld,19510713.0,3792276
+rec-1934-org,lucy,bela,myall street,cohuna estate,ryde,4163,vic,19090524.0,6448886
+rec-688-org,kelsey,nguyen,champion place,rosebrook,boronia heights,2036,nsw,19130601.0,8154269
+rec-510-org,timothy,britten,clarkson street,wyoming park,ulladulla,7320,wa,19680222.0,7761320
+rec-1844-org,adele,walls,abercrombie circuit,congreave court,beverly hills,3219,qld,19041026.0,4207496
+rec-869-org,sean,matthews,,marandyvale,bunbury,5051,sa,19520805.0,2832579
+rec-110-org,sara,stanley,quinlivan crescent,pacific ranch,joondanna,2119,sa,19220615.0,1551636
+rec-1356-org,katelyn,thurlow,mccawley street,bell place (cnr bell r road,seddon west,2452,vic,,7598676
+rec-754-org,jackson,cherini,dennis street,belmont bayview park,marburg,4507,qld,19680225.0,5300756
+rec-1982-org,ruby,goryan,keartland street,nedlyn,scarborough,3023,wa,19351205.0,7204516
+rec-1841-org,courtney,bellchambers,brigalow street,glendas,arundel,3041,vic,19001227.0,1025076
+rec-1787-org,jared,gajda,letters street,,coombabah,2792,nsw,19560718.0,2380185
+rec-655-org,rebecca,trenerry,ashburner street,little glencoe,roxburgh park,2000,wa,19050103.0,2980023
+rec-1874-org,jacob,satterley,mclachlan crescent,pyramid cara park,long beach,2042,vic,19570212.0,3993788
+rec-405-org,nicholas,polmear,wynn street,bowen palms caravan park,coffs harbour,5017,nsw,19070819.0,3163069
+rec-902-org,matthew,clarke,illawarra court,carisbrook,south perth,4670,vic,19340701.0,9975239
+rec-202-org,elizabeth,stephenson,hallen close,warra,kununurra,4127,nsw,19121119.0,4481240
+rec-400-org,michaela,deese,leason close,craigie lea garden,charlestown,2537,nsw,19360507.0,6307936
+rec-1618-org,ashleigh,whiteway,cotton street,tubbarubba,park orchards,3123,vic,19610704.0,5163016
+rec-417-org,anna,eisner,creswell street,giants creek vinyard,seven hills,6155,qld,19661231.0,9314098
+rec-1307-org,abbey,campbell,adair street,arcadia,wantirna,6051,sa,19211108.0,1327917
+rec-1711-org,magnus,boyle,bindiri place,naringal orchard,raceview,2036,qld,19540417.0,1684612
+rec-392-org,emiily,beams,kingscote crescent,cromdale,warrane,6163,nsw,19481014.0,5500494
+rec-1773-org,benjamin,etherington,westbury circuit,mallaby,apple tree creek,5045,nsw,19950411.0,1615398
+rec-99-org,kirra,riddell,rene street,medical centre,burpengary,2774,qld,19140824.0,2031372
+rec-1947-org,lily,les,learmonth drive,glenview,patterson lakes,2031,tas,19181114.0,2396732
+rec-859-org,alexandra,howie,clancy street,terranora,goodwood,3033,act,19551111.0,4104594
+rec-1478-org,nicolas,fogg,wilshire street,safari lodge,lemongrove,2011,wa,19901127.0,3325932
+rec-1507-org,harley,switalski,duhig place,rose hall,thornlie,3064,nsw,19270929.0,8619979
+rec-1467-org,jacob,hassall,carlile street,torbanlea,yabba north,3623,nsw,19790619.0,6010042
+rec-592-org,georgia,cookson,turner place,kapeka,salisbury east,3840,qld,19530305.0,2134191
+rec-1192-org,adam,coulson,bertel crescent,gwandalan,wanneroo,2298,sa,19580414.0,8721381
+rec-1734-org,dillon,dixon,jane price crescent,lakes retirement estate,broadbeach waters,2480,qld,19901128.0,4907452
+rec-1601-org,mikaela,parr,ijong street,,brookdale,3043,nsw,19111221.0,6060304
+rec-1064-org,harry,lowry,captain cook crescent,nunkeri (cnr linburn r road,deniliquin,4552,nsw,19891220.0,9931239
+rec-1267-org,stephanie,rollins,bullumbir street,oakdale,worongary,2355,nsw,19000908.0,1229055
+rec-1903-org,declen,,drosera place,quandialla,yarra junction,800,vic,19760613.0,2291123
+rec-1175-org,tabitha,mcgirr,longerenong street,berkeley vlge,barmera,4218,act,19221120.0,6798307
+rec-1284-org,d'arcy,tchung,sinclair street,the boulevarde,rosslea,3950,vic,19340806.0,7171127
+rec-1769-org,sarah,white,sadlier street,berkeley village,,2263,vic,19310728.0,9902353
+rec-1774-org,ryan,noble,ellerston avenue,railway cottage,mount eliza,4850,qld,19890124.0,2038708
+rec-1675-org,lachlan,,liverpool street,,moorooka,3756,qld,19120804.0,6023659
+rec-1708-org,reece,miels,woronora street,wandearah,leslie vale,3101,nsw,19410117.0,4643316
+rec-1656-org,molly,dudley,yolla place,hamilton,cleveland,4006,wa,19710811.0,4887816
+rec-1240-org,talissa,matoga,currong street,glen quoin,mirrabooka,6401,vic,19831230.0,5562808
+rec-1293-org,jack,,eaglemont retreat,hopetoun quays,scarborough,5045,qld,19390818.0,2970882
+rec-1130-org,noah,sounness,leist street,moondani,seaforth,832,qld,19900129.0,6693616
+rec-1597-org,louise,breheny,hawker street,,woodcroft,2165,sa,19460104.0,3854020
+rec-21-org,zachary,,teakle place,the bowery,yarram,2299,sa,19100817.0,4968103
+rec-814-org,dayna,rocca,goodwin street,,sunshine beach,4070,qld,19290208.0,7904154
+rec-420-org,carla,chraplewski,myall street,kyree,leichhardt,6726,vic,19311129.0,3589898
+rec-422-org,ryan,milburn,rogers street,locn 1383,rostrevor,2065,wa,19760702.0,3069200
+rec-1135-org,samantha,moskwa,phillip avenue,riverpark,bacchus marsh,2282,sa,19560206.0,8546803
+rec-1010-org,vincent,tkachuk,dooland court,hobbit hole,tomakin,4350,tas,19750227.0,9224161
+rec-1884-org,taliah,crouch,dumas street,mermaid plaza dental centre (cnr gold co,dorrigo,7250,nsw,19700716.0,4462202
+rec-884-org,kiana,furness,wittenoom crescent,,macquarie fields,2446,vic,19220320.0,5957142
+rec-1104-org,bailee,shepherd,rose scott circuit,gillin park,coonawarra,4650,vic,19241019.0,6633998
+rec-1353-org,jessica,mac kinder,wright place,,lavender bay,4727,vic,19561122.0,1762120
+rec-1397-org,meagan,watkins-lyall,clancy street,,broken hill,4169,sa,19860817.0,5297907
+rec-1211-org,emma,munyarryun,warner place,lot nq,dromana,5052,nsw,19580605.0,9443774
+rec-1448-org,ethan,bartel,meyrick place,bingletree,tarragindi,3691,nsw,19901001.0,4525246
+rec-249-org,joshua,villiers,goyder street,loughmore,adelaide,2484,vic,19730628.0,9653869
+rec-1475-org,william,panagaris,dryandra street,emmavale,teesdale,5554,vic,19240824.0,3853135
+rec-1983-org,talia,oliveri,ankaa place,westleigh,mosman,3311,qld,19020831.0,8405432
+rec-1759-org,jayme,paine,leita court,ripplevale,naremburn,3082,act,19000226.0,4364676
+rec-1080-org,lachlan,butt,follett street,eldwick,corowa,4065,nsw,19220712.0,1863874
+rec-590-org,toby,geraghty,la perouse street,,west lakes,2141,nsw,19450115.0,3871725
+rec-337-org,kelsy,charman,hobbs street,cornucopia,tomakin,4820,vic,19940729.0,1026581
+rec-726-org,izaac,pascoe,mugga way,camden,ryde,2602,nsw,19920603.0,7195214
+rec-1005-org,jamie,kranz,,rmbh 884,port macquarie,5085,vic,19921217.0,4602627
+rec-1115-org,jakob,clarke,leven street,lamington national,primbee,5062,vic,19610203.0,3239832
+rec-1877-org,jack,ban,throssell street,killarney,pymble,2570,qld,19530428.0,6593255
+rec-897-org,noah,weavell,bromell circuit,eveston park,new town,3934,tas,19980505.0,7187048
+rec-1556-org,fergus,eveston,gurr street,glenmore,mount eliza,3037,sa,19231011.0,2687740
+rec-563-org,mitchell,mccombes,maranoa street,warrigunya,mount gravatt,4113,nsw,19650101.0,3844704
+rec-641-org,anthony,coulson,clarkson street,cadogan,tin can bay,3094,vic,19380218.0,4284362
+rec-134-org,charlotte,reid,moorhouse street,ainslie house,karratha,2023,nsw,19910501.0,1804936
+rec-343-org,silas,butter,burkitt street,tubrubucca,canley vale,2031,nsw,19431110.0,7275629
+rec-399-org,caleb,kennaway,challinor crescent,currandina,minmi,7310,nsw,19690622.0,9192540
+rec-622-org,georgia,gamaly,barrington crescent,rmbh 884,deniliquin,5710,qld,19450326.0,9289465
+rec-220-org,lynae,morrison,praed place,sunnyspot farm,figtree,5125,nsw,19900803.0,8349507
+rec-113-org,callum,dabinet,darebin place,brinjarry,nyah west,4567,sa,19690221.0,4951921
+rec-1071-org,michael,tylkowski,ashburton circuit,the market place,st peters,2570,nsw,19290421.0,9384379
+rec-962-org,ella,carraill,costello circuit,old post office,darlington,2830,nsw,19110316.0,2401432
+rec-1798-org,liam,sedgley,tinderry circuit,brentwood vlge,glen innes,6010,nsw,19270304.0,4782601
+rec-1843-org,robbie,nelsen,ipima street,,sunshine,2355,vic,19360330.0,9706001
+rec-1241-org,trey,ballantyne,wynter place,belmore river,labertouche,4124,vic,19960209.0,3163579
+rec-1038-org,danny,campbell,totterdell street,moama,shellharbour,2209,vic,19951105.0,9554924
+rec-1261-org,james,van wijk,macqueen place,noelurma,picnic bay,3147,vic,19091004.0,4476788
+rec-941-org,coby,berry,heagney crescent,,cremorne,3078,vic,19260518.0,1390881
+rec-517-org,erin,humphreys,endeavour street,lake macquarie vlge,umina beach,4873,nsw,19670519.0,5094045
+rec-1976-org,isabella,bradshaw,shenton crescent,heritage est,barwon heads,2261,vic,19610622.0,6315479
+rec-1316-org,william,bracci,hann street,upper flat,camp hill,2154,nsw,19470617.0,7315857
+rec-65-org,toby,bovill,tyson street,colbes,findon,2640,nsw,19530821.0,4624277
+rec-1624-org,kirra,truslove,epacris place,sunnyview,kirribilli,4500,wa,19070603.0,7140227
+rec-747-org,lucas,campbell,dyett circuit,kooyong,wangaratta,2594,vic,19520124.0,3068374
+rec-1831-org,connor,crossingham,goossens place,allanvale,rostrevor,4109,vic,19101121.0,7142384
+rec-51-org,jock,thorpe,cowdery place,the park,tighes hill,2452,vic,19050712.0,5798784
+rec-1535-org,matthew,curry,eyre street,cameroo,blackmans bay,2533,wa,19570510.0,6255654
+rec-1019-org,jackson,bowerman,maltby circuit,loravilla,bunbury,2260,wa,19940912.0,9147007
+rec-239-org,stephanie,westbrook,badimara street,,mount pleasant,2010,act,19520107.0,7788330
+rec-1973-org,thomas,weidenhofer,woronora street,war veterans hme,clayfield,4068,qld,19241110.0,7010655
+rec-515-org,tynan,abera,haines street,st john of god hospital,ballarat,2303,nsw,19370412.0,5824612
+rec-511-org,ashlie,mason,sinclair street,young retirement village,flagstaff hill,3201,nsw,19540731.0,9955736
+rec-662-org,james,warneke,namadgi circuit,carrangarra,dalby,3000,nsw,19140410.0,5449129
+rec-1151-org,thomas,miles,caley crescent,villa 2,sunshine,4703,sa,19620721.0,8287970
+rec-35-org,chloe,arneil,pullen street,blue hills,belmont,4883,nsw,19951224.0,4389592
+rec-69-org,sarah,mccarthy,bunurung close,villa 1/4,hope valley,2214,nsw,19420905.0,8365314
+rec-1770-org,beau,chandler,fox place,,burwood,4810,tas,19180422.0,4212098
+rec-556-org,samantha,limbert,coghlan street,mari-ma farm,clareville beach,5169,vic,19731222.0,1231067
+rec-492-org,sam,shrowder,aspinall street,crestwood,eden,4133,vic,19981214.0,9514150
+rec-1358-org,caleb,white,couchman crescent,yarawee,rosebud,3796,nsw,19110318.0,3447449
+rec-1760-org,george,hope,kitchener street,g i brahman stud,nanneella,6530,vic,19760629.0,9882299
+rec-100-org,domenique,paterson,lubuma place,merewether public school,greensborough,3138,qld,19161017.0,4975843
+rec-240-org,jesse,rowan-kelly,wentworth avenue,,terrey hills,3134,tas,19620917.0,6056474
+rec-998-org,joshua,barritt,westgarth street,,noble park,4208,nsw,19400216.0,3882503
+rec-489-org,jasmine,alderson,casuarina street,,wonthella,3610,nsw,19680723.0,7864178
+rec-1819-org,ben,shepherd,ironbark crescent,vinder lodge,bicton,5133,qld,19960926.0,2698707
+rec-1943-org,nemesia,clarke,derrington crescent,hd curramulka,beechboro,2262,nsw,19870509.0,9760949
+rec-40-org,damien,salt,haystack crescent,springdale,joondalup,2029,qld,19120623.0,6804524
+rec-1764-org,,leslie,edmondson street,baringa cottage,gorokan,3023,nsw,19460413.0,4197267
+rec-1449-org,lachlan,bishop,bateman street,,nowra,4575,wa,19830928.0,9795093
+rec-1644-org,emiily,beams,tarrabool street,fronda,andergrove,2075,qld,19011124.0,6512231
+rec-1067-org,john,humphreys,gangele street,eastwood cottage,woy woy,4700,vic,19890520.0,6017011
+rec-476-org,spencer,royans,yarra street,katalina forrest,taree,3820,act,19420313.0,8155837
+rec-258-org,eliza,luchko,kallara close,,woolgoolga,4213,nsw,19410915.0,9271844
+rec-1328-org,nicholas,george,dooland court,sh b11,marshall,3074,vic,,6266757
+rec-821-org,madeleine,pengryffyn,tuross close,colooli village,,5107,nsw,19290406.0,4242245
+rec-1881-org,wilson,pinto,boustead circuit,jewells medical centre,granville,3161,qld,19971229.0,8930019
+rec-1422-org,sophie,dietrich,gatton street,seaforth vlge,deer park,3073,qld,19120317.0,3447444
+rec-815-org,angus,ryan,herron crescent,sherwood,hawthorn,3106,nsw,19950626.0,1575088
+rec-1584-org,patrick,dargaville,cerutty crescent,rosedale,st lucia,3364,nsw,19770925.0,5982994
+rec-312-org,blake,moody,studley street,rose vale,riverwood,4869,qld,,4137787
+rec-831-org,chloe,clarke,gurnai place,applewoods,edensor park,2518,vic,19350226.0,6067356
+rec-1260-org,connor,nguyen,lance hill avenue,kittani,sale,2261,nsw,19860623.0,1825598
+rec-199-org,joshua,morrison,santalum street,sec 202,kyabram,5044,sa,19901109.0,7276151
+rec-483-org,dale,ottens,bellchambers crescent,antigua,wingham,5290,sa,19421010.0,8176920
+rec-1095-org,holly,coffey,endeavour street,dooducinn,brisbane,4860,vic,19200331.0,6863112
+rec-68-org,archie,campbell,wagstaff place,belmore river,carlingford,4560,vic,19730903.0,4897470
+rec-32-org,willow,froscio,yanda street,st johnof god hospital,keilor,5022,vic,19091226.0,6630637
+rec-608-org,courtney,petersen,angophora street,kanangra hostel,altona north,2614,qld,19740401.0,4793337
+rec-942-org,jacob,dichiera,solomon crescent,curtin house,harbord,2602,nsw,19741113.0,5508111
+rec-1857-org,michaela,thrussell,markell place,nunnook,frenchs forest,6728,qld,19250608.0,1947368
+rec-1265-org,caitlin,menzies,adair street,kilnacrott,wentworth falls,2758,nsw,19190514.0,8126161
+rec-262-org,charles,trevorrow,duggan street,inishmore,whitebridge,5473,vic,19721022.0,5211176
+rec-1516-org,hanna,friebel,mildenhall place,elmwood,blackheath,3561,vic,19861123.0,5878729
+rec-75-org,samara,willing,,coolinda,concord,3765,nsw,19270204.0,1045315
+rec-1396-org,trinity,campbell,blamey crescent,beauchamp street,clayfield,3021,vic,19000209.0,2793845
+rec-1339-org,jack,fernando,hall street,rankin park,mitcham,6006,vic,19460903.0,1944943
+rec-917-org,patrick,vincent,outtrim avenue,glendower,willetton,3984,nsw,19510921.0,9836975
+rec-1085-org,schkirra,walpole,namadgi circuit,rydellan,bibra lake,2234,nsw,19560330.0,1950180
+rec-1124-org,jarod,mccarthy,kanbi place,,osborne park,2166,nsw,19400529.0,6158276
+rec-976-org,keelin,priest,albermarle place,kyeema,beaumaris,4506,wa,19100920.0,7236512
+rec-1210-org,luke,hindess,gledden street,nairn lodge,clarence park,4703,qld,19771109.0,1089096
+rec-1896-org,emiily,morrison,foveaux street,kareela,hamilton,4700,nsw,19430721.0,7972954
+rec-1713-org,,reid,prichard circuit,sundown motor vill,oak flats,6163,vic,19660308.0,1911812
+rec-1573-org,taliah,lowe,rayment place,colbin park,edithvale,2346,sa,19090206.0,4605726
+rec-791-org,thomas,white,forlonge street,cleveland,spearwood,2471,sa,19101219.0,8203692
+rec-321-org,emiily,robson,bungonia street,st francis vlge,dianella,5066,wa,19420328.0,9454883
+rec-1349-org,jack,weller,tristania street,sect 341,thornbury,4280,nsw,19010507.0,8279243
+rec-216-org,keeley,felmingham,angliss place,cranbrook,annandale,2640,nsw,19860811.0,5148092
+rec-1681-org,callum,finlay,ebenezer street,arcadia,craigmore,4461,nsw,19550312.0,2783111
+rec-1524-org,samantha,millar,ina gregory circuit,,bossley park,4304,sa,19181229.0,2470912
+rec-1885-org,dominic,ryan,bargang crescent,yambacoona,bundaberg,2752,nsw,19760328.0,8065627
+rec-1968-org,sarah,broadby,companion crescent,tiverton,ballarat,4178,qld,19420323.0,3142033
+rec-626-org,kaitlyn,pizanias,sheaffe street,nunton,kemps creek,2502,nsw,19131205.0,4026380
+rec-1117-org,samuel,webb,balala place,tourist caravn park,osborne park,5032,vic,19401203.0,9777818
+rec-1684-org,holly,stoker,ballumbir street,chetwynd,kirrawee,6009,vic,19300121.0,8123371
+rec-1119-org,alexa-rose,smithson,miller street,bright view,albury,3212,qld,19741012.0,2875274
+rec-984-org,jackson,camillo,badcoe street,woodleigh,barrack heights,5238,nsw,19451024.0,2240410
+rec-1505-org,nicholas,plesa,yerra court,cnjla mntn,springfield,3128,nsw,19000520.0,4417121
+rec-1955-org,ethan,leslie,hobart place,thistledoo,bacchus marsh,4575,nsw,19400429.0,4474942
+rec-1935-org,harry,berry,mcglinn place,darjeeling,petersham,3805,vic,19540411.0,2732878
+rec-1137-org,cameron,noble,tepper circuit,shangrila cvan park,rowville,7004,tas,19260104.0,3664213
+rec-695-org,liana,shelley,tarra place,,noble park north,2170,nsw,19941124.0,5175090
+rec-903-org,alexa-rose,white,miles place,tourist caravn park,batemans bay,6169,nsw,19590818.0,8035124
+rec-425-org,olivia,pettingill,evelyn owen crescent,rangeville,asquith,2261,act,19520801.0,2425353
+rec-444-org,zachariah,morcom,dixon drive,bletchly park,toowoomba,2068,wa,19020803.0,1961455
+rec-94-org,tuscany,hickinbotham,coranderrk street,torrens grove estate,irymple,4814,nsw,19431004.0,8062541
+rec-273-org,tahlia,mccaffrey,joyce place,sundown motor vill,cronulla,3585,nsw,19931209.0,4378802
+rec-1657-org,olivia,hobson,louis loder street,summit cottage,kaleen,4870,nsw,19760812.0,4535695
+rec-181-org,brigitte,bishop,dooland court,northbridge marina,montmorency,3122,sa,19271211.0,7848970
+rec-1720-org,,kiss,pialligo avenue,caravn park,dandenong north,2530,vic,19310218.0,3431125
+rec-564-org,arabella,weller,westbury circuit,snake gully,suffolk park,4814,vic,19641224.0,9147387
+rec-131-org,samuel,jolly,lorimer place,greenswylde,collie,3222,sa,19690129.0,6221065
+rec-1998-org,ryan,vincent,chewings street,wirringulla,daylesford,3072,,19170728.0,2158837
+rec-663-org,ella,moody,clarey crescent,locn 217,merrijig,3550,nsw,19350314.0,1440709
+rec-1933-org,connor,weaver,fihelly street,orchid square,doubleview,2214,qld,19550613.0,7463808
+rec-1898-org,william,mason,macfarland crescent,nioka,prospect,3039,qld,19710305.0,3187117
+rec-1887-org,jessica,white,hopetoun circuit,leisure living vlge,martindale,2112,qld,19281109.0,9362402
+rec-1542-org,katherine,dicamillo,giffen close,bulala,rye,2518,nsw,19740803.0,6873029
+rec-45-org,thomas,blake,earle street,chanak,blue mountain heights,2219,vic,19000627.0,5119652
+rec-1201-org,tommi-lee,tuit,vincent place,aranmor,orchard hills,7250,tas,19200805.0,1237681
+rec-1326-org,joshua,gilbertson,trumper street,peridon vlge,brisbane,3148,sa,19511114.0,6225856
+rec-1097-org,isabella,theodore,churchill way,nioka,redan,2446,vic,19711102.0,2898842
+rec-1546-org,sam,webb,bacchus circuit,lakewood estate,dianella,3724,nsw,19970913.0,7194532
+rec-565-org,georgia,white,mauldon street,glass house,bargara,4217,nsw,19851129.0,6320718
+rec-1149-org,holly,hope,blackett crescent,inglewood,burleigh heads,5048,qld,19760115.0,3385883
+rec-760-org,julia,gascoigne,langdon avenue,clarkwood,st clair,5163,nsw,19090104.0,4002060
+rec-702-org,michaela,george,florey drive,,greensborough,6160,qld,19750325.0,6129953
+rec-357-org,caleb,grigs,dookie street,pmb 63,berala,2456,vic,19700102.0,9579474
+rec-261-org,chloe,mcphie,robertson street,langleigh,swanwick,4226,qld,19340310.0,5324627
+rec-1991-org,kai,white,cockcroft avenue,allunga,parramatta,4179,,19551009.0,5791061
+rec-609-org,isabelle,brookhouse,kavel street,c/-the student village,riverwood,6010,wa,19200905.0,9060410
+rec-1314-org,lachlan,hyland,colebatch place,penquite road,new lambton heights,4305,qld,19340129.0,6484656
+rec-1380-org,zachary,plane,helen mayo crescent,moreton,lavington,4818,sa,19340303.0,4989033
+rec-879-org,isabella,clarke,gillespie street,flr 5 john flynn medical centre,mount victoria,2147,act,19950110.0,4409764
+rec-1653-org,alexander,schoenberg,phillips place,glubbaan,preston west,4680,vic,19370716.0,3699681
+rec-1113-org,brianna,morrison,coolac place,esk farm,seaton,2566,vic,19131203.0,2277933
+rec-1416-org,amy,miteff,john cleland crescent,barkool,blackheath,2036,qld,19160228.0,2583901
+rec-377-org,sara,mason,antill street,morgiana,st kilda east,2773,qld,19521024.0,4026880
+rec-1141-org,katelin,coulson,weston street,locheil,hinchinbrook,2212,wa,19080328.0,2624790
+rec-1856-org,brigette,beattie,,tinaroo falls,rowville,3074,nsw,19940105.0,5329771
+rec-1033-org,keziah,painter,ainslie avenue,sec 1,torquay,3205,vic,19191031.0,7801066
+rec-518-org,mia,mate,biraban place,tycannah station,woodbine,2198,sa,19450330.0,1787917
+rec-1631-org,jack,doroszczonek,osmand street,greenslopes,mount eliza,4220,qld,19400625.0,2654211
+rec-271-org,rachel,lipscombe,chewings street,,frankston,3150,sa,19041206.0,8982927
+rec-991-org,campbell,golder,affleck place,mlc centre,st albans,3149,qld,19960904.0,6563705
+rec-1051-org,jack,belperio,mccaughey street,caravn park,mcleans ridges,4161,nsw,19820827.0,3604688
+rec-1236-org,archie,priest,temperley street,sunrest stud,north narrabeen,3995,wa,19831118.0,1585410
+rec-1550-org,anita,matson,macpherson street,mlc centre,dural,5555,nsw,19350505.0,8969597
+rec-1638-org,lauren,white,kogarah lane,glamiston,hamilton,4068,vic,19771007.0,2117082
+rec-1790-org,chelsea,matthews,windradyne street,palm lake resort,mount pleasant,2396,sa,19510711.0,7311371
+rec-132-org,lacey,wilkins,yanda street,,great mackerel beach,2500,vic,19350227.0,8712619
+rec-49-org,teaha,thorpe,buvelot street,wacharoo,moonah west,7320,vic,19480423.0,5430135
+rec-288-org,natalia,george,woollum street,glenview,morwell,6056,wa,19540306.0,7746839
+rec-732-org,cassandra,rafanelli,gundara street,,st albans,3020,wa,19270701.0,7377790
+rec-1923-org,oscar,rees,cannan crescent,brentwood vlge,cooma,5152,wa,19700718.0,2420340
+rec-1659-org,isabella,merenda,state circle,wytaliba,woombye,3551,sa,19160117.0,7739406
+rec-310-org,lauren,finlay,colefax place,killarney,chinchilla,4870,act,19020608.0,3951342
+rec-1395-org,dylan,thorpe,tarraleah crescent,,normanhurst,6109,vic,19230617.0,3630524
+rec-746-org,isaac,woolger,goble street,kookaburra village,bunyip,5022,vic,19090613.0,6001508
+rec-637-org,timothy,bellchambers,buggy crescent,medical centre,pymble,2323,vic,19210723.0,6606450
+rec-256-org,fraser,tadege,mcinnes street,,scarborough,2870,nsw,19001013.0,3817644
+rec-226-org,hayden,ayres,dacomb court,overnewton,newcastle west,3188,sa,19651212.0,5243617
+rec-768-org,emiily,moerland,lindrum crescent,colloca vale,bibra lake,3216,vic,19961013.0,4076474
+rec-1840-org,bradley,gershon,dalrymple street,john flynn medical centre,coodanup,3264,sa,19930712.0,5762612
+rec-1635-org,bree,reid,gooromon ponds road,eldwick,rocky point,6155,nsw,19230129.0,8794990
+rec-1020-org,blake,ryan,starling place,berkeley vlge,marsden,5412,nsw,19271027.0,2402765
+rec-1327-org,jared,chandler,fihelly street,lamington national,cudal,4210,wa,19471210.0,3870500
+rec-1106-org,cade,hand,wenholz street,comer,mount pleasant,2168,qld,19670805.0,7509011
+rec-1738-org,timothy,manyem,phillip avenue,blackridge flyfishing school,salisbury,5558,sa,19940222.0,4584639
+rec-1592-org,joshua,bycroft,mcarthur east avenue,wacharoo,rostrevor,4340,tas,19990127.0,6190476
+rec-1296-org,christian,berryman,cox street,bays hospital,sunshine,2153,qld,19890812.0,5492745
+rec-486-org,alexandra,hilton,mceachern crescent,villa 306,chelsea heights,3429,sa,19151113.0,6888119
+rec-427-org,emmet,weller,copland drive,,birmingham gardens,4350,wa,19270516.0,6281502
+rec-1634-org,aiden,white,swinden street,langleigh,dolls point,2132,nsw,19260109.0,2027617
+rec-1377-org,thomas,evison,power street,,haigslea,2880,wa,19970523.0,2858660
+rec-1286-org,benjamin,webb,giliruk crescent,cherry court,balwyn north,3622,nsw,19860415.0,1396032
+rec-1529-org,izaac,longhurst,,calleen farm,woy woy,7250,wa,19710719.0,8003288
+rec-580-org,alec,nguyen,novar street,,yealering,4127,nsw,19911123.0,6598716
+rec-119-org,michael,blake,chermside street,bellevue gardens rv,dalby,2750,vic,,5253034
+rec-1846-org,angus,finlay,teague street,sec 1,oatlands,2046,wa,19690302.0,4889461
+rec-1464-org,makenzi,nirta,leahy close,blue crane farm,spearwood,4487,sa,19701002.0,1655073
+rec-1866-org,madeline,white,flora place,whyworry,brookfield,2650,sa,19360423.0,9805880
+rec-39-org,jasmine,bloomfield,tennyson crescent,holmeleigh,elanora heights,3918,sa,19371004.0,9415994
+rec-1733-org,tasman,webb,quamby place,oora park,pallara,4567,vic,19130305.0,1318736
+rec-488-org,james,dabinet,crozier circuit,springbanks,north tamborine,2117,qld,19010730.0,6988962
+rec-1613-org,joshua,buccini,william hudson crescent,lochlee,yagoona,4035,vic,19320922.0,6398960
+rec-989-org,shelbey,hayball,lucy gullett circuit,c/-cummins theatre,moonah west,5062,vic,19080105.0,1630864
+rec-616-org,schkirra,moyse,dines place,greenwood,ryde,3020,wa,19600909.0,3837519
+rec-730-org,taliah,de teliga,dakin place,tarwong,gnotuk,5159,vic,19881206.0,9414612
+rec-1480-org,georgia,noble,saggers retreat,tumbeeluwa,st peters,4116,nsw,19770902.0,8364458
+rec-1506-org,kate,wheatley,tanderra crescent,the willows,forest hill,2472,tas,19560728.0,5603742
+rec-387-org,jayden,millar,jardine street,,penshurst,2069,sa,19670521.0,4322749
+rec-1564-org,emma,lablack,henry street,,drysdale,2570,nt,19500212.0,1009364
+rec-407-org,seamus,blacklow,jardine street,yarras est,ingleba,4860,vic,19140110.0,8739479
+rec-163-org,brayden,ryan,fairbridge crescent,walnut grove estate,cora lynn,3152,vic,19901028.0,3131604
+rec-1056-org,tristan,hunting,jerrabomberra avenue,elamon cottage,toronto,4873,qld,19430818.0,3644846
+rec-1052-org,ella,james-palmer,dodwell street,glenavon,chatham,6058,vic,19921207.0,5759173
+rec-472-org,nicole,needham,kooringal,little laura,coochiemudlo island,4670,vic,19560504.0,8844332
+rec-1849-org,brinley,royans,,heidsvale,hurlstone park,2067,nsw,19510601.0,4570788
+rec-806-org,hayden,hage,medworth crescent,nioka,hawthorn,7025,nsw,19361119.0,5210120
+rec-589-org,isaac,pomfrett,dethridge street,our folly,ivanhoe,2444,nsw,19940414.0,6299237
+rec-1061-org,brodie,coulson,kirwan circuit,mason street,monto,6076,nsw,19220722.0,3079148
+rec-994-org,bailee,droegemueller,adamson crescent,montessa heights,williamstown,2101,nsw,19400606.0,5278611
+rec-1850-org,aidan,blackwell,eddy crescent,crosshills,white patch,2121,vic,19980911.0,5406026
+rec-162-org,kane,teague,fox place,,atherton,2250,,19730311.0,1712971
+rec-740-org,charles,orchard,perry drive,walmarie,mooloolaba,4551,nsw,19581007.0,5130911
+rec-553-org,shai,ang,buckley circuit,,toowoomba,6027,nsw,19770121.0,8352082
+rec-424-org,jessica,clarke,spofforth street,wombat hill,south melbourne,2122,qld,19450428.0,3942094
+rec-235-org,callum,arbuckle,crozier circuit,belmore river,geographe,4555,nsw,19010927.0,1975419
+rec-1676-org,brianna,berry,bosworth circuit,table top,mooroolbark,6169,qld,19190207.0,8114973
+rec-873-org,danielle,fleet,watterson place,sect 1488,elsternwick,2450,nsw,19660616.0,7967457
+rec-1170-org,noah,,mackellar crescent,elston,eumundi,2041,wa,19420106.0,7557625
+rec-1479-org,luke,marshman,sangster place,willyaroo street,albion park,4220,wa,19711012.0,3259489
+rec-1627-org,aiden,blake,mccormack street,home vlge,northampton,2518,qld,19881122.0,4201500
+rec-1304-org,luke,vincent,du faur street,ehwk,rose bay,4122,vic,19731223.0,5930785
+rec-654-org,meggie,moulton,morton street,drayton villas,,2262,vic,19240421.0,2503352
+rec-431-org,,hawes,captain cook crescent,unt 1,springwood,4659,vic,19470709.0,4489039
+rec-1169-org,james,ziersch,luckman place,cranford,osborne park,4825,wa,19870822.0,8683488
+rec-227-org,isabella,bhalla,english court,chobe,heywood,4560,wa,19190318.0,7747289
+rec-61-org,lily,sideris,hallstrom circuit,jorobe,surry hills,6012,nsw,19150910.0,9848730
+rec-1258-org,thomas,finlay,vickery street,brindabella court,page,2160,qld,19520829.0,5555657
+rec-372-org,kailey,kooymans,la perouse street,masonic memorial village,redhill,2131,sa,19310813.0,4609850
+rec-441-org,olivia,clarke,ingamells street,camphill,mount hutton,6066,qld,19560709.0,4253963
+rec-1345-org,chelsea,meadows,,st francis village,surfers paradise,7325,vic,19651103.0,7080277
+rec-469-org,jack,ryan,munro street,jinderoo,laang,3044,sa,19111118.0,1314097
+rec-1700-org,malakai,sedgwick,abrahams crescent,vermont ret estate,burwood,6102,vic,19870604.0,3815094
+rec-172-org,bianca,verco,rowell place,,salisbury,2203,qld,19850520.0,9173391
+rec-82-org,ethan,van engelenhoven,alberga street,arnwood,padstow,2448,nsw,19130109.0,1081903
+rec-1927-org,matilda,gani,searle place,skye lodge,westmeadows,4680,qld,19440807.0,6148920
+rec-983-org,oliver,szeszycki,laycock place,,currajong,2228,sa,19720315.0,4739075
+rec-298-org,ella,matthews,conjola close,brentwood village,forest,6155,qld,19410106.0,1465625
+rec-149-org,mia,praetz,froggatt street,,sanctuary point,2019,sa,19870115.0,1667854
+rec-601-org,aaron,hemmings,henry street,oakey isle wallis lke off,pooraka,3168,qld,19050907.0,6432157
+rec-335-org,alisa,hand,paul coe crescent,colonial cvan park,riverhills,2192,nsw,19160320.0,4414842
+rec-966-org,shelby,hope,newman morris circuit,painui,broadbeach waters,2074,vic,19990707.0,2483884
+rec-783-org,toby,pusser,tazewell circuit,eagle rock,st clair,2064,vic,19520615.0,5156078
+rec-578-org,eleni,colquhoun,temperley street,rowethorpe,firle,4680,vic,19910203.0,7175387
+rec-591-org,sarah,mchenry,bullock circuit,john flynn medical centre,batlow,4564,vic,19020515.0,2024964
+rec-487-org,alicia,tu,antis street,lansdowne,kirwan,4169,vic,19391124.0,9474097
+rec-1650-org,george,trivett,shackleton circuit,kokoda village,cooranbong,2594,sa,19301027.0,2514290
+rec-1209-org,holly,ziersch,kauper street,arndilly,port lincoln,3121,nsw,19200929.0,4486175
+rec-496-org,roisin,lorraway,waratah street,burrawang,vale park,4740,wa,19910706.0,9367740
+rec-1517-org,elizabeth,bartel,garrad court,st helens pastoral co,broken hill,2449,vic,19831127.0,1042252
+rec-1321-org,edward,lock,,northbourne,auburn,4030,nsw,19071214.0,1552547
+rec-1987-org,lucy,spargo,smalley circuit,locn 5940,woree,4511,nsw,19121112.0,7260253
+rec-1695-org,lydia,mccarthy,mckillop circuit,telemon orchards,corio,4670,nsw,19751220.0,1835068
+rec-1077-org,zack,berry,atherton street,cantlay farm,hamilton,7315,vic,19310124.0,1934687
+rec-679-org,wil,hefford,solly place,margaret river carvn park,port pirie,5000,nsw,19520917.0,1267536
+rec-1383-org,olivia,dixon,twamley crescent,kingston tower,bundaberg north,2170,tas,19381114.0,7563867
+rec-1765-org,xavier,campbell,douglas place,bindaree,peppermint grove,2164,sa,19160805.0,7162936
+rec-71-org,lauren,paine,mcvey place,yambira,helidon,2463,qld,19440502.0,4517134
+rec-535-org,bianca,belling,canberra avenue,craiglyn,reynella,4868,nsw,19580731.0,8031578
+rec-38-org,jack,browne,caley crescent,nioka,campsie,4030,qld,19590916.0,5959455
+rec-143-org,will,seng,jim pike avenue,warilei,yengarie,5540,qld,19510103.0,1604410
+rec-1197-org,isaiah,siviour,melba street,killone park,swan hill,4129,sa,19020905.0,8900765
+rec-595-org,harley,lowe,fox place,cooee palms,gerogery,4702,nt,19291003.0,1515266
+rec-677-org,micah,humphreys,windradyne street,enter boolwey s street,jacana,3137,nsw,19381107.0,5990502
+rec-1491-org,,stanfield,nimbin street,glenlee,arundel,3034,nsw,19970826.0,4080455
+rec-996-org,madeline,ebdell,amagula avenue,rockwood,nungurner,5253,sa,19690807.0,7508632
+rec-1666-org,,mason,chambers street,birubi bch caravan park,burwood,2785,vic,19600721.0,6460063
+rec-308-org,andrew,kellow,arndell street,kimnic park,tarnagulla,2021,nsw,19271202.0,6380128
+rec-1732-org,luke,berryman,archibald street,kookaburra village,undercliffe,2153,nsw,19380405.0,4687097
+rec-57-org,xepheren,everett,packer street,yonda pines,bulimba,4370,sa,19750202.0,6641961
+rec-322-org,,galbraith,bambridge street,berkeley vlge,clayton,3043,wa,19130819.0,3918235
+rec-629-org,tara,white,winter street,yengola,wanneroo,3153,nsw,19460615.0,3244945
+rec-191-org,joel,leon,john russell circuit,hawkins masonic vlge,bundaberg,7011,qld,19970504.0,7059874
+rec-1721-org,melinda,sandman,nona place,st francis village,east hills,4065,tas,19540128.0,9843714
+rec-168-org,jack,hassell,mcmaster street,port geographe,the rock,4812,nsw,19200331.0,4503596
+rec-1735-org,molly,ebert,stokes street,stockwell hotel,noble park,2222,nsw,19351121.0,3583279
+rec-826-org,amy,chandler,plant road,blck 1089,findon,2086,sa,19510715.0,1609739
+rec-1282-org,zachary,snell,mortimer lewis drive,swanlea,south grafton,3075,vic,19220424.0,7167409
+rec-1126-org,liam,waller,blacket street,old purrawunda,st kilda east,3221,wa,19920706.0,7876568
+rec-798-org,isabelle,chappel,tauss place,holmwood cottage,upwey,4575,sa,19620420.0,3578242
+rec-1143-org,benjamin,white,kitchener street,greenhills,minchinbury,4109,wa,19260828.0,1069868
+rec-345-org,samantha,lohmann,rich street,the boulevarde,tannum sands,3688,sa,19711218.0,9605825
+rec-1598-org,tai,toews,badimara street,kodootonga,maitland,4818,vic,19810610.0,5213349
+rec-1802-org,adam,white,shumack street,rosewood garden,loganlea,5072,nsw,19281217.0,7653958
+rec-1317-org,jake,humphreys,strehlow place,riversdale caravan park,broken hill,2050,tas,19120624.0,3271016
+rec-742-org,silas,burford,kambalda crescent,glenmore,caulfield north,2615,,19770211.0,1763184
+rec-690-org,chloe,zaneti,lexcen avenue,bonnie,yorkeys knob,4214,qld,19860331.0,6108914
+rec-1581-org,jasper,wessthorp,,,gwandalan,2770,sa,19310128.0,9654784
+rec-936-org,maddison,clarke,anne clark avenue,oxley's way,castlereagh,4216,vic,19290702.0,5785930
+rec-190-org,zachary,clarke,,st john of god hospital,camira,2120,qld,19300102.0,1373543
+rec-267-org,jed,mcfadden,selwyn street,cooee,waverley,2765,nsw,19780824.0,7120764
+rec-213-org,james,coleman,alsop close,burnie north west private hospital,hillman,5024,vic,19700403.0,4363358
+rec-1072-org,samuel,coleman,backhouse street,barwalla,quorn,3147,nsw,19541004.0,8477487
+rec-1081-org,jordan,vaile,mullan street,rosewynne,mansfield,4152,qld,19250617.0,7672358
+rec-1234-org,chelsea,quilliam,,,rosewhite,2756,nsw,19531012.0,9096288
+rec-1842-org,breony,dixon,downard street,,kellyville,4224,vic,19351022.0,7462490
+rec-1344-org,ruby,hingston,cuzens place,the briar patch,rosebud,6104,vic,19700614.0,6203837
+rec-540-org,jaime,musolino,elliott street,kildarra,bedfordale,2081,qld,19631110.0,8789539
+rec-484-org,samuel,trimmer,marquet retreat,wattle place,eastwood,2069,nsw,19960422.0,8970689
+rec-1400-org,kyle,morrison,love street,baranbali,fullarton,2540,qld,19901211.0,2111432
+rec-136-org,amy,mason,meyers place,,spearwood,3058,nsw,19161230.0,5299632
+rec-1441-org,lucy,crook,bavin street,korrelocking,macquarie fields,2326,nsw,19041011.0,8648028
+rec-921-org,nathan,daehn,sternberg crescent,homevale,adamstown,2617,vic,19110417.0,4227775
+rec-1194-org,jade,campbell,the hermitage,glenanare,seaton,3039,qld,19210721.0,2713995
+rec-1952-org,erin,curry,woollum street,dockside 44,black rock,2834,sa,19481101.0,6038038
+rec-251-org,jaden,librandi,hale place,taronga,nightcliff,3193,nsw,19331205.0,3528865
+rec-1008-org,alex,ballantyne,aronson crescent,logan central plaza,semaphore park,2153,wa,19450621.0,4145113
+rec-889-org,sebastian,weaver,gymea street,symes grove,ellenbrook,810,vic,19611129.0,6765287
+rec-102-org,nathan,challenor,wellington street,kinross farm,cronulla,5109,vic,19600213.0,2694239
+rec-1715-org,benjamin,camens,harrison street,upa cottages,lindfield,4505,qld,19750706.0,3523836
+rec-1391-org,,harrington,langdon avenue,,sunshine,5290,vic,19500818.0,6041782
+rec-569-org,tommy,spinato,howie court,pinnacles caravn park,mooloolaba,3356,nsw,19821129.0,4527826
+rec-1185-org,alessandria,rabbitt,ellenborough street,inglemer,mirrabooka,2196,vic,19900410.0,6217834
+rec-1040-org,matilda,mestrov,house circuit,retirement village,taringa,3820,qld,19801119.0,2563135
+rec-721-org,elly,reid,bambridge street,john flynn hospital,eight mile plains,4806,nsw,19850523.0,6391700
+rec-93-org,hayden,menzies,monkman street,gillin park,singleton heights,5014,qld,19250615.0,4781381
+rec-1792-org,matthew,hilton,forrest place,eventide homes,avoca beach,4116,nsw,19020114.0,8537116
+rec-506-org,bryce,allanby,bonnor close,fairholme,parkdale,3802,qld,19140227.0,3562584
+rec-949-org,chloe,pyper,upton street,old post office,greensborough,4074,vic,19860102.0,8174488
+rec-86-org,nell,roche,caley crescent,morris arcade,south perth,4870,vic,19071008.0,8899086
+rec-1746-org,ruby,reid,fitzmaurice street,,eaglehawk,2260,qld,19120626.0,8386277
+rec-1604-org,jessica,whale,pambula street,blue shadows,surry hills,2541,nsw,19341001.0,6125303
+rec-1701-org,alexandra,tiedemann,john cleland crescent,cranbrook,broken hill,2287,nsw,19231111.0,2066745
+rec-881-org,danielle,stanley,river street,willmont park,coopers shoot,4865,vic,19820801.0,7127513
+rec-1048-org,bailee,bevis,fitzsimmons street,sovereign court,rochester,2620,vic,19070106.0,1266796
+rec-311-org,monique,paterson,fullagar crescent,,goonellabah,5043,nsw,19300709.0,6100123
+rec-1256-org,ka,kiczurczak,paul coe crescent,avenel,wokalup,6112,nsw,19360708.0,8073126
+rec-167-org,shana,laney,whalan place,shadoof lodge,preston,5280,vic,19231230.0,4329053
+rec-689-org,elysse,mckerlie,captain cook crescent,the crater,seaspray,2428,vic,19790705.0,2277627
+rec-1897-org,samuel,ryan,gosse street,allunga,brightwaters,3053,qld,19670118.0,5648286
+rec-429-org,jacqueline,mccracken,hicks street,lanhydrock,point lonsdale,2750,qld,19860416.0,2850053
+rec-122-org,charles,crouch,book place,rosemount,taree,2220,vic,19970728.0,6044523
+rec-504-org,keely,clarke,scarborough street,ponderosa,south wentworthville,5108,vic,19050410.0,3369666
+rec-1419-org,chloe,webb,hannan crescent,golden ponds,mannering park,2257,vic,19180407.0,4261331
+rec-1312-org,hannah,matthews,barlee place,goughs bay,eight mile plains,6210,nsw,19590205.0,1868981
+rec-1779-org,cameron,cordingley,waite street,summer hill,colac,5238,nsw,19700430.0,5765191
+rec-1337-org,nathan,priest,banks street,manresa,malvern east,4570,act,19160503.0,4665603
+rec-1751-org,kenneth,hanigan,lochbuy street,milton,hindmarsh west,2800,nsw,19100830.0,2164067
+rec-88-org,,pickel,mawson drive,iventure,warilla,4870,qld,19191116.0,6811262
+rec-756-org,kayden,reid,cazaly close,apt 503,cobar,5084,qld,19041120.0,9230380
+rec-1552-org,jesse,hoffman,lienhop street,brentwood vlge,minto,2450,sa,19700818.0,9619778
+rec-764-org,jacob,ryan,davidson street,lakeside manor,brisbane,6167,nsw,19390210.0,9826543
+rec-7-org,braiden,goldsworthy,frencham place,willtarny,tumbarumba,2161,nsw,19501119.0,7570745
+rec-521-org,zane,white,heagney crescent,lanoma,seymour,5075,nsw,19810711.0,2845566
+rec-1929-org,cheree,purtell,spring range road,guest village (cnr bullcreek d drive,cooma,4216,wa,19300407.0,5062347
+rec-155-org,jacob,schuster,maidment place,woy woy community care,sunshine,2540,sa,19750307.0,4344953
+rec-939-org,samara,nicoll,william webb drive,roger dee,beecroft,5165,qld,19931006.0,2914256
+rec-490-org,madeline,berry,wentworth avenue,karkatt,stanmore,4810,nsw,19970829.0,8983971
+rec-787-org,jake,calipari,euree street,,bayonet head,4019,wa,19560203.0,7723135
+rec-1608-org,campbell,bossley,caley crescent,glen ayre,frankston,4880,nsw,19640224.0,8497904
+rec-1748-org,oliver,iovino,gatton street,jalna (cnr barbato c corner,coonamble,2324,qld,19820728.0,9521603
+rec-1687-org,jacqueline,vettese,mcintyre street,metropolis,penrith,2075,vic,19690329.0,7062381
+rec-332-org,lily,petersen,bissenberger crescent,railway stn,melville,2250,,19020326.0,3851424
+rec-1679-org,cameron,berry,arthur circle,farm shed,boulder,6169,qld,19660326.0,8523703
+rec-667-org,joel,ryan,wisdom street,warbinya,pymble,4650,wa,19220524.0,5522329
+rec-1956-org,warrick,paine,clive steele avenue,denny downs,cowan,2084,nsw,19190114.0,6712492
+rec-3-org,naomi,millar,southern cross drive,glengar,st agnes,5172,qld,19750818.0,7751504
+rec-1810-org,brayden,spears,beattie crescent,apt 2005,mont albert,2233,qld,19930707.0,3208269
+rec-1665-org,reece,garnett,maclagan street,environa,carlingford,870,nt,19390828.0,3123598
+rec-1121-org,aidan,jolly,mckillop circuit,athlone,moruya,3170,qld,19350310.0,8165777
+rec-1372-org,nikki,mesecke,dunbar street,hopeview,ringwood east,3188,qld,19130313.0,3076895
+rec-10-org,mikhayla,hannagan,rupp place,brentwood vlge,penshurst,2257,vic,19770501.0,1030769
+rec-454-org,isabella,marlow,dietrich place,,alice springs,5065,wa,19980201.0,4351633
+rec-613-org,mikhaili,petersen,mcluckie crescent,carron vale,swan hill,3124,qld,19940727.0,2517828
+rec-1975-org,alisa,marous,algan street,belvedere,ballina,3274,qld,19061125.0,7818366
+rec-1752-org,joel,dolan,stuart street,esk farm,belmont,2615,nsw,19590829.0,8541949
+rec-1716-org,isabelle,,gundulu place,curringa,utakarra,2193,wa,19921119.0,4314184
+rec-359-org,rachel,ryan,kriewaldt circuit,shiel,ermington,4504,vic,,3676863
+rec-1625-org,blake,green,bate place,janglen,poochera,2143,vic,19160406.0,4587041
+rec-999-org,imogen,hefford,hansen circuit,jingara,the entrance,2131,vic,19281222.0,4242867
+rec-1427-org,jacqueline,matthews,callaghan street,narla vlge,punchbowl,3815,qld,19210324.0,2110260
+rec-1861-org,tyler,cheel,bonnor close,,salisbury east,2166,tas,19970609.0,3187428
+rec-776-org,juliana,leong,hazlitt glade,cherry haven,safety bay,2576,qld,19480425.0,7929436
+rec-367-org,ashley,carbone,louis loder street,john flynn medical centre,blacktown,2430,vic,19260703.0,4111996
+rec-18-org,dylan,webb,morrison street,canberra west,goonellabah,6343,qld,19080401.0,8035343
+rec-1649-org,samuel,van lien,edgar street,iona downs,chester hill,3818,qld,19800728.0,3545262
+rec-1171-org,isabelle,white,reddall close,tumbalong,rowville,2318,nsw,19271116.0,3874137
+rec-648-org,darcy,saxon-taylor,aspinall street,glenumbral,trafalgar,2036,nsw,19070530.0,3790456
+rec-852-org,gabrielle,jiang,wagga street,eureka,pakenham,3139,tas,19210817.0,4918271
+rec-138-org,rebecca,gripton,geerilong garden,australia fair medical west centre,balwyn north,6030,wa,19420626.0,2546284
+rec-1677-org,kallie,hanna,chermside street,mira monte,forrestfield,6721,nsw,19380831.0,2975164
+rec-500-org,bradley,korbut,werriwa crescent,the old parsonage,calista,4205,wa,,7572011
+rec-36-org,ella,boothroyd,gamban square,morshead home,bongaree,3142,qld,19070524.0,4228253
+rec-1049-org,joshua,boulter,gatton street,broughton brook,concord west,4170,nsw,19050815.0,5750161
+rec-241-org,emiily,snell,hawkesbury crescent,old kelvin grove,corowa,4221,nsw,19220318.0,9778551
+rec-1198-org,imogen,white,britten-jones drive,heysen village,innaloo,2620,nsw,19700617.0,3427716
+rec-813-org,damien,webb,gooromon ponds road,aldinga beach court,swanfels,7252,vic,19881210.0,1902658
+rec-561-org,dale,fimeri,burdett crescent,star court arcade,wilson,6168,nsw,19930529.0,2625486
+rec-1888-org,riley,,kosciusko avenue,inverwood,brighton,4101,vic,19290630.0,2148373
+rec-866-org,lauren,mason,castleton crescent,wyndbourne park,centennial park,3205,nsw,19430921.0,3198708
+rec-877-org,aiden,velkovska,yarrawonga street,edinburgh caravan,oakleigh,2485,wa,19220610.0,9618318
+rec-255-org,zachary,hudd,spofforth street,oakleaves,kogarah,2016,qld,19810305.0,5024676
+rec-242-org,jordan,plane,austin street,leetsvale caravan park,st johns park,3015,vic,19730321.0,5757351
+rec-1318-org,ethan,pettingill,carruthers street,glenefer garden,gosford east,2031,nsw,19890131.0,4142808
+rec-676-org,benjamin,brain,leahy close,elizabeth residential village,dover heights,2164,nsw,19240924.0,9191751
+rec-1848-org,ella,crouch,wybalena grove,tieve tara,urangan,3072,wa,19271130.0,3031169
+rec-562-org,lucy,webb,rischbieth crescent,fred lean hostel,pimlico,2619,qld,19310329.0,2997048
+rec-612-org,callum,white,bock place,morningsite,redbank plains,2137,vic,19470908.0,8508455
+rec-217-org,mackenzie,paterson,groveland crescent,the willows,mosman,6350,nsw,19960203.0,6068385
+rec-1283-org,sidonie,syder,mackie crescent,athlone 2,north turramurra,2120,vic,19280215.0,2956310
+rec-630-org,jinni,petersen,brunton street,,birmingham gardens,2905,vic,19030606.0,9015538
+rec-1435-org,jarod,netherton,alroy circuit,berkeley village,warnbro,2615,qld,19180213.0,7763016
+rec-851-org,aleisha,chandler,constitution avenue,cohors,ballarat,4034,vic,19540205.0,4168925
+rec-938-org,ella,petersen,burnie street,,sheidow park,2200,nsw,19130602.0,4749091
+rec-1418-org,ewan,wittchen,barnett close,ronobri,bonnells bay,2295,vic,19920618.0,9662319
+rec-669-org,hamish,ryan,bonney street,villa 127,adamstown,2224,nsw,19161128.0,8439607
+rec-593-org,olivia,blackwell,barton highway,rowethorpe,artarmon,2229,qld,19641223.0,9582758
+rec-1461-org,juliana,mccarthy,aroona court,nioka,gowrie,2705,vic,19461112.0,1699294
+rec-865-org,tanar,george,britten-jones drive,roskhill,torquay,3031,nsw,,5067972
+rec-1195-org,samuel,dixon,fitchett street,st agnes vlg,raby,3162,vic,19371028.0,9819631
+rec-584-org,chelsea,banasevich,grieve place,,gawler east,2400,sa,19400330.0,8359979
+rec-536-org,shelby,priest,arthaldo court,yaroonga,villawood,2170,qld,19890604.0,8049385
+rec-1291-org,natasha,stanley,gooreen street,treetops,dalby,2076,qld,19331015.0,7039195
+rec-180-org,raquel,beadle,albermarle place,hamilton central,auburn,6318,vic,19170312.0,5797844
+rec-1833-org,alexander,morrison,bugden avenue,kangaroo ground warrandy road,elimbah,3282,qld,19500420.0,2361933
+rec-1661-org,william,dent,namoi place,hartford,hawkesbury heights,3818,vic,19450321.0,3141181
+rec-1029-org,kylee,stephenson,rose scott circuit,cordoba manor,ashfield,4226,vic,19461101.0,4783085
+rec-1636-org,jayde,arkit,carlile street,tralee cottage,kempsey,2170,tas,19380522.0,7466463
+rec-435-org,madalyn,carmody,balfour crescent,kersey' south,dutson,6026,nsw,19490615.0,3827946
+rec-893-org,jacob,callahan,geeves court,wandoo stud,bayswater,2536,nsw,19931007.0,2283689
+rec-1532-org,,siemers,hopegood place,,auburn,5700,vic,19350122.0,2557455
+rec-1375-org,joshua,robson,windich street,indra,lansvale,6153,nsw,19770906.0,5573069
+rec-214-org,keaton,mccarthy,cathie place,lavender farm,westmead,2023,qld,19480330.0,9907131
+rec-1922-org,ruby,dixon,fisken crescent,post office road,ballarat north,3179,vic,19500713.0,2654777
+rec-579-org,belinda,blackwell,willcock place,sec 597,nedlands,2145,sa,19610102.0,4046672
+rec-1528-org,anton,miles,de little circuit,hamilton park,cooroy,4220,vic,19100212.0,9909697
+rec-1766-org,joel,tyner,corringle close,little shalford,yoogali,3018,wa,19831216.0,7644003
+rec-1458-org,lexie,scaturchio,marchant circuit,catumbel lodge,hoppers crossing,3106,qld,19460521.0,5088476
+rec-265-org,christian,highfield,moruya circuit,kyalla,belmont,4740,sa,19791112.0,3938235
+rec-870-org,benjamin,lock,hackett garden,plantation caravn park,port lincoln,2570,nsw,19831227.0,5021855
+rec-289-org,ainsley,blake,endeavour street,sheep station,redhead,7015,qld,19860920.0,1261880
+rec-1477-org,harry,bishop,tobin place,berkeley village,pearl beach,2565,vic,19091028.0,2328487
+rec-1378-org,imogen,filipov,freda bennett circuit,willandra,mount colah,3162,nsw,19780527.0,8125445
+rec-882-org,,white,parker street,moy,calliope,4514,sa,19430329.0,3459225
+rec-502-org,sarah,cionci,maccallum circuit,chateau royal,fish creek,6026,sa,19970102.0,7637145
+rec-937-org,jack,campbell,marr street,rhosewyn,oakleigh,3356,vic,19770109.0,1485686
+rec-1756-org,destynii,bowerman,halford crescent,sutton,nollamara,2431,qld,19880821.0,6089424
+rec-1444-org,gianni,dooley,ashburton circuit,brentwood vlge,ryde,6025,qld,19371212.0,5854405
