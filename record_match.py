@@ -99,6 +99,7 @@ def perform_record_linkage(input_path, source_path):
     # merged_df['date_of_birth'] = pd.to_datetime(merged_df[['YearB', 'MonthB', 'DayB']])
     merged_df['date_of_birth'] = merged_df.apply(lambda row: str(row['YearB']) + str(row['MonthB']).zfill(2) + str(row['DayB']).zfill(2), axis=1)
     merged_df.drop(columns=['YearB','MonthB', 'DayB', 'metaphone_given_name', 'metaphone_surname'], inplace=True)
+    merged_df = merged_df.rename(columns={'index': 'Input_Index'})
 
     print(merged_df)
 
@@ -111,7 +112,7 @@ def perform_record_linkage(input_path, source_path):
 
 
 
-st.title("Record Linkage App")
+st.title("Record Matching")
 
 # Upload source file
 source_file = st.file_uploader(
@@ -156,7 +157,7 @@ st.markdown(
     """
     <style>
     .stButton button {
-        background-color: black;
+        background-color: green;
         color: white;
     }
     # .centered {
@@ -228,5 +229,3 @@ if input_file and source_file:
             file_name="match_table.csv",
             mime="text/csv",
         )
-
-
