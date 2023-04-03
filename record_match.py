@@ -74,7 +74,7 @@ def perform_record_linkage(input_path, source_path):
     # set conditions for 'Match' column based on 'Value' column
     match_table.loc[match_table['prob'] > 0.8, 'Status'] = 'Duplicate'
     # df1.to_csv('master_table.csv')
-    match_table.loc[match_table['prob'] < 0.3, 'Status'] = 'Unsure'
+    #match_table.loc[match_table['prob'] < 0.3, 'Status'] = 'Unsure'
 
 
     input_ = input.reset_index()
@@ -94,13 +94,13 @@ def perform_record_linkage(input_path, source_path):
     # Append the new rows to merged_df
     merged_df = merged_df.append(new_rows, ignore_index=True)
     merged_df['Status'].fillna('Unique', inplace=True)
-    merged_df['prob'].fillna('-', inplace=True)
+    merged_df['prob'].fillna(0, inplace=True)
     merged_df.drop(columns=['input_index'], inplace=True)
     # merged_df['date_of_birth'] = pd.to_datetime(merged_df[['YearB', 'MonthB', 'DayB']])
-    merged_df['date_of_birth'] = merged_df.apply(lambda row: str(row['YearB']) + str(row['MonthB']).zfill(2) + str(row['DayB']).zfill(2), axis=1)
-    merged_df.drop(columns=['YearB','MonthB', 'DayB', 'metaphone_given_name', 'metaphone_surname'], inplace=True)
+    #merged_df['date_of_birth'] = merged_df.apply(lambda row: str(row['YearB']) + str(row['MonthB']).zfill(2) + str(row['DayB']).zfill(2), axis=1)
+    #merged_df.drop(columns=['YearB','MonthB', 'DayB', 'metaphone_given_name', 'metaphone_surname'], inplace=True)
     merged_df = merged_df.rename(columns={'index': 'Input_Index'})
-
+    merged_df = merged_df[['Input_Index', 'given_name', 'surname', 'Status', 'prob', 'rec_id']]
     print(merged_df)
 
     match_df = source_.loc[source_['rec_id'].isin(match_table['rec_id'])].reset_index(drop=True)
@@ -208,14 +208,14 @@ if input_file and source_file:
         value_counts = filtered_data['Status'].value_counts()
 
         # Create a pandas DataFrame from the counts
-        count_table = pd.DataFrame({'Value': value_counts.index, 'Count': value_counts.values})
+        count_table = pd.DataFrame({'Status': value_counts.index, 'Count': value_counts.values})
 
         # Display count table in Streamlit
-        st.write("Summary : ", count_table)
+        st.write("# Summary : ", count_table)
 
         # Show match table
-        st.write("# Processed Input Data")
-        st.dataframe(input_data)
+        # st.write("# Processed Input Data")
+        # st.dataframe(input_data)
         st.write("# Output Data")
         st.dataframe(merged_df)
         st.write("# Matched Data from Master Table")
@@ -229,3 +229,5 @@ if input_file and source_file:
             file_name="match_table.csv",
             mime="text/csv",
         )
+
+
